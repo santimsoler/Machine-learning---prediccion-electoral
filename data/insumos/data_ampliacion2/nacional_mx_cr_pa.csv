@@ -1,0 +1,27 @@
+pais,anio,vuelta,fecha,presidente_en_ejercicio,partido_oficialismo,candidato_oficialista,oficialismo_va_por_reeleccion,y_share_nacional,oficialismo_dudoso,nota,fuente,id_eleccion
+MX,1994,1,1994-08-21,Carlos Salinas (PRI),PRI,Ernesto Zedillo,0,50.13,0,,Wikipedia 1994 Mexican general election (IFE),MX-1994-PRES-1
+MX,2000,1,2000-07-02,Ernesto Zedillo (PRI),PRI,Francisco Labastida,0,36.89,0,,Wikipedia 2000 Mexican general election,MX-2000-PRES-1
+MX,2006,1,2006-07-02,Vicente Fox (PAN),PAN,Felipe Calderón,0,36.69,0,,Wikipedia 2006 Mexican general election,MX-2006-PRES-1
+MX,2012,1,2012-07-01,Felipe Calderón (PAN),PAN,Josefina Vázquez Mota,0,25.41,0,verificar: la página trae 26.03 (tabla con alianza) y 38.2 para Peña; IFE oficial PAN 25.41,IFE (valor de memoria; verificar),MX-2012-PRES-1
+MX,2018,1,2018-07-01,Enrique Peña Nieto (PRI),PRI,José Antonio Meade,0,16.88,0,,Wikipedia 2018 Mexican general election (INE),MX-2018-PRES-1
+MX,2024,1,2024-06-02,Andrés Manuel López Obrador (Morena),Morena,Claudia Sheinbaum,0,61.18,0,,Wikipedia 2024 Mexican general election,MX-2024-PRES-1
+CR,1990,1,1990-02-04,Óscar Arias (PLN),PLN,Carlos Manuel Castillo,0,47.2,0,,"TSE Costa Rica, Elecciones en cifras",CR-1990-PRES-1
+CR,1994,1,1994-02-06,Rafael Á. Calderón (PUSC),PUSC,Miguel Á. Rodríguez,0,47.74,0,,TSE,CR-1994-PRES-1
+CR,1998,1,1998-02-01,José M. Figueres (PLN),PLN,José Miguel Corrales,0,44.56,0,,TSE,CR-1998-PRES-1
+CR,2002,1,2002-02-03,Miguel Á. Rodríguez (PUSC),PUSC,Abel Pacheco,0,38.58,0,,TSE,CR-2002-PRES-1
+CR,2002,2,2002-04-07,Miguel Á. Rodríguez (PUSC),PUSC,Abel Pacheco,0,58.0,0,,TSE,CR-2002-PRES-2
+CR,2006,1,2006-02-05,Abel Pacheco (PUSC),PUSC,Ricardo Toledo,0,3.55,0,,TSE,CR-2006-PRES-1
+CR,2010,1,2010-02-07,Óscar Arias (PLN),PLN,Laura Chinchilla,0,46.91,0,,TSE,CR-2010-PRES-1
+CR,2014,1,2014-02-02,Laura Chinchilla (PLN),PLN,Johnny Araya,0,29.71,0,,TSE,CR-2014-PRES-1
+CR,2014,2,2014-04-06,Laura Chinchilla (PLN),PLN,Johnny Araya,0,22.2,1,Araya se retiró del balotaje pero siguió en la boleta,TSE,CR-2014-PRES-2
+CR,2018,1,2018-02-04,Luis G. Solís (PAC),PAC,Carlos Alvarado,0,21.63,0,,TSE,CR-2018-PRES-1
+CR,2018,2,2018-04-01,Luis G. Solís (PAC),PAC,Carlos Alvarado,0,60.6,0,,TSE,CR-2018-PRES-2
+CR,2022,1,2022-02-06,Carlos Alvarado (PAC),PAC,Welmer Ramos,0,0.66,0,PAC no llegó al balotaje,TSE,CR-2022-PRES-1
+CR,2026,1,2026-02-01,"Rodrigo Chaves (PPSD, no reelegible)",PPSO (apoyo explícito de Chaves),Laura Fernández,0,48.3,1,Partido oficialista PPSO distinto del PPSD de 2022; apoyo explícito de Chaves a Fernández,Wikipedia mirror 2026 Costa Rican general election (TSE),CR-2026-PRES-1
+PA,1994,1,1994-05-08,Guillermo Endara (Solidaridad/ADOC),Solidaridad,Samuel Lewis Galindo,0,1.73,1,Oficialista dudoso: la fuente llama Arnulfista/Panameñista al partido de Endara (Moscoso 29.09),Wikipedia 1994 Panamanian general election,PA-1994-PRES-1
+PA,1999,1,1999-05-02,Ernesto Pérez Balladares (PRD),PRD,Martín Torrijos,0,37.82,0,,Wikipedia 1999 Panamanian general election,PA-1999-PRES-1
+PA,2004,1,2004-05-02,Mireya Moscoso (Arnulfista),Arnulfista,José Miguel Alemán,0,16.38,0,,Wikipedia 2004 Panamanian general election,PA-2004-PRES-1
+PA,2009,1,2009-05-03,Martín Torrijos (PRD),PRD,Balbina Herrera,0,37.65,0,,Wikipedia 2009 Panamanian general election,PA-2009-PRES-1
+PA,2014,1,2014-05-04,Ricardo Martinelli (CD),CD,José Domingo Arias,0,31.38,0,,Wikipedia 2014 Panamanian general election,PA-2014-PRES-1
+PA,2019,1,2019-05-05,Juan Carlos Varela (Panameñista),Panameñista,José Blandón,0,10.84,0,,Wikipedia 2019 Panamanian general election,PA-2019-PRES-1
+PA,2024,1,2024-05-05,Laurentino Cortizo (PRD),PRD,José Gabriel Carrizo,0,5.88,0,,Wikipedia 2024 Panamanian general election,PA-2024-PRES-1

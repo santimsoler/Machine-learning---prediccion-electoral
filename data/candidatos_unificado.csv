@@ -1,0 +1,659 @@
+id_eleccion,pais,anio,vuelta,candidato_o_formula,partido_o_coalicion,votos_nacionales,share_nacional_pct,es_oficialismo,va_por_reeleccion,notas,e_cont,e_ord,e_n_fuentes,e_fuentes,s_cont,s_ord,s_n_fuentes,s_fuentes,nivel_evidencia,match_score
+AR-1983-PRES-1,AR,1983,1,,Acción Chubutense,2640,0.018,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Alianza Popular,2568,0.017,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Alianza Salteña,3089,0.021,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Bloquista,58038,0.389,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Catamarqueño,4464,0.03,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Conservador Popular,13,0.0,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Conservador Principista,3000,0.02,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Cruzada Renovadora,5539,0.037,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,De Centro,1592,0.011,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Defensa Provincial,264,0.002,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Demócrata Progresista,1926,0.013,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Demócrata de Catamarca,401,0.003,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,La Voz del Pueblo,2735,0.018,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Línea Popular,4044,0.027,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimiento Federalista Pampeano,15298,0.102,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimiento Línea Popular,3074,0.021,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimiento Nacionalista,394,0.003,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimiento Popular Neuquino,30546,0.205,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimiento Popular Salteño,3197,0.021,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimiento de Unidad Chaqueña,2853,0.019,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Movimineto Popular Jujeño,22303,0.149,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Pacto Autonomista Liberal,104052,0.697,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Para la Democracia Social,257,0.002,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Provincial Rionegrino,1113,0.007,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Renovador de Salta,18844,0.126,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Renovador de la Provincia,448,0.003,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Socialismo Auténtico,54,0.0,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Socialista,2289,0.015,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Socialista Auténtico,531,0.004,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Tres Banderas,22583,0.151,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Unión Popular,934,0.006,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,,Vanguardia Federal,12373,0.083,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,ALENDE - VIALE,Intransigente,347654,2.329,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,ALFONSÍN - MARTÍNEZ,Unión Cívica Radical,1305527,8.746,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+AR-1983-PRES-1,AR,1983,1,ALFONSÍN – MARTÍNEZ,Union Civica Radical,61173,0.41,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+AR-1983-PRES-1,AR,1983,1,ALFONSÍN – MARTÍNEZ,Unión Cívica Radical,6357859,42.592,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+AR-1983-PRES-1,AR,1983,1,ALSOGARAY - ORIA,Alianza Confederación Nacional de Centro,4423,0.03,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,ALSOGARAY - ORIA,Confederación Nacional de Centro,4313,0.029,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,ALSOGARAY - ORIA,Unión del Centro Democrático,52526,0.352,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,CERRO - PONSATI,Demócrata Cristiano,46544,0.312,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,ESTEVÉZ BOERO - ROSSI,Socialista Popular,21011,0.141,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,FLORES - GUAGNINI,Obrero,13067,0.088,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,FRIGERIO - SALONIA,Movimiento de Integracion y Desarrollo,1421,0.01,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,FRIGERIO - SALONIA,Movimiento de Integración y Desarrollo,176005,1.179,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,LUDER - BITTEL,Justicialista,5995402,40.163,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1983-PRES-1,AR,1983,1,MANRIQUE - RAWSON,Alianza Federal,59045,0.396,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MANRIQUE - RAWSON,Demócrata,12232,0.082,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MANRIQUE - RAWSON,Demócrata de Entre Ríos - Movimiento Línea Popular - Federal,7952,0.053,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MANRIQUE - RAWSON,Demócrata de Mendoza,17192,0.115,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MANRIQUE - RAWSON,Federal,7542,0.051,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MANRIQUE - RAWSON,Movimiento Línea Popular,151,0.001,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MARTINES RAYMONDA - BALESTRA,Alianza Demócrata Socialista,129,0.001,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,MARTÍNEZ RAYMONDA - BALESTRA,Alianza Demócrata Socialista,47563,0.319,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,0.5
+AR-1983-PRES-1,AR,1983,1,MARTÍNEZ RAYMONDA - BALESTRA,Demócrata Progresista,301,0.002,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,0.5
+AR-1983-PRES-1,AR,1983,1,MARTÍNEZ RAYMONDA - BALESTRA,Socialista Democratico,138,0.001,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,0.5
+AR-1983-PRES-1,AR,1983,1,MARTÍNEZ RAYMONDA - BALESTRA,Socialista Democrático,127,0.001,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,0.5
+AR-1983-PRES-1,AR,1983,1,RAMOS - COLOMBO,Frente de Izquierda Popular,14093,0.094,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,RAMOS - COLOMBO,Socialista Popular,166,0.001,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1983-PRES-1,AR,1983,1,ZAMORA - DÍAZ,Movimiento al Socialismo,42500,0.285,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Acción Chaqueña,19831,0.118,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Alianza Bloquista,27004,0.161,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Auténtico Formoseño,181,0.001,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,"Azul, Lealtad, Restauración",7287,0.044,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Cruzada Renovadora,11236,0.067,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,De la Independencia,4083,0.024,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,De la Liberación,1851,0.011,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,De los Jubilados,2340,0.014,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Defensa Provincial Bandera Blanca,651,0.004,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Del Trabajo y del Pueblo,2770,0.017,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Demócrata,2487,0.015,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Demócrata Liberal - Movimiento Popular Provincial,2327,0.014,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Desarrollo,557,0.003,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Frente Renovador,1281,0.008,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Frente Unión Autonomista,973,0.006,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Justicia Social,1147,0.007,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Movimiento Democrático Popular Antiimperialista,1345,0.008,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Movimiento Nacionalista,245,0.001,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Movimiento Popular Fueguino,472,0.003,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Movimiento Popular Neuquino,35466,0.212,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Movimiento Unidad Renovadora,7661,0.046,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Pacto Autonomista Liberal - Demócrata Progresista - Movimiento Liberación Popular,106774,0.637,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Socialista,3600,0.021,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Socialista Obrero para la Liberación,2715,0.016,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Tradición y Coherencia,1181,0.007,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Unificación Populista,243,0.001,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,,Unión Provincial,966,0.006,0.0,,"lista provincial sin fórmula presidencial propia (colegio electoral); los votos pueden sumarse a otra fórmula, a revisar",,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,ACCIÓN PROVINCIANA,Acción Provinciana,838,0.005,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,ALSOGARAY - NATALE,Alianza de Centro,1042563,6.225,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,2.0,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ALSOGARAY - NATALE,Alianza de Centro - Demócrata Progresista - Unión del Centro Democrático,1498,0.009,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,2.0,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ALSOGARAY - NATALE,Unión Del Centro Democrático,4600,0.027,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,2.0,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ALSOGARAY - NATALE,Unión del Centro Democrático,21242,0.127,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,2.0,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ALSOGARAY - NATALE,Unión del Centro Democrático - Demócrata Progresista,1476,0.009,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,2.0,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ALSOGARAY – NATALE,Unión del Centro Democrático,22019,0.131,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,2.0,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ALTAMIRA - FLORES,Obrero,45763,0.273,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,AMMANN - MÉNDEZ,Frente Humanista - Verde,42316,0.253,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - CASELLA,Alianza Unión Cívica Radical - Movilización - Movimiento Popular Catamarqueño,50970,0.304,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - CASELLA,Confederación Federalista Independiente,448293,2.677,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - CASELLA,Confederación Federalista Independiente - Unión Cívica Radical,107586,0.642,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - CASELLA,Unión Cívica Radical,3343451,19.962,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - CASELLA,Unión Cívica Radical - Alianza Confederación Federalista Independiente - Federal,747049,4.46,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - CASELLA,Unión Cívica Radical - Confederación Federalista Independiente,1504814,8.984,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-1989-PRES-1,AR,1989,1,ANGELOZ - GUZMÁN,Federal,11054,0.066,1.0,0.0,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,0.56,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,0.5
+AR-1989-PRES-1,AR,1989,1,BUSSI - ÁLVAREZ,Fuerza Republicana,185036,1.105,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,BUSTELO - HERNÁNDEZ,Acción Popular,4773,0.028,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,BUSTELO - HERNÁNDEZ,Acuerdo Popular,1324,0.008,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,CORZO GÓMEZ - HOUSSAY,Blanco de los Jubilados,3596,0.021,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,CORZO GÓMEZ- HOUSSAY,Blanco de los Jubilados,312004,1.863,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,ESTÉVEZ BOERO - BRAVO,Alianza Unidad Socialista,218950,1.307,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,ESTÉVEZ BOERO - BRAVO,Socialista Democrático,1746,0.01,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,ESTÉVEZ BOERO - BRAVO,Socialista Popular,15836,0.095,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,MENEM - DUHALDE,Alianza Frente Justicialista de Unidad Popular,228388,1.364,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-0.98,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1989-PRES-1,AR,1989,1,MENEM - DUHALDE,Frente Corriente Renovadora - Alianza Frente Justicialista de Unidad Popular,196916,1.176,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-0.98,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1989-PRES-1,AR,1989,1,MENEM – DUHALDE,Alianza Frente Justicialista de Unidad Popular,7267482,43.39,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-0.98,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1989-PRES-1,AR,1989,1,MENEM – DUHALDE,Frente Justicialista Popular,261405,1.561,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,-0.98,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1989-PRES-1,AR,1989,1,SOCIALISTA AUTÉNTICO,Socialista Auténtico,216,0.001,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1989-PRES-1,AR,1989,1,VICENTE - ZAMORA,Alianza Izquierda Unida,409250,2.443,0.0,,misma fórmula aparece en varias alianzas provinciales: agregar por fórmula,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Alianza Frente Unidad Trabajadora - Obrero,4333,0.025,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Alianza Frente Unidad Trabajadores - Obrero,590,0.003,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Alianza Frente Unidad de los Trabajadores,412,0.002,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Alianza Frente Unidad de los Trabajadores - Obrero,21222,0.122,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Frente Unidad Trabajadora,507,0.003,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Frente Unidad Trabajadora - Obrero,1176,0.007,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Frente Unidad de los Trabajadores - Obrero,1270,0.007,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ALTAMIRA - MOLLE,Obrero,2789,0.016,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,BORDÓN - ÁLVAREZ,Alianza Cruzada Frente Grande - Frente País,85693,0.493,0.0,,,-0.79,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,BORDÓN - ÁLVAREZ,Alianza Frente País Solidario,4584154,26.353,0.0,,,-0.79,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,BORDÓN - ÁLVAREZ,Alianza Frente País Solidario - Frente Grande,121999,0.701,0.0,,,-0.79,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,BORDÓN - ÁLVAREZ,Alianza Frente País Solidario - Movimiento de Izquierda,72284,0.416,0.0,,,-0.79,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,BORDÓN - ÁLVAREZ,Frente País Solidario,231974,1.334,0.0,,,-0.79,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,CHRISTIANSEN - MONTE,Movimiento al Socialismo – De los Trabajadores Socialistas,331,0.002,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,CHRISTIANSEN - MONTES,Alianza Movimiento al Socialismo - De los Trabajadores Socialistas - Frente Obrero y Socialista,1001,0.006,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,CHRISTIANSEN - MONTES,Alianza Movimiento al Socialismo - Frente Obrero Socialista - De los Trabajadores Socialistas,99,0.001,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,CHRISTIANSEN - MONTES,Movimiento al Socialismo - De los Trabajadores Socialistas - Frente Obrero,333,0.002,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,CHRISTIANSEN - MONTES,Movimiento al Socialismo – De los Trabajadores Socialistas,25879,0.149,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,LÓPEZ DE ZAVALÍA - BENEJAM,Fuerza Republicana,64007,0.368,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Alianza Unión Cívica Radical - Alianza del Pueblo,157112,0.903,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Alianza Unión Cívica Radical - Alianza para la Patagonia,84172,0.484,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Alianza Unión Cívica Radical - Movimiento de Integración y Desarrollo,57082,0.328,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Unión Cívica Radical,2042574,11.742,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Unión Cívica Radical - Federal - Movimiento de Integración y Desarrollo,451719,2.597,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Unión Cívica Radical - Frente Cívico y Social,65179,0.375,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Unión Cívica Radical - Movimiento de Integración y Desarrollo,78354,0.45,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MASSACCESI - HERNÁNDEZ,Unión Cívica Radical- Frente Solidario Riojano,19945,0.115,0.0,,,-0.28,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MAZZITELLI - FONSECA,Socialismo Auténtico,32174,0.185,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Alianza Frente Justicialista,265778,1.528,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Alianza Frente Justicialista - Unión del Centro Democrático,165517,0.952,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Alianza Frente Justicialista Entrerriano,272819,1.568,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Alianza Frente Justicialista Popular - Bloquista,167205,0.961,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Alianza Frente para el Cambio,99230,0.57,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Frente Justicialista - Renovador de Salta - Unión del Centro Democrático,209291,1.203,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Frente Justicialista Popular,180571,1.038,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Frente Justicialista Popular - Movimiento Popular Jujeño - Unión del Centro Democrático - Movimiento por la Autonomía Política Jujeña,101642,0.584,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Frente de la Esperanza - Unión del Centro Democrático,262554,1.509,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Justicialista,3824169,21.984,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Justicialista - Movimiento de Acción Chubutense - Unión del Centro Democrático,95228,0.547,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Justicialista - Unión del Centro Democrático,1228709,7.063,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Justicialista - Unión del Centro Democrático - Federal - Frente Recuperación Ética,842365,4.842,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM - RUCKAUF,Justicialista - Unión del Centro Democrático - Frente de los Jubilados,744576,4.28,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MENEM – RUCKAUF,Justicialista - Unión del Centro Democrático -  Acción Chaqueña,227857,1.31,1.0,1.0,,1.64,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1995-PRES-1,AR,1995,1,MÉNDEZ - AMBROSIO,Humanista,31203,0.179,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,PAZ - GONZÁLEZ CHÁVEZ,Alianza Frente para la Coincidencia Patriótica,3147,0.018,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,RICO - FERNÁNDEZ PEZZANO,De la Independencia,3161,0.018,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,RICO - FERNÁNDEZ PEZZANO,Fuerza Republicana,15602,0.09,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,RICO - FERNÁNDEZ PEZZANO,Movimiento por la Dignidad y la Independencia,291306,1.675,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,SANTUCHO - ANTOGNAZZI,Movimiento Democrático Popular Antiimperialista,12882,0.074,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,SANTUCHO - ANTOGNAZZI,Solidaridad - Movimiento Democrático Popular Antiimperialista,184,0.001,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,SOLANAS - IMIZCOZ,Alianza Sur,68850,0.396,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,SOLANAS - IMIZCOZ,Alianza Sur - Del Trabajo y del Pueblo,2418,0.014,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,SOLANAS - IMIZCOZ,Del Trabajo y del Pueblo,357,0.002,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,TUMINI - REYNA,Corriente Patria Libre,24326,0.14,0.0,,,,,,,,,,,,
+AR-1995-PRES-1,AR,1995,1,ZAMORA - DÍAZ,Movimiento Socialista de los Trabajadores,45973,0.264,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,ALTAMIRA - RIEZNIK,Obrero,113916,0.601,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,CAVALLO - CARO FIGUEROA,Acción por la República,1731675,9.136,0.0,,,1.68,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,CAVALLO - CARO FIGUEROAO,Acción por la República - Unión del Centro Democrático,205869,1.086,0.0,,,1.68,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,0.67
+AR-1999-PRES-1,AR,1999,1,DE LA RÚA - ÁLVAREZ,"Alianza para el Trabajo, la Justicia y la Educación",7637857,40.297,0.0,,,-0.14,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DE LA RÚA - ÁLVAREZ,"Alianza para el Trabajo, la Justicia y la Educación - Alianza Pacto Autonomista Liberal Demócrata Progresista",205831,1.086,0.0,,,-0.14,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DE LA RÚA - ÁLVAREZ,"Alianza para el Trabajo, la Justicia y la Educación - Alianza por San Juan",172452,0.91,0.0,,,-0.14,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DE LA RÚA - ÁLVAREZ,"Alianza para el Trabajo, la Justicia y la Educación - Demócrata Progresista",901300,4.755,0.0,,,-0.14,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DE LA RÚA - ÁLVAREZ,"Alianza para el Trabajo, la Justicia y la Educación - Frente de Todos",249780,1.318,0.0,,,-0.14,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio,1593872,8.409,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Alianza Frente de Integración Federal - Unión del Centro Democrático,467068,2.464,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Alianza Justicialista - Federal,171435,0.904,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Alianza Unidos por un Nuevo Chaco - Frente de Integración Federal - Nacionalista Constitucional,175541,0.926,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Conservador Popular,536184,2.829,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Frente Unidos por Catamarca,70144,0.37,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Nuevo,187054,0.987,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Todo por Entre Ríos,263967,1.393,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,DUHALDE - ORTEGA,Alianza Concertación Justicialista para el Cambio - Unión del Centro Democrático,3788637,19.989,1.0,0.0,,-0.57,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-1999-PRES-1,AR,1999,1,MONTES - HERNÁNDEZ,De los Trabajadores Socialistas,44551,0.235,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,MUSSA - HERRERA,Alianza Social Cristiana,53143,0.28,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,MÉNDEZ - POMP,Humanista,451,0.002,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,MÉNDEZ - POMPEI,Humanista,131360,0.693,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,QUARRACINO - REARTE,Socialista Auténtico,43147,0.228,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,REYNA - MOCCIA,Alianza Frente de la Resistencia,9920,0.052,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,REYNA - MOCCIA,Alianza Frente de la Resistencia - Corriente Patria Libre,2390,0.013,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,REYNA - MOCCIA,Frente de la Resistencia,44183,0.233,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,WALSH - DE LEONARDI,Alianza Izquierda Unida,145579,0.768,0.0,,,,,,,,,,,,
+AR-1999-PRES-1,AR,1999,1,WALSH - DE LEONARDI,Alianza Izquierda Unida - Comunista,6398,0.034,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,ALTAMIRA - SALAS,Obrero,139402,0.719,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,ARCAGNI - ZENOF,Alianza Tiempos de Cambio,17,0.0,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,ARCAGNI - ZENOF,Alianza Tiempos de Cambio - Unión Popular,63369,0.327,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,BRAVO - GIUSTINIANI,Socialista,217387,1.121,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,BREIDE OBEID - VASENA,Popular de la Reconstrucción,38617,0.199,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,BREIDE OBEID -VASENA,Popular de la Reconstrucción,3844,0.02,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,CARRIÓ - GUTIÉRREZ,Alianza Afirmación para una República Igualitaria,2667456,13.758,0.0,,,-0.85,-1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2003-PRES-1,AR,2003,1,CARRIÓ - GUTIÉRREZA,Alianza Afirmación para una República Igualitaria,55751,0.288,0.0,,,-0.85,-1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,0.5
+AR-2003-PRES-1,AR,2003,1,HERRERA - CÚNEO,Demócrata Cristiano,47755,0.246,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,KIRCHNER - SCIOLI,Alianza Frente para la Victoria,4313131,22.246,1.0,0.0,,-0.89,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+AR-2003-PRES-1,AR,2003,1,LÓPEZ MURPHY - GÓMEZ DIEZ,Alianza Movimiento Federal para Recrear el Crecimiento,3173584,16.368,0.0,,,1.72,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2003-PRES-1,AR,2003,1,MAZZITELLI - CAMPS,Confederación para que se vayan todos,0,0.0,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,MAZZITELLI - CAMPS,Socialista Auténtico,50303,0.259,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,MENEM - ROMERO,Alianza Frente por la Lealtad - Unión del Centro Democrático,4741202,24.453,0.0,,,1.47,2.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2003-PRES-1,AR,2003,1,MOREAU - LOSADA,Unión Cívica Radical,453373,2.338,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,MUSSA - SUÁREZ,Alianza Unidos o Dominados,39505,0.204,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,RODRÍGUEZ SAÁ - POSSE,Alianza Frente Movimiento Popular - Unión y Libertad,1708456,8.812,0.0,,,-0.2,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2003-PRES-1,AR,2003,1,RODRÍGUEZ SAÁ- POSSE,Alianza Frente Movimiento Popular - Unión y Libertad,1027635,5.3,0.0,,,-0.2,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2003-PRES-1,AR,2003,1,SULLING - AMBROSIO,Humanista,105705,0.545,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,TERÁN - BONACCI,Movimiento por la Dignidad y la Independencia,31766,0.164,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,VENTURINO - PINTO KRAMER,Confederación para que se vayan todos,129782,0.669,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,WALSH - PARRILLI,Alianza Izquierda Unida,332703,1.716,0.0,,,,,,,,,,,,
+AR-2003-PRES-1,AR,2003,1,ZAFFORE - PERIE,Movimiento de Integración y Desarrollo,47954,0.247,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,AMMANN - DELEONARDI,Alianza Frente Amplio hacia la Unidad Latinoamericana,69787,0.365,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,BREIDE OBEID - VERGARA,Popular de la Reconstrucción,45318,0.237,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,CARRIÓ - GIUSTINIANI,Alianza Confederación Coalición Cívica,4403642,23.047,0.0,,,-0.82,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2007-PRES-1,AR,2007,1,CASTELLS - PELOZO,Movimiento Independiente de Jubilados y Desocupados,48878,0.256,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,FERNÁNDEZ DE KIRCHNER - COBOS,Alianza Frente para la Victoria,8652293,45.283,1.0,0.0,,-1.19,-1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2007-PRES-1,AR,2007,1,LAVAGNA - MORALES,Alianza Concertación para una Nación Avanzada,3230236,16.906,0.0,,,-0.17,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-2007-PRES-1,AR,2007,1,LÓPEZ MURPHY - BULLRICH,Recrear para el Crecimiento,273406,1.431,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,MONTES - HEBERLING,Alianza Frente de los Trabajadores Socialistas - Movimiento al Socialismo - Izquierda Socialista,84494,0.442,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,MONTES - HEBERLING,Frente De Izquierda,200,0.001,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,MUSSA - NESPRAL,Confederación Lealtad Popular,10558,0.055,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,PITROLA - ARROYOS,Obrero,116688,0.611,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,RIPOLL - BIDONDE,Movimiento Socialista de los Trabajadores,142528,0.746,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,RODRÍGUEZ SAÁ - MAYA,"Alianza Frente Justicia, Unión y Libertad",1459174,7.637,0.0,,,0.67,1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2007-PRES-1,AR,2007,1,SOBISCH - ASÍS,El Movimiento de las Provincias Unidas - Unión Popular - Movimiento de Acción Vecinal - Movimiento por la Dignidad y la Independencia,209617,1.097,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,SOBISCH - ASÍS,El Movimiento de las Provincias Unidas - Unión Popular - Movimiento de Acción Vecinal - Unión Popular,7012,0.037,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,SOBISCH - ASÍS,El Movimiento de las Provincias Unidas - Unión Popular - Movimiento por la Dignidad y la Independencia,490,0.003,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,SOBISCH - ASÍS,El Movimiento de las Provincias Unidas - Unión Popular - Movimiento por la Dignidad y la Independencia - Movimiento Independiente de Jubilados y Desocupados,51282,0.268,0.0,,,,,,,,,,,,
+AR-2007-PRES-1,AR,2007,1,SOLANAS - CADELLI,Socialista Auténtico,301537,1.578,0.0,,,,,,,,,,,,
+AR-2011-PRES-1,AR,2011,1,ALFONSÍN - GONZÁLEZ FRAGA,Alianza Unión para el Desarrollo Social,2443016,11.141,0.0,,,-0.89,-1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-2011-PRES-1,AR,2011,1,ALMARIRA - CASTILLO,Alianza Frente de Izquierda y de los Trabajadores,13363,0.061,0.0,,,,,,,,,,,,
+AR-2011-PRES-1,AR,2011,1,ALTAMIRA - CASTILLO,Alianza Frente de Izquierda y de los Trabajadores,181710,0.829,0.0,,,,,,,,,,,,
+AR-2011-PRES-1,AR,2011,1,ALTAMIRA- CASTILLO,Alianza Frente de Izquierda y de los Trabajadores,308299,1.406,0.0,,,,,,,,,,,,
+AR-2011-PRES-1,AR,2011,1,BINNER - MORANDINI,Alianza Frente Amplio Progresista,3684970,16.805,0.0,,,-0.8,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-2011-PRES-1,AR,2011,1,CARRIÓ - PÉREZ,Coalición Cívica - Afirmación para una República Igualitaria,399685,1.823,0.0,,,,,,,,,,,,
+AR-2011-PRES-1,AR,2011,1,DUHALDE - DAS NEVES,Alianza Frente Popular,1285830,5.864,0.0,,,-0.72,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-2011-PRES-1,AR,2011,1,FERNÁNDEZ DE KIRCHNER - BOUDOU,Alianza Frente para la Victoria,11865055,54.111,1.0,1.0,,-0.9,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+AR-2011-PRES-1,AR,2011,1,RODRÍGUEZ SAÁ - VERNET,Alianza Compromiso Federal,1745354,7.96,0.0,,,-0.58,-1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-2015-PRES-1,AR,2015,1,Mauricio Macri - Gabriela Michetti,ALIANZA CAMBIEMOS,8601131,34.153,0.0,,nombre: Wikipedia (en) 2015 Argentine general election,0.67,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2015-PRES-1,AR,2015,1,Adolfo Rodríguez Saá - Liliana Negre de Alonso,ALIANZA COMPROMISO FEDERAL,412578,1.638,0.0,,nombre: Wikipedia (en) 2015 Argentine general election,,,,,,,,,,
+AR-2015-PRES-1,AR,2015,1,Nicolás del Caño - Myriam Bregman,ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES,812530,3.226,0.0,,nombre: Wikipedia (en) 2015 Argentine general election,-2.0,-2.0,1.0,juicio,-2.0,-2.0,1.0,juicio,conocimiento_general_verificar,1.0
+AR-2015-PRES-1,AR,2015,1,Daniel Scioli - Carlos Zannini,ALIANZA FRENTE PARA LA VICTORIA,9338490,37.081,1.0,0.0,nombre: Wikipedia (en) 2015 Argentine general election,-0.73,-1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2015-PRES-1,AR,2015,1,Margarita Stolbizer - Miguel Ángel Olaviaga,ALIANZA PROGRESISTAS,632551,2.512,0.0,,nombre: Wikipedia (en) 2015 Argentine general election,,,0.0,,,,0.0,,,1.0
+AR-2015-PRES-1,AR,2015,1,Sergio Massa - Gustavo Sáenz,ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA (UNA),5386977,21.39,0.0,,nombre: Wikipedia (en) 2015 Argentine general election,0.79,1.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2015-PRES-2,AR,2015,2,Mauricio Macri - Gabriela Michetti,ALIANZA CAMBIEMOS,12988349,51.342,0.0,,nombre: Wikipedia (en) 2015 Argentine general election,0.67,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2015-PRES-2,AR,2015,2,Daniel Scioli - Carlos Zannini,ALIANZA FRENTE PARA LA VICTORIA,12309575,48.658,1.0,0.0,nombre: Wikipedia (en) 2015 Argentine general election,-0.73,-1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2019-PRES-1,AR,2019,1,Roberto Lavagna - Juan Manuel Urtubey,CONSENSO FEDERAL,1649322,6.145,0.0,,"nombre: AS/COA, explainer fórmulas 2019 (9-jul-2019)",-0.1,0.0,3.0,juicio+ches+manifesto,0.33,0.0,2.0,juicio+ches,fuente_citada,1.0
+AR-2019-PRES-1,AR,2019,1,Nicolás del Caño - Romina del Plá,FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD,579228,2.158,0.0,,"nombre: AS/COA, explainer fórmulas 2019 (9-jul-2019)",,,,,,,,,,
+AR-2019-PRES-1,AR,2019,1,Alberto Fernández - Cristina Fernández de Kirchner,FRENTE DE TODOS,12946037,48.237,0.0,,"nombre: AS/COA, explainer fórmulas 2019 (9-jul-2019)",-0.87,-1.0,3.0,juicio+ches+manifesto,-0.72,-1.0,2.0,juicio+ches,fuente_citada,1.0
+AR-2019-PRES-1,AR,2019,1,Juan José Gómez Centurión - Cynthia Hotton,FRENTE NOS,457956,1.706,0.0,,"nombre: AS/COA, explainer fórmulas 2019 (9-jul-2019)",,,,,,,,,,
+AR-2019-PRES-1,AR,2019,1,Mauricio Macri - Miguel Ángel Pichetto,JUNTOS POR EL CAMBIO,10811586,40.284,1.0,1.0,"nombre: AS/COA, explainer fórmulas 2019 (9-jul-2019)",0.89,1.0,3.0,juicio+ches+manifesto,0.27,0.0,2.0,juicio+ches,conocimiento_general_verificar,1.0
+AR-2019-PRES-1,AR,2019,1,José Luis Espert - Luis Rosales,UNITE POR LA LIBERTAD Y LA DIGNIDAD,394207,1.469,0.0,,"nombre: AS/COA, explainer fórmulas 2019 (9-jul-2019)",,,,,,,,,,
+AR-2023-PRES-1,AR,2023,1,Myriam Bregman - Nicolás del Caño,FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD,709932,2.7,0.0,,nombre: La Nación 23-jun-2023 (fórmulas confirmadas),-2.0,-2.0,1.0,juicio,-2.0,-2.0,1.0,juicio,fuente_citada,1.0
+AR-2023-PRES-1,AR,2023,1,Juan Schiaretti,HACEMOS POR NUESTRO PAIS,1784315,6.787,0.0,,nombre: La Nación 23-jun-2023 (fórmulas confirmadas); vice de Schiaretti sin confirmar en la fuente,0.0,0.0,1.0,juicio,0.0,0.0,1.0,juicio,fuente_citada,1.0
+AR-2023-PRES-1,AR,2023,1,Patricia Bullrich - Luis Petri,JUNTOS POR EL CAMBIO,6267152,23.837,0.0,,nombre: La Nación 23-jun-2023 (fórmulas confirmadas),1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,fuente_citada,1.0
+AR-2023-PRES-1,AR,2023,1,Javier Milei - Victoria Villarruel,LA LIBERTAD AVANZA,7884336,29.988,0.0,,nombre: La Nación 23-jun-2023 (fórmulas confirmadas),2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+AR-2023-PRES-1,AR,2023,1,Sergio Massa - Agustín Rossi,UNION POR LA PATRIA,9645983,36.688,1.0,0.0,nombre: La Nación 23-jun-2023 (fórmulas confirmadas),-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+AR-2023-PRES-2,AR,2023,2,Javier Milei - Victoria Villarruel,LA LIBERTAD AVANZA,14476462,55.695,0.0,,nombre: La Nación 23-jun-2023 (fórmulas confirmadas),2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+AR-2023-PRES-2,AR,2023,2,Sergio Massa - Agustín Rossi,UNION POR LA PATRIA,11516142,44.305,1.0,0.0,nombre: La Nación 23-jun-2023 (fórmulas confirmadas),-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+BR-2002-PRES-1,BR,2002,1,CIRO,PPS,10170882,11.972,0.0,,,-0.76,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+BR-2002-PRES-1,BR,2002,1,GAROTINHO,PSB,15180097,17.869,0.0,,,-0.91,-1.0,3.0,juicio+vparty+manifesto,-0.03,1.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2002-PRES-1,BR,2002,1,JOSÉ SERRA,PSDB,19705445,23.196,1.0,0.0,,0.71,1.0,3.0,juicio+vparty+manifesto,-0.37,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2002-PRES-1,BR,2002,1,LULA,PT,39455233,46.444,0.0,,,-0.94,-1.0,3.0,juicio+vparty+manifesto,-1.41,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2002-PRES-1,BR,2002,1,RUI COSTA PIMENTA,PCO,38619,0.045,0.0,,,,,,,,,,,,
+BR-2002-PRES-1,BR,2002,1,ZÉ MARIA,PSTU,402236,0.473,0.0,,,,,,,,,,,,
+BR-2002-PRES-2,BR,2002,2,JOSÉ SERRA,PSDB,33370739,38.729,1.0,0.0,,0.71,1.0,3.0,juicio+vparty+manifesto,-0.37,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2002-PRES-2,BR,2002,2,LULA,PT,52793364,61.271,0.0,,,-0.94,-1.0,3.0,juicio+vparty+manifesto,-1.41,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2006-PRES-1,BR,2006,1,ANA MARIA RANGEL,PRP,126404,0.132,0.0,,,,,,,,,,,,
+BR-2006-PRES-1,BR,2006,1,CRISTOVAM BUARQUE,PDT,2538844,2.645,0.0,,,,,,,,,,,,
+BR-2006-PRES-1,BR,2006,1,GERALDO ALCKMIN,PSDB,39968369,41.635,0.0,,,0.71,1.0,3.0,juicio+vparty+manifesto,-0.34,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2006-PRES-1,BR,2006,1,HELOÍSA HELENA,PSOL,6575393,6.85,0.0,,,-2.0,-2.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+BR-2006-PRES-1,BR,2006,1,JOSÉ MARIA EYMAEL,PSDC,63294,0.066,0.0,,,,,,,,,,,,
+BR-2006-PRES-1,BR,2006,1,LUCIANO BIVAR,PSL,62064,0.065,0.0,,,,,,,,,,,,
+BR-2006-PRES-1,BR,2006,1,LULA,PT,46662365,48.608,1.0,1.0,,-0.89,-1.0,3.0,juicio+vparty+manifesto,-1.45,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2006-PRES-2,BR,2006,2,GERALDO ALCKMIN,PSDB,37543178,39.173,0.0,,,0.71,1.0,3.0,juicio+vparty+manifesto,-0.34,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2006-PRES-2,BR,2006,2,LULA,PT,58295042,60.827,1.0,1.0,,-0.89,-1.0,3.0,juicio+vparty+manifesto,-1.45,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2010-PRES-1,BR,2010,1,DILMA,PT,47651434,46.906,1.0,0.0,,-0.8,-1.0,3.0,juicio+vparty+manifesto,-0.95,0.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2010-PRES-1,BR,2010,1,EYMAEL,PSDC,89350,0.088,0.0,,,,,,,,,,,,
+BR-2010-PRES-1,BR,2010,1,IVAN PINHEIRO,PCB,39136,0.039,0.0,,,,,,,,,,,,
+BR-2010-PRES-1,BR,2010,1,JOSÉ SERRA,PSDB,33132283,32.614,0.0,,,0.65,1.0,3.0,juicio+vparty+manifesto,0.17,1.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2010-PRES-1,BR,2010,1,LEVY FIDELIX,PRTB,57960,0.057,0.0,,,,,,,,,,,,
+BR-2010-PRES-1,BR,2010,1,MARINA SILVA,PV,19636359,19.329,0.0,,,-0.11,0.0,2.0,juicio+manifesto,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+BR-2010-PRES-1,BR,2010,1,PLÍNIO,PSOL,886816,0.873,0.0,,,,,,,,,,,,
+BR-2010-PRES-1,BR,2010,1,RUI COSTA PIMENTA,PCO,12206,0.012,0.0,,,,,,,,,,,,
+BR-2010-PRES-1,BR,2010,1,ZÉ MARIA,PSTU,84609,0.083,0.0,,,,,,,,,,,,
+BR-2010-PRES-2,BR,2010,2,DILMA,PT,55752529,56.053,1.0,0.0,,-0.8,-1.0,3.0,juicio+vparty+manifesto,-0.95,0.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2010-PRES-2,BR,2010,2,JOSÉ SERRA,PSDB,43711388,43.947,0.0,,,0.65,1.0,3.0,juicio+vparty+manifesto,0.17,1.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2014-PRES-1,BR,2014,1,AÉCIO NEVES,PSDB,34897211,33.547,0.0,,,0.97,1.0,3.0,juicio+vparty+manifesto,-0.26,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2014-PRES-1,BR,2014,1,DILMA,PT,43267668,41.594,1.0,1.0,,-0.87,-1.0,3.0,juicio+vparty+manifesto,-0.99,0.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2014-PRES-1,BR,2014,1,EDUARDO JORGE,PV,630099,0.606,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,EYMAEL,PSDC,61250,0.059,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,LEVY FIDELIX,PRTB,446878,0.43,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,LUCIANA GENRO,PSOL,1612186,1.55,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,MARINA SILVA,PSB,22176619,21.319,0.0,,,-0.25,0.0,3.0,juicio+vparty+manifesto,-0.12,1.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2014-PRES-1,BR,2014,1,MAURO IASI,PCB,47845,0.046,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,PASTOR EVERALDO,PSC,780513,0.75,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,RUI COSTA PIMENTA,PCO,12324,0.012,0.0,,,,,,,,,,,,
+BR-2014-PRES-1,BR,2014,1,ZÉ MARIA,PSTU,91209,0.088,0.0,,,,,,,,,,,,
+BR-2014-PRES-2,BR,2014,2,AÉCIO NEVES,PSDB,51041155,48.361,0.0,,,0.97,1.0,3.0,juicio+vparty+manifesto,-0.26,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+BR-2014-PRES-2,BR,2014,2,DILMA,PT,54501118,51.639,1.0,1.0,,-0.87,-1.0,3.0,juicio+vparty+manifesto,-0.99,0.0,2.0,juicio+vparty,conocimiento_general_verificar,1.0
+BR-2018-PRES-1,BR,2018,1,ALVARO DIAS,PODE,859601,0.803,0.0,,,,,,,,,,,,
+BR-2018-PRES-1,BR,2018,1,CABO DACIOLO,PATRI,1348323,1.26,0.0,,,,,,,,,,,,
+BR-2018-PRES-1,BR,2018,1,CIRO GOMES,PDT,13344371,12.465,0.0,,,-0.67,-1.0,4.0,juicio+vparty+ches+manifesto,-0.93,-1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+BR-2018-PRES-1,BR,2018,1,EYMAEL,DC,41710,0.039,0.0,,,,,,,,,,,,
+BR-2018-PRES-1,BR,2018,1,FERNANDO HADDAD,PT,31342051,29.278,0.0,,,-1.38,-2.0,4.0,juicio+vparty+ches+manifesto,-1.41,-1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+BR-2018-PRES-1,BR,2018,1,GERALDO ALCKMIN,PSDB,5096350,4.761,0.0,,,0.8,1.0,4.0,juicio+vparty+ches+manifesto,-0.34,0.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+BR-2018-PRES-1,BR,2018,1,GUILHERME BOULOS,PSOL,617122,0.576,0.0,,,,,,,,,,,,
+BR-2018-PRES-1,BR,2018,1,HENRIQUE MEIRELLES,MDB,1288950,1.204,1.0,0.0,,,,,,,,,,,
+BR-2018-PRES-1,BR,2018,1,JAIR BOLSONARO,PSL,49277010,46.031,0.0,,,1.83,2.0,4.0,juicio+vparty+ches+manifesto,1.92,2.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+BR-2018-PRES-1,BR,2018,1,JOÃO AMOÊDO,NOVO,2679745,2.503,0.0,,,2.0,2.0,1.0,juicio,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+BR-2018-PRES-1,BR,2018,1,JOÃO GOULART FILHO,PPL,30176,0.028,0.0,,,2.0,2.0,1.0,juicio,0.0,0.0,1.0,juicio,conocimiento_general_verificar,0.5
+BR-2018-PRES-1,BR,2018,1,MARINA SILVA,REDE,1069578,0.999,0.0,,,,,,,,,,,,
+BR-2018-PRES-1,BR,2018,1,VERA,PSTU,55762,0.052,0.0,,,,,,,,,,,,
+BR-2018-PRES-2,BR,2018,2,FERNANDO HADDAD,PT,47040906,44.87,0.0,,,-1.38,-2.0,4.0,juicio+vparty+ches+manifesto,-1.41,-1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+BR-2018-PRES-2,BR,2018,2,JAIR BOLSONARO,PSL,57797847,55.13,0.0,,,1.83,2.0,4.0,juicio+vparty+ches+manifesto,1.92,2.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+BR-2022-PRES-1,BR,2022,1,CIRO GOMES,PDT,3599287,3.044,0.0,,,-0.74,-1.0,2.0,juicio+ches,-0.67,-1.0,2.0,juicio+ches,conocimiento_general_verificar,1.0
+BR-2022-PRES-1,BR,2022,1,CONSTITUINTE EYMAEL,DC,16604,0.014,0.0,,,,,,,,,,,,
+BR-2022-PRES-1,BR,2022,1,FELIPE D AVILA,NOVO,559708,0.473,0.0,,,,,,,,,,,,
+BR-2022-PRES-1,BR,2022,1,JAIR BOLSONARO,PL,51072345,43.198,1.0,1.0,,1.2,1.0,3.0,juicio+ches+manifesto,1.96,2.0,2.0,juicio+ches,manifesto_vparty_juicio,1.0
+BR-2022-PRES-1,BR,2022,1,LULA,PT,57259504,48.431,0.0,,,-0.83,-1.0,3.0,juicio+ches+manifesto,-1.13,-1.0,2.0,juicio+ches,manifesto_vparty_juicio,1.0
+BR-2022-PRES-1,BR,2022,1,LÉO PÉRICLES,UP,53519,0.045,0.0,,,,,,,,,,,,
+BR-2022-PRES-1,BR,2022,1,PADRE KELMON,PTB,81129,0.069,0.0,,,,,,,,,,,,
+BR-2022-PRES-1,BR,2022,1,SIMONE TEBET,MDB,4915423,4.158,0.0,,,0.17,0.0,3.0,juicio+ches+manifesto,0.14,0.0,2.0,juicio+ches,manifesto_vparty_juicio,1.0
+BR-2022-PRES-1,BR,2022,1,SOFIA MANZANO,PCB,45620,0.039,0.0,,,,,,,,,,,,
+BR-2022-PRES-1,BR,2022,1,SORAYA THRONICKE,UNIÃO,600955,0.508,0.0,,,,,,,,,,,,
+BR-2022-PRES-1,BR,2022,1,VERA,PSTU,25625,0.022,0.0,,,,,,,,,,,,
+BR-2022-PRES-2,BR,2022,2,JAIR BOLSONARO,PL,58206354,49.098,1.0,1.0,,1.2,1.0,3.0,juicio+ches+manifesto,1.96,2.0,2.0,juicio+ches,manifesto_vparty_juicio,1.0
+BR-2022-PRES-2,BR,2022,2,LULA,PT,60345999,50.902,0.0,,,-0.83,-1.0,3.0,juicio+ches+manifesto,-1.13,-1.0,2.0,juicio+ches,manifesto_vparty_juicio,1.0
+BR-2026-PRES-1,BR,2026,1,CLARIANA BARAO,DC,40043,0.034,0.0,,,,,,,,,,,,
+BR-2026-PRES-1,BR,2026,1,EDMILSON COSTA,PCB,22693,0.019,0.0,,,,,,,,,,,,
+BR-2026-PRES-1,BR,2026,1,ESCRITOR AUGUSTO CURY,AVANTE,3448569,2.891,0.0,,,1.0,1.0,1.0,juicio,0.0,0.0,1.0,juicio,fuente_citada,1.0
+BR-2026-PRES-1,BR,2026,1,FLAVIO BOLSONARO,PL,56104503,47.028,0.0,,,1.25,1.0,2.0,juicio+ches,1.96,2.0,2.0,juicio+ches,fuente_citada,1.0
+BR-2026-PRES-1,BR,2026,1,HERTZ DIAS,PSTU,43103,0.036,0.0,,,,,,,,,,,,
+BR-2026-PRES-1,BR,2026,1,LULA,PT,53879538,45.163,1.0,1.0,,-0.97,-1.0,2.0,juicio+ches,-1.13,-1.0,2.0,juicio+ches,fuente_citada,1.0
+BR-2026-PRES-1,BR,2026,1,RENAN SANTOS,MISSÃO,2675887,2.243,0.0,,,2.0,2.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+BR-2026-PRES-1,BR,2026,1,RONALDO CAIADO,PSD,2605148,2.184,0.0,,,0.78,1.0,2.0,juicio+ches,0.9,1.0,2.0,juicio+ches,fuente_citada,1.0
+BR-2026-PRES-1,BR,2026,1,RUI COSTA PIMENTA,PCO,15024,0.013,0.0,,,,,,,,,,,,
+BR-2026-PRES-1,BR,2026,1,SAMARA,UP,122911,0.103,0.0,,,,,,,,,,,,
+BR-2026-PRES-1,BR,2026,1,VETERINÁRIO WILSON GRASSI,DEMOCRATA,16881,0.014,0.0,,,,,,,,,,,,
+BR-2026-PRES-1,BR,2026,1,ZEMA,NOVO,326488,0.274,0.0,,,,,,,,,,,,
+BR-2026-PRES-2,BR,2026,2,FLAVIO BOLSONARO,PL,59826041,48.215,0.0,,,1.25,1.0,2.0,juicio+ches,1.96,2.0,2.0,juicio+ches,fuente_citada,1.0
+BR-2026-PRES-2,BR,2026,2,LULA,PT,64256232,51.785,1.0,1.0,,-0.97,-1.0,2.0,juicio+ches,-1.13,-1.0,2.0,juicio+ches,fuente_citada,1.0
+CL-1989-PRES-1,CL,1989,1,FRANCISCO JAVIER ERRAZURIZ,INDEP,1077172,15.433,0.0,,,0.13,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-1989-PRES-1,CL,1989,1,HERNAN BUCHI,INDEP,2052116,29.401,1.0,0.0,,1.87,2.0,3.0,juicio+vparty+manifesto,1.76,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1989-PRES-1,CL,1989,1,PATRICIO AYLWIN,DC,3850571,55.167,0.0,,,0.1,0.0,3.0,juicio+vparty+manifesto,0.89,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1993-PRES-1,CL,1993,1,ARTURO ALESSANDRI,INDEP,1703070,24.417,0.0,,,1.98,2.0,3.0,juicio+vparty+manifesto,1.76,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1993-PRES-1,CL,1993,1,CRISTIAN REITZE,AHV,81814,1.173,0.0,,,,,,,,,,,,
+CL-1993-PRES-1,CL,1993,1,EDUARDO FREI,DC,4044112,57.981,1.0,0.0,,-0.01,0.0,3.0,juicio+vparty+manifesto,0.87,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1993-PRES-1,CL,1993,1,EUGENIO PIZARRO,INDEP,327404,4.694,0.0,,,-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-1993-PRES-1,CL,1993,1,JOSE PINERA,INDEP,431176,6.182,0.0,,,2.0,2.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-1993-PRES-1,CL,1993,1,MANFRED MAX,INDEP,387371,5.554,0.0,,,-1.0,-1.0,1.0,juicio,-2.0,-2.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-1999-PRES-1,CL,1999,1,ARTURO FREI,UCC,26812,0.38,0.0,,,,,,,,,,,,
+CL-1999-PRES-1,CL,1999,1,GLADYS MARIN,PC,225224,3.192,0.0,,,-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-1999-PRES-1,CL,1999,1,JOAQUIN LAVIN,UDI,3352192,47.514,0.0,,,1.25,1.0,3.0,juicio+vparty+manifesto,1.76,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1999-PRES-1,CL,1999,1,RICARDO LAGOS,PPD,3383334,47.956,1.0,0.0,,-0.72,-1.0,3.0,juicio+vparty+manifesto,-0.85,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1999-PRES-1,CL,1999,1,SARA LARRAIN,INDEP,31319,0.444,0.0,,,,,,,,,,,,
+CL-1999-PRES-1,CL,1999,1,TOMAS HIRSCH,PH,36235,0.514,0.0,,,,,,,,,,,,
+CL-1999-PRES-2,CL,1999,2,JOAQUIN LAVIN,UDI,3495569,48.693,0.0,,,1.25,1.0,3.0,juicio+vparty+manifesto,1.76,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-1999-PRES-2,CL,1999,2,RICARDO LAGOS,PPD,3683158,51.307,1.0,0.0,,-0.72,-1.0,3.0,juicio+vparty+manifesto,-0.85,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2005-PRES-1,CL,2005,1,JOAQUIN LAVIN,UDI,1612608,23.23,0.0,,,1.55,2.0,3.0,juicio+vparty+manifesto,1.66,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2005-PRES-1,CL,2005,1,MICHELLE BACHELET,PS,3190691,45.962,1.0,0.0,,-1.06,-1.0,3.0,juicio+vparty+manifesto,-0.81,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2005-PRES-1,CL,2005,1,SEBASTIAN PINERA,RN,1763694,25.406,0.0,,,0.92,1.0,3.0,juicio+vparty+manifesto,0.84,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2005-PRES-1,CL,2005,1,TOMAS HIRSCH,PH,375048,5.403,0.0,,,-2.0,-2.0,2.0,juicio+manifesto,-2.0,-2.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CL-2005-PRES-2,CL,2005,2,MICHELLE BACHELET,PS,3723019,53.496,1.0,0.0,,-1.06,-1.0,3.0,juicio+vparty+manifesto,-0.81,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2005-PRES-2,CL,2005,2,SEBASTIAN PINERA,RN,3236394,46.504,0.0,,,0.92,1.0,3.0,juicio+vparty+manifesto,0.84,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2009-PRES-1,CL,2009,1,EDUARDO FREI,PDC,2065061,29.596,1.0,0.0,,-0.35,0.0,3.0,juicio+vparty+manifesto,0.12,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2009-PRES-1,CL,2009,1,JORGE ARRATE,PCCH,433195,6.208,0.0,,,-2.0,-2.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CL-2009-PRES-1,CL,2009,1,MARCO ENRIQUEZ-OMINAMI,,1405124,20.138,0.0,,,-1.18,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CL-2009-PRES-1,CL,2009,1,SEBASTIAN PINERA,RN,3074164,44.058,0.0,,,0.81,1.0,3.0,juicio+vparty+manifesto,0.74,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2009-PRES-2,CL,2009,2,EDUARDO FREI,PDC,3367790,48.395,1.0,0.0,,-0.35,0.0,3.0,juicio+vparty+manifesto,0.12,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2009-PRES-2,CL,2009,2,SEBASTIAN PINERA,RN,3591182,51.605,0.0,,,0.81,1.0,3.0,juicio+vparty+manifesto,0.74,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2013-PRES-1,CL,2013,1,ALFREDO SFEIR YOUNIS,PEV,154648,2.348,0.0,,,,,,,,,,,,
+CL-2013-PRES-1,CL,2013,1,EVELYN MATTHEI FORNET,UDI,1648481,25.031,1.0,0.0,,0.86,1.0,3.0,juicio+vparty+manifesto,1.17,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2013-PRES-1,CL,2013,1,FRANCO ALDO PARISI FERNANDEZ,IND,666015,10.113,0.0,,,0.0,0.0,1.0,juicio,,,0.0,,conocimiento_general_verificar,1.0
+CL-2013-PRES-1,CL,2013,1,MARCEL CLAUDE REYES,PH,185072,2.81,0.0,,,,,,,,,,,,
+CL-2013-PRES-1,CL,2013,1,MARCO ENRIQUEZ-OMINAMI GUMUCIO,PRO,723542,10.986,0.0,,,-1.33,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CL-2013-PRES-1,CL,2013,1,MICHELLE BACHELET JERIA,PS,3075839,46.704,0.0,,,-1.01,-1.0,3.0,juicio+vparty+manifesto,-0.96,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2013-PRES-1,CL,2013,1,RICARDO ISRAEL ZIPPER,PRI,37744,0.573,0.0,,,,,,,,,,,,
+CL-2013-PRES-1,CL,2013,1,ROXANA MIRANDA MENESES,IGUALDAD,81873,1.243,0.0,,,,,,,,,,,,
+CL-2013-PRES-1,CL,2013,1,TOMAS JOCELYN-HOLT LETELIER,IND,12594,0.191,0.0,,,,,,,,,,,,
+CL-2013-PRES-2,CL,2013,2,EVELYN MATTHEI FORNET,UDI,2111891,37.832,1.0,0.0,,0.86,1.0,3.0,juicio+vparty+manifesto,1.17,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2013-PRES-2,CL,2013,2,MICHELLE BACHELET JERIA,PS,3470379,62.168,0.0,,,-1.01,-1.0,3.0,juicio+vparty+manifesto,-0.96,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2017-PRES-1,CL,2017,1,ALEJANDRO GUILLIER ALVAREZ,IND,1498040,22.697,1.0,0.0,,-0.99,-1.0,3.0,juicio+vparty+manifesto,-0.99,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2017-PRES-1,CL,2017,1,ALEJANDRO NAVARRO BRAIN,PAIS,23968,0.363,0.0,,,,,,,,,,,,
+CL-2017-PRES-1,CL,2017,1,BEATRIZ SANCHEZ MUNOZ,IND,1338037,20.272,0.0,,,-1.57,-2.0,3.0,juicio+vparty+manifesto,-1.9,-2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2017-PRES-1,CL,2017,1,CAROLINA GOIC BOROEVIC,PDC,387784,5.875,0.0,,,-0.05,0.0,3.0,juicio+vparty+manifesto,0.09,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2017-PRES-1,CL,2017,1,EDUARDO ARTES BRICHETTI,UPA,33665,0.51,0.0,,,,,,,,,,,,
+CL-2017-PRES-1,CL,2017,1,JOSE ANTONIO KAST RIST,IND,523375,7.93,0.0,,,1.21,2.0,2.0,juicio+manifesto,2.0,2.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-2017-PRES-1,CL,2017,1,MARCO ENRIQUEZ-OMINAMI GUMUCIO,PRO,376871,5.71,0.0,,,-0.84,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CL-2017-PRES-1,CL,2017,1,SEBASTIAN PINERA ECHENIQUE,IND,2418540,36.643,0.0,,,0.93,1.0,3.0,juicio+vparty+manifesto,0.75,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2017-PRES-2,CL,2017,2,ALEJANDRO GUILLIER ALVAREZ,IND,3160628,45.427,1.0,0.0,,-0.99,-1.0,3.0,juicio+vparty+manifesto,-0.99,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2017-PRES-2,CL,2017,2,SEBASTIAN PINERA ECHENIQUE,IND,3796918,54.573,0.0,,,0.93,1.0,3.0,juicio+vparty+manifesto,0.75,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CL-2021-PRES-1,CL,2021,1,EDUARDO ARTES BRICHETTI,,102897,1.464,0.0,,,,,,,,,,,,
+CL-2021-PRES-1,CL,2021,1,FRANCO PARISI FERNANDEZ,,900064,12.806,0.0,,,-0.14,0.0,2.0,juicio+manifesto,,,0.0,,conocimiento_general_verificar,1.0
+CL-2021-PRES-1,CL,2021,1,GABRIEL BORIC FONT,,1815024,25.824,0.0,,,-1.47,-2.0,4.0,juicio+vparty+ches+manifesto,-1.78,-2.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CL-2021-PRES-1,CL,2021,1,JOSE ANTONIO KAST RIST,,1961779,27.912,0.0,,,1.13,2.0,2.0,juicio+manifesto,2.0,2.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-2021-PRES-1,CL,2021,1,MARCO ENRIQUEZ-OMINAMI GUMUCIO,,534383,7.603,0.0,,,-1.13,-1.0,2.0,juicio+manifesto,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CL-2021-PRES-1,CL,2021,1,SEBASTIAN SICHEL RAMIREZ,,898635,12.786,1.0,0.0,,0.31,1.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-2021-PRES-1,CL,2021,1,YASNA PROVOSTE CAMPILLAY,,815563,11.604,0.0,,,-0.36,-1.0,4.0,juicio+vparty+ches+manifesto,0.2,0.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CL-2021-PRES-2,CL,2021,2,GABRIEL BORIC FONT,,4621231,55.867,0.0,,,-1.47,-2.0,4.0,juicio+vparty+ches+manifesto,-1.78,-2.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CL-2021-PRES-2,CL,2021,2,JOSE ANTONIO KAST RIST,,3650662,44.133,0.0,,,1.13,2.0,2.0,juicio+manifesto,2.0,2.0,1.0,juicio,conocimiento_general_verificar,1.0
+CL-2025-PRES-1,CL,2025,1,EDUARDO ANTONIO ARTES BRICHETTI,INDEPENDIENTES,86228,0.665,0.0,,,,,,,,,,,,
+CL-2025-PRES-1,CL,2025,1,EVELYN MATTHEI FORNET,UNION DEMOCRATA INDEPENDIENTE,1615745,12.46,0.0,,,1.29,1.0,2.0,juicio+ches,1.32,1.0,2.0,juicio+ches,fuente_citada,1.0
+CL-2025-PRES-1,CL,2025,1,FRANCO PARISI FERNANDEZ,PARTIDO DE LA GENTE,2556587,19.715,0.0,,,0.0,0.0,1.0,juicio,,,0.0,,conocimiento_general_verificar,1.0
+CL-2025-PRES-1,CL,2025,1,HAROLD MAYNE-NICHOLLS SECUL,INDEPENDIENTES,163603,1.262,0.0,,,,,,,,,,,,
+CL-2025-PRES-1,CL,2025,1,JEANNETTE JARA ROMAN,PARTIDO COMUNISTA DE CHILE,3481919,26.851,1.0,0.0,,-1.25,-1.0,2.0,juicio+ches,-0.65,-1.0,2.0,juicio+ches,fuente_citada,1.0
+CL-2025-PRES-1,CL,2025,1,JOHANNES KAISER BARENTS-VON HOHENHAGEN,PARTIDO NACIONAL LIBERTARIO,1806956,13.934,0.0,,,2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+CL-2025-PRES-1,CL,2025,1,JOSE ANTONIO KAST RIST,PARTIDO REPUBLICANO DE CHILE,3101340,23.916,0.0,,,2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+CL-2025-PRES-1,CL,2025,1,MARCO ANTONIO ENRIQUEZ-OMINAMI GUMUCIO,INDEPENDIENTES,155120,1.196,0.0,,,,,,,,,,,,
+CL-2025-PRES-2,CL,2025,2,JEANNETTE JARA ROMAN,PARTIDO COMUNISTA DE CHILE,5220662,41.833,1.0,0.0,,-1.25,-1.0,2.0,juicio+ches,-0.65,-1.0,2.0,juicio+ches,fuente_citada,1.0
+CL-2025-PRES-2,CL,2025,2,JOSE ANTONIO KAST RIST,PARTIDO REPUBLICANO DE CHILE,7259045,58.167,0.0,,,2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+CO-1998-PRES-1,CO,1998,1,ALEMAN GUILLERMO,MOV. ORIENTACION ECOLOGICA,9814,0.094,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,BEDOYA PIZARRO HAROLD,MOV. FUERZA COLOMBIA,190526,1.821,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,BETANCUR AGUILAR JORGE HERNAN,MOVIMIENTO UNITARIO METAPOLITICO,13812,0.132,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,CORDOBA ZARTHA FRANCISCO,,5832,0.056,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,CUELLAR DE RIOS BEATRIZ,MOVIMIENTO UNION CRISTIANA UC,30719,0.294,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,DIAZ VALDERRAMA EFRAIN,MOV. CIUDADANOS EN FORMACION,9135,0.087,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,LOZANO ASPRILLA JESUS ANTONIO,NAL.COMUNIDADES NEGRAS PALENQUE AFR,11772,0.113,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,NANNETTI VALENCIA GUILLERMO,MOVIMIENTO NACIONAL PROGRESISTA,8811,0.084,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,PASTRANA ARANGO ANDRES,COALICION,3637706,34.769,0.0,,,1.37,1.0,2.0,juicio+vparty,1.15,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-1998-PRES-1,CO,1998,1,PULECIO JORGE,MOV. DE PARTICIPACION POPULAR,11458,0.11,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,ROJAS NIÑO GERMAN,MOV. 19 DE ABRIL,15962,0.153,0.0,,,,,,,,,,,,
+CO-1998-PRES-1,CO,1998,1,SANIN POSADA NOEMI,MOV. OPCION VIDA,2834294,27.09,0.0,,,1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-1998-PRES-1,CO,1998,1,SERPA URIBE HORACIO,LIBERAL COLOMBIANO - PLC,3682681,35.199,1.0,0.0,,-0.13,0.0,2.0,juicio+vparty,-0.17,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-1998-PRES-2,CO,1998,2,ALEMAN GUILLERMO,MOV. ORIENTACION ECOLOGICA,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,BEDOYA PIZARRO HAROLD,MOV. FUERZA COLOMBIA,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,BETANCUR AGUILAR JORGE HERNAN,MOVIMIENTO UNITARIO METAPOLITICO,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,CORDOBA ZARTHA FRANCISCO,,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,CUELLAR DE RIOS BEATRIZ,MOVIMIENTO UNION CRISTIANA UC,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,DIAZ VALDERRAMA EFRAIN,MOV. CIUDADANOS EN FORMACION,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,LOZANO ASPRILLA JESUS ANTONIO,NAL.COMUNIDADES NEGRAS PALENQUE AFR,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,NANNETTI VALENCIA GUILLERMO,MOVIMIENTO NACIONAL PROGRESISTA,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,PASTRANA ARANGO ANDRES,COALICION,6114752,51.938,0.0,,,1.37,1.0,2.0,juicio+vparty,1.15,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-1998-PRES-2,CO,1998,2,PULECIO JORGE,MOV. DE PARTICIPACION POPULAR,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,ROJAS NIÑO GERMAN,MOV. 19 DE ABRIL,0,0.0,0.0,,,,,,,,,,,,
+CO-1998-PRES-2,CO,1998,2,SANIN POSADA NOEMI,MOV. OPCION VIDA,0,0.0,0.0,,,1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-1998-PRES-2,CO,1998,2,SERPA URIBE HORACIO,LIBERAL COLOMBIANO - PLC,5658518,48.062,1.0,0.0,,-0.13,0.0,2.0,juicio+vparty,-0.17,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2002-PRES-1,CO,2002,1,ALVARO  CRISTANCHO TOSCANO,"MOV. PARTICIPACION COMUN. ""MPC""",9627,0.089,0.0,,,,,,,,,,,,
+CO-2002-PRES-1,CO,2002,1,ALVARO  URIBE VELEZ,OTROS PARTIDOS O MOV.S,5862655,54.006,0.0,,,1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2002-PRES-1,CO,2002,1,AUGUSTO GUILLERMO  LORA RAMIREZ,MOV. 19 DE ABRIL,10987,0.101,0.0,,,,,,,,,,,,
+CO-2002-PRES-1,CO,2002,1,FRANCISCO ANTONIO TOVAR GARCES,MOV. DEFENSA CIUDADANA,16333,0.15,0.0,,,,,,,,,,,,
+CO-2002-PRES-1,CO,2002,1,GUILLERMO ANTONIO  CARDONA M.,MOV. POL.COMUNAL Y COMUNI. COL.,8023,0.074,0.0,,,,,,,,,,,,
+CO-2002-PRES-1,CO,2002,1,HAROLD  BEDOYA PIZARRO,MOV. FUERZA COLOMBIA,50763,0.468,0.0,,,,,,,,,,,,
+CO-2002-PRES-1,CO,2002,1,HORACIO  SERPA URIBE,PARTIDO LIBERAL COLOMBIANO,3514779,32.378,0.0,,,-0.14,0.0,2.0,juicio+vparty,-0.2,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2002-PRES-1,CO,2002,1,INGRID  BETANCOURT PULECIO,PARTIDO VERDE OXIGENO,53922,0.497,0.0,,,,,,,,,,,,
+CO-2002-PRES-1,CO,2002,1,LUIS EDUARDO GARZON,FRENTE SOC. Y POLT - VIA ALTERNA -,680245,6.266,0.0,,,-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,manifesto_vparty_juicio,1.0
+CO-2002-PRES-1,CO,2002,1,NOEMI SANIN,MOV. SI COLOMBIA,641884,5.913,0.0,,,1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2002-PRES-1,CO,2002,1,RODOLFO RINCON SOSA,"MOV. PARTICIPACION COMUN. ""MPC""",6311,0.058,0.0,,,,,,,,,,,,
+CO-2006-PRES-1,CO,2006,1,ALVARO LEYVA DURAN,MOVIMIENTO NACIONAL DE RECONCILIACION,18263,0.157,0.0,,,,,,,,,,,,
+CO-2006-PRES-1,CO,2006,1,ALVARO URIBE VELEZ,PRIMERO COLOMBIA,7397835,63.566,1.0,1.0,,1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2006-PRES-1,CO,2006,1,ANTANAS MOCKUS SIVICKAS,MOVIMIENTO ALIANZA SOCIAL INDIGENA,146583,1.26,0.0,,,,,,,,,,,,
+CO-2006-PRES-1,CO,2006,1,CARLOS ARTURO RINCON BARRETO,MOVIMIENTO COMUNAL Y COMUNITARIO DE COLOMBIA,15388,0.132,0.0,,,,,,,,,,,,
+CO-2006-PRES-1,CO,2006,1,CARLOS GAVIRIA DIAZ,POLO DEMOCRATICO ALTERNATIVO,2613157,22.453,0.0,,,-1.96,-2.0,2.0,juicio+vparty,-1.11,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2006-PRES-1,CO,2006,1,ENRIQUE PAREJO GONZALEZ,MOVIMIENTO RECONSTRUCCION DEMOCRATICA NACIONAL,42652,0.366,0.0,,,,,,,,,,,,
+CO-2006-PRES-1,CO,2006,1,HORACIO SERPA URIBE,PARTIDO LIBERAL COLOMBIANO,1404235,12.066,0.0,,,-0.23,0.0,2.0,juicio+vparty,-0.28,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2010-PRES-1,CO,2010,1,ANTANAS MOCKUS,,3134222,21.843,0.0,,,0.0,0.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2010-PRES-1,CO,2010,1,GERMÁN VARGAS LLERAS,,1473627,10.27,0.0,,,1.16,1.0,2.0,juicio+vparty,0.07,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2010-PRES-1,CO,2010,1,GUSTAVO PETRO,,1331267,9.278,0.0,,,-1.86,-2.0,2.0,juicio+vparty,-1.22,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2010-PRES-1,CO,2010,1,JAIME ARAUJO RENTERÍA,,14847,0.103,0.0,,,,,,,,,,,,
+CO-2010-PRES-1,CO,2010,1,JAIRO CALDERÓN CARRERO,,29151,0.203,0.0,,,,,,,,,,,,
+CO-2010-PRES-1,CO,2010,1,JUAN MANUEL SANTOS,,6802043,47.406,1.0,0.0,,0.55,1.0,2.0,juicio+vparty,-0.01,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2010-PRES-1,CO,2010,1,NOEMÍ SANÍN,,893819,6.229,0.0,,,1.37,1.0,2.0,juicio+vparty,0.92,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2010-PRES-1,CO,2010,1,RAFAEL PARDO,,638302,4.449,0.0,,,-0.17,0.0,2.0,juicio+vparty,-0.23,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2010-PRES-1,CO,2010,1,ROBINSON DEVIA GONZALEZ,,31338,0.218,0.0,,,,,,,,,,,,
+CO-2010-PRES-2,CO,2010,2,ANTANAS MOCKUS,,3587975,28.438,0.0,,,0.0,0.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2010-PRES-2,CO,2010,2,JUAN MANUEL SANTOS,,9028943,71.562,1.0,0.0,,0.55,1.0,2.0,juicio+vparty,-0.01,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2014-PRES-1,CO,2014,1,CLARA LÓPEZ,POLO DEMOCRÁTICO ALTERNATIVO PDA UNIÓN PATRIÓTICA UP,1958518,16.185,0.0,,,-1.86,-2.0,2.0,juicio+vparty,-1.22,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2014-PRES-1,CO,2014,1,ENRIQUE PEÑALOSA,PARTIDO ALIANZA VERDE,1064758,8.799,0.0,,,1.0,1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2014-PRES-1,CO,2014,1,JUAN MANUEL SANTOS CALDERÓN,UNIDAD NACIONAL,3310794,27.36,1.0,1.0,,0.8,1.0,2.0,juicio+vparty,-0.11,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2014-PRES-1,CO,2014,1,MARTHA LUCÍA RAMÍREZ,PARTIDO CONSERVADOR COLOMBIANO,1997980,16.511,0.0,,,1.37,1.0,2.0,juicio+vparty,0.95,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2014-PRES-1,CO,2014,1,ÓSCAR IVÁN ZULUAGA,CENTRO DEMOCRÁTICO MANO FIRME CORAZÓN GRANDE,3769005,31.146,0.0,,,1.99,2.0,2.0,juicio+vparty,1.03,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2014-PRES-2,CO,2014,2,JUAN MANUEL SANTOS CALDERÓN,UNIDAD NACIONAL,7839342,53.125,1.0,1.0,,0.8,1.0,2.0,juicio+vparty,-0.11,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2014-PRES-2,CO,2014,2,ÓSCAR IVÁN ZULUAGA,CENTRO DEMOCRÁTICO MANO FIRME CORAZÓN GRANDE,6917001,46.875,0.0,,,1.99,2.0,2.0,juicio+vparty,1.03,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+CO-2018-PRES-1,CO,2018,1,GERMAN VARGAS LLERAS,COALICION #MEJOR VARGAS LLERAS ANTE TODO COLOMBIA,1412392,7.428,0.0,,,1.06,1.0,3.0,juicio+vparty+ches,0.34,0.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CO-2018-PRES-1,CO,2018,1,GUSTAVO PETRO,COALICION PETRO PRESIDENTE,4855069,25.532,0.0,,,-0.75,-1.0,3.0,juicio+vparty+ches,-1.1,-1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CO-2018-PRES-1,CO,2018,1,HUMBERTO DE LA CALLE,COALICION PAR. LIBERAL COLOMBIANO PAR. ALIANZA SOCIAL INDEPENDIENTE ASI,396151,2.083,0.0,,,,,,,,,,,,
+CO-2018-PRES-1,CO,2018,1,IVAN DUQUE,PARTIDO CENTRO DEMOCRATICO,7616857,40.056,0.0,,,1.46,1.0,3.0,juicio+vparty+ches,1.12,1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CO-2018-PRES-1,CO,2018,1,JORGE ANTONIO TRUJILLO SARMIENTO,MOVIMIENTO POLITICO TODOS SOMOS COLOMBIA,65767,0.346,0.0,,,,,,,,,,,,
+CO-2018-PRES-1,CO,2018,1,PROMOTORES VOTO EN BLANCO,"PARTIDO DE REIVINDICACION ETNICA ""PRE""",30128,0.158,0.0,,,,,,,,,,,,
+CO-2018-PRES-1,CO,2018,1,SERGIO FAJARDO,COALICION COLOMBIA,4602916,24.206,0.0,,,-0.15,0.0,3.0,juicio+vparty+ches,-1.13,-1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,1.0
+CO-2018-PRES-1,CO,2018,1,VIVIANE MORALES,PARTIDO SOMOS,36138,0.19,0.0,,,,,,,,,,,,
+CO-2018-PRES-2,CO,2018,2,DUQUE,,10398689,56.395,0.0,,,1.46,1.0,3.0,juicio+vparty+ches,1.12,1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,0.5
+CO-2018-PRES-2,CO,2018,2,PETRO,,8040449,43.605,0.0,,,-0.75,-1.0,3.0,juicio+vparty+ches,-1.1,-1.0,3.0,juicio+vparty+ches,manifesto_vparty_juicio,0.5
+CO-2022-PRES-1,CO,2022,1,ENRIQUE GÓMEZ MARTÍNEZ,PARTIDO MOVIMIENTO DE SALVACION NACIONAL,48643,0.234,0.0,,,,,,,,,,,,
+CO-2022-PRES-1,CO,2022,1,FEDERICO GUTIÉRREZ,COALICION EQUIPO POR COLOMBIA,5069526,24.363,0.0,,,1.03,1.0,1.0,ches,1.0,1.0,1.0,ches,ches_la_partido,1.0
+CO-2022-PRES-1,CO,2022,1,GUSTAVO PETRO,COALICION PACTO HISTÓRICO,8542020,41.051,0.0,,,-0.89,-1.0,2.0,juicio+ches,-1.04,-1.0,2.0,juicio+ches,conocimiento_general_verificar,1.0
+CO-2022-PRES-1,CO,2022,1,INGRID BETANCOURT,PARTIDO VERDE OXIGENO,14161,0.068,0.0,,,,,,,,,,,,
+CO-2022-PRES-1,CO,2022,1,JOHN MILTON RODRÍGUEZ,COLOMBIA JUSTA LIBRES,271386,1.304,0.0,,,,,,,,,,,,
+CO-2022-PRES-1,CO,2022,1,LUIS PÉREZ,COLOMBIA PIENSA EN GRANDE,11507,0.055,0.0,,,,,,,,,,,,
+CO-2022-PRES-1,CO,2022,1,RODOLFO HERNÁNDEZ,LIGA DE GOBERNANTES ANTICORRUPCION,5965531,28.669,0.0,,,1.0,1.0,1.0,juicio,,,0.0,,conocimiento_general_verificar,1.0
+CO-2022-PRES-1,CO,2022,1,SERGIO FAJARDO,COALICION CENTRO ESPERANZA,885291,4.255,0.0,,,0.0,0.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2022-PRES-2,CO,2022,2,GUSTAVO PETRO,COALICIÓN PACTO HISTÓRICO,11292758,51.571,0.0,,,-0.89,-1.0,2.0,juicio+ches,-1.04,-1.0,2.0,juicio+ches,conocimiento_general_verificar,1.0
+CO-2022-PRES-2,CO,2022,2,RODOLFO HERNÁNDEZ,LIGA DE GOBERNANTES ANTICORRUPCIÓN,10604656,48.429,0.0,,,1.0,1.0,1.0,juicio,,,0.0,,conocimiento_general_verificar,1.0
+CO-2026-PRES-1,CO,2026,1,ABELARDO DE LA ESPRIELLA,DEFENSORES DE LA PATRIA,10366143,44.55,0.0,,,2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+CO-2026-PRES-1,CO,2026,1,CARLOS EDUARDO CAICEDO OMAR,CAICEDO,0,0.0,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,CLAUDIA LÓPEZ,CON CLAUDIA IMPARABLES,224137,0.963,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,GUSTAVO MATAMOROS CAMACHO,PARTIDO ECOLOGISTA COLOMBIANO,4901,0.021,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,IVÁN CEPEDA CASTRO,MOVIMIENTO POLÍTICO PACTO HISTÓRICO,9703921,41.704,1.0,0.0,,-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+CO-2026-PRES-1,CO,2026,1,LUIS GILBERTO MURILLO URRUTIA,LA OPORTUNIDAD ES COLOMBIA,0,0.0,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,MIGUEL URIBE LONDOÑO,PARTIDO DEMÓCRATA COLOMBIANO,28167,0.121,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,PALOMA VALENCIA LASERNA,PARTIDO CENTRO DEMOCRÁTICO,1640989,7.052,0.0,,,1.81,2.0,2.0,juicio+ches,1.89,2.0,2.0,juicio+ches,fuente_citada,1.0
+CO-2026-PRES-1,CO,2026,1,RAÚL SANTIAGO BOTERO JARAMILLO,ROMPER EL SISTEMA,205319,0.882,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,ROY LEONARDO BARRERAS MONTEALEGRE,PARTIDO POLÍTICO LA FUERZA,13737,0.059,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,SERGIO FAJARDO VALDERRAMA,PARTIDO POLÍTICO DIGNIDAD & COMPROMISO,1009346,4.338,0.0,,,0.0,0.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+CO-2026-PRES-1,CO,2026,1,SONDRA MACOLLINS GARVIN PINTO,"SONDRA MACOLLINS, LA ABOGADA DE HIERRO",19387,0.083,0.0,,,,,,,,,,,,
+CO-2026-PRES-1,CO,2026,1,ÓSCAR MAURICIO LIZCANO ARANGO,COALICIÓN F.A.M.I.L.I.A,52705,0.227,0.0,,,,,,,,,,,,
+CO-2026-PRES-2,CO,2026,2,ABELARDO DE LA ESPRIELLA,DEFENSORES DE LA PATRIA,12960166,50.491,0.0,,,2.0,2.0,1.0,juicio,2.0,2.0,1.0,juicio,fuente_citada,1.0
+CO-2026-PRES-2,CO,2026,2,IVÁN CEPEDA CASTRO,MOVIMIENTO POLÍTICO PACTO HISTÓRICO,12708312,49.509,1.0,0.0,,-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+PE-2006-PRES-1,PE,2006,1,Natale Amprimo,ALIANZA PARA EL PROGRESO,49332,0.402,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Martha Chávez,ALIANZA POR EL FUTURO,912420,7.433,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),1.09,1.0,2.0,juicio+vparty,1.27,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2006-PRES-1,PE,2006,1,Ulises Humala,AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL,24518,0.2,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Pedro Koechlin von Stein,CON FUERZA PERU,38212,0.311,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Susana Villarán,CONCERTACION DESCENTRALISTA,76106,0.62,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Valentín Paniagua,FRENTE DE CENTRO,706156,5.753,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),0.22,0.0,2.0,juicio+vparty,0.03,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2006-PRES-1,PE,2006,1,Alberto Borea,FUERZA DEMOCRATICA,24584,0.2,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Alberto Moreno,MOVIMIENTO NUEVA IZQUIERDA,33918,0.276,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Jaime Salinas,PARTIDO JUSTICIA NACIONAL,65636,0.535,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,José Cardó Guarderas,PARTIDO RECONSTRUCCION DEMOCRATICA,11925,0.097,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Ciro Gálvez,PARTIDO RENACIMIENTO ANDINO,22892,0.186,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Javier Diez Canseco,PARTIDO SOCIALISTA,60955,0.497,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Luis Guerrero,PERU AHORA,8410,0.069,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Javier Espinoza,PROGRESEMOS PERU,13965,0.114,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Humberto Lay,RESTAURACION NACIONAL,537564,4.379,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,0.0,,2.0,2.0,1.0,juicio,conocimiento_general_verificar,1.0
+PE-2006-PRES-1,PE,2006,1,Ántero Asto,RESURGIMIENTO PERUANO,10857,0.088,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,Lourdes Flores,UNIDAD NACIONAL,2923280,23.814,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),0.85,1.0,3.0,juicio+vparty+manifesto,0.57,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2006-PRES-1,PE,2006,1,Ricardo Wong,Y SE LLAMA PERU,10539,0.086,0.0,,nombre: Wikipedia (en) Peruvian general election 2006 (Cardó y Gálvez se retiraron antes de la elección),,,,,,,,,,
+PE-2006-PRES-1,PE,2006,1,ALAN GARCIA PEREZ,PARTIDO APRISTA PERUANO,2985858,24.324,0.0,,,0.94,1.0,3.0,juicio+vparty+manifesto,0.68,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2006-PRES-1,PE,2006,1,OLLANTA HUMALA TASSO,UNION POR EL PERU,3758258,30.616,0.0,,,-1.29,-2.0,3.0,juicio+vparty+manifesto,0.43,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2006-PRES-2,PE,2006,2,ALAN GARCIA PEREZ,PARTIDO APRISTA PERUANO,6965017,52.625,0.0,,,0.94,1.0,3.0,juicio+vparty+manifesto,0.68,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2006-PRES-2,PE,2006,2,OLLANTA HUMALA TASSO,UNION POR EL PERU,6270080,47.375,0.0,,,-1.29,-2.0,3.0,juicio+vparty+manifesto,0.43,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-1,PE,2011,1,Rafael Belaúnde Aubry,ADELANTE,17301,0.118,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,,,,,,,,,,
+PE-2011-PRES-1,PE,2011,1,Pedro Pablo Kuczynski,ALIANZA POR EL GRAN CAMBIO,2711450,18.512,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,0.56,1.0,3.0,juicio+vparty+manifesto,0.0,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-1,PE,2011,1,Luis Castañeda Lossio,ALIANZA SOLIDARIDAD NACIONAL,1440143,9.832,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,0.67,1.0,3.0,juicio+vparty+manifesto,0.19,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-1,PE,2011,1,Ricardo Noriega,DESPERTAR NACIONAL,21574,0.147,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,,,,,,,,,,
+PE-2011-PRES-1,PE,2011,1,José Ñique de la Puente,FONAVISTAS DEL PERU,37011,0.253,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,,,,,,,,,,
+PE-2011-PRES-1,PE,2011,1,Juliana Reymer,FUERZA NACIONAL,16831,0.115,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,,,,,,,,,,
+PE-2011-PRES-1,PE,2011,1,Humberto Pinazo,"JUSTICIA, TECNOLOGIA, ECOLOGIA",11275,0.077,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,,,,,,,,,,
+PE-2011-PRES-1,PE,2011,1,Manuel Rodríguez Cuadros,PARTIDO DESCENTRALISTA FUERZA SOCIAL,9358,0.064,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,,,,,,,,,,
+PE-2011-PRES-1,PE,2011,1,Alejandro Toledo,PERU POSIBLE,2289561,15.631,0.0,,nombre: Wikipedia (en) Peruvian general election 2011,0.75,1.0,3.0,juicio+vparty+manifesto,-0.0,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-1,PE,2011,1,KEIKO FUJIMORI HIGUCHI,FUERZA 2011,3449595,23.551,0.0,,,0.99,1.0,3.0,juicio+vparty+manifesto,1.51,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-1,PE,2011,1,OLLANTA HUMALA TASSO,GANA PERU,4643064,31.699,0.0,,,-0.81,-1.0,3.0,juicio+vparty+manifesto,0.2,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-2,PE,2011,2,KEIKO FUJIMORI HIGUCHI,FUERZA 2011,7490647,48.551,0.0,,,0.99,1.0,3.0,juicio+vparty+manifesto,1.51,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2011-PRES-2,PE,2011,2,OLLANTA HUMALA TASSO,GANA PERU,7937704,51.449,0.0,,,-0.81,-1.0,3.0,juicio+vparty+manifesto,0.2,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-1,PE,2016,1,Alfredo Barnechea,ACCION POPULAR,1069360,6.971,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,0.09,0.0,3.0,juicio+vparty+manifesto,-0.02,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-1,PE,2016,1,Alan García,ALIANZA POPULAR,894278,5.83,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,0.62,1.0,3.0,juicio+vparty+manifesto,0.66,1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-1,PE,2016,1,Gregorio Santos,DEMOCRACIA DIRECTA,613173,3.997,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,-2.0,-2.0,1.0,juicio,,,0.0,,conocimiento_general_verificar,1.0
+PE-2016-PRES-1,PE,2016,1,Verónika Mendoza,"EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",2874940,18.741,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,-1.43,-2.0,3.0,juicio+vparty+manifesto,-1.07,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-1,PE,2016,1,Fernando Olivera,FRENTE ESPERANZA,203103,1.324,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,,,,,,,,,,
+PE-2016-PRES-1,PE,2016,1,Antero Flores Aráoz,PARTIDO POLITICO ORDEN,65673,0.428,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,,,,,,,,,,
+PE-2016-PRES-1,PE,2016,1,Alejandro Toledo,PERU POSIBLE,200012,1.304,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,,,,,,,,,,
+PE-2016-PRES-1,PE,2016,1,Miguel Hilario,PROGRESANDO PERU,75870,0.495,0.0,,nombre: Wikipedia (en) Peruvian general election 2016,,,,,,,,,,
+PE-2016-PRES-1,PE,2016,1,KEIKO FUJIMORI HIGUCHI,FUERZA POPULAR,6115073,39.863,0.0,,,0.96,1.0,3.0,juicio+vparty+manifesto,1.54,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-1,PE,2016,1,PEDRO PABLO KUCZYNSKI GODARD,PERUANOS POR EL KAMBIO,3228661,21.047,0.0,,,0.8,1.0,3.0,juicio+vparty+manifesto,-0.27,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-2,PE,2016,2,KEIKO FUJIMORI HIGUCHI,FUERZA POPULAR,8555880,49.88,0.0,,,0.96,1.0,3.0,juicio+vparty+manifesto,1.54,2.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2016-PRES-2,PE,2016,2,PEDRO PABLO KUCZYNSKI GODARD,PERUANOS POR EL KAMBIO,8596937,50.12,0.0,,,0.8,1.0,3.0,juicio+vparty+manifesto,-0.27,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+PE-2021-PRES-1,PE,2021,1,Yonhy Lescano,ACCION POPULAR,1306288,9.071,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,0.45,0.0,1.0,ches,0.69,1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,César Acuña,ALIANZA PARA EL PROGRESO,867025,6.021,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,0.77,1.0,1.0,ches,0.99,1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,Hernando de Soto,AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL,1674201,11.626,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,1.0,1.0,1.0,ches,0.53,1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,Andrés Alcántara,DEMOCRACIA DIRECTA,50802,0.353,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,Marco Arana,"EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",65300,0.453,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,Verónika Mendoza,JUNTOS POR EL PERU,1132577,7.865,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,-1.0,-1.0,1.0,ches,-1.33,-1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,Daniel Salaverry,PARTIDO DEMOCRATICO SOMOS PERU,240234,1.668,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,0.59,1.0,1.0,ches,1.02,1.0,1.0,ches,ches_la_partido,0.5
+PE-2021-PRES-1,PE,2021,1,Julio Guzmán,PARTIDO MORADO,325608,2.261,1.0,0.0,nombre: Wikipedia (en) Peruvian general election 2021,0.43,0.0,1.0,ches,-0.52,-1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,Ollanta Humala,PARTIDO NACIONALISTA PERUANO,230831,1.603,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,Alberto Beingolea,PARTIDO POPULAR CRISTIANO - PPC,286447,1.989,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,Rafael Santos,PERU PATRIA SEGURA,55644,0.386,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,Daniel Urresti,PODEMOS PERU,812721,5.644,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,0.59,1.0,1.0,ches,1.02,1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,Ciro Gálvez,RENACIMIENTO UNIDO NACIONAL,89376,0.621,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,Rafael López Aliaga,RENOVACION POPULAR,1692279,11.751,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,1.93,2.0,1.0,ches,1.93,2.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,George Forsyth,VICTORIA NACIONAL,814516,5.656,0.0,,nombre: Wikipedia (en) Peruvian general election 2021,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,KEIKO FUJIMORI HIGUCHI,FUERZA POPULAR,1930762,13.407,0.0,,,1.12,1.0,1.0,ches,1.6,2.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-1,PE,2021,1,OLLANTA HUMALA TASSO,UNION POR EL PERU,101267,0.703,0.0,,,,,,,,,,,,
+PE-2021-PRES-1,PE,2021,1,PEDRO CASTILLO TERRONES,PARTIDO POLITICO NACIONAL PERU LIBRE,2724752,18.921,0.0,,,-1.73,-2.0,1.0,ches,1.47,1.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-2,PE,2021,2,KEIKO FUJIMORI HIGUCHI,FUERZA POPULAR,8791730,49.875,0.0,,,1.12,1.0,1.0,ches,1.6,2.0,1.0,ches,ches_la_partido,1.0
+PE-2021-PRES-2,PE,2021,2,PEDRO CASTILLO TERRONES,PARTIDO POLITICO NACIONAL PERU LIBRE,8835970,50.125,0.0,,,-1.73,-2.0,1.0,ches,1.47,1.0,1.0,ches,ches_la_partido,1.0
+UY-2014-PRES-1,UY,2014,1,Tabaré Vázquez,Frente Amplio,1134187,49.446,1.0,0.0,nombre: Wikipedia (en) Uruguayan general election 2014,-1.01,-1.0,3.0,juicio+vparty+manifesto,-1.39,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+UY-2014-PRES-1,UY,2014,1,Gonzalo Abella,Partido Asamblea Popular,26869,1.171,0.0,,nombre: Wikipedia (en) Uruguayan general election 2014,,,,,,,,,,
+UY-2014-PRES-1,UY,2014,1,Pedro Bordaberry,Partido Colorado,305699,13.327,0.0,,nombre: Wikipedia (en) Uruguayan general election 2014,0.74,1.0,3.0,juicio+vparty+manifesto,-0.5,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+UY-2014-PRES-1,UY,2014,1,César Vega,Partido Ecologista Radical Intransigente,17835,0.778,0.0,,nombre: Wikipedia (en) Uruguayan general election 2014,,,,,,,,,,
+UY-2014-PRES-1,UY,2014,1,Pablo Mieres,Partido Independiente,73379,3.199,0.0,,nombre: Wikipedia (en) Uruguayan general election 2014,0.08,0.0,2.0,juicio+manifesto,0.0,0.0,1.0,juicio,manifesto_vparty_juicio,1.0
+UY-2014-PRES-1,UY,2014,1,Luis Lacalle Pou,Partido Nacional,732601,31.938,0.0,,nombre: Wikipedia (en) Uruguayan general election 2014,0.85,1.0,3.0,juicio+vparty+manifesto,-0.2,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,1.0
+UY-2014-PRES-1,UY,2014,1,Rafael Fernández,Partido de los Trabajadores,3218,0.14,0.0,,nombre: Wikipedia (en) Uruguayan general election 2014,,,,,,,,,,
+UY-2014-PRES-2,UY,2014,2,Lacalle Pou / Larrañaga,,955741,43.496,0.0,,,0.85,1.0,3.0,juicio+vparty+manifesto,-0.2,0.0,2.0,juicio+vparty,manifesto_vparty_juicio,0.67
+UY-2014-PRES-2,UY,2014,2,Vazquez / Sendic,,1241568,56.504,1.0,0.0,,-1.01,-1.0,3.0,juicio+vparty+manifesto,-1.39,-1.0,2.0,juicio+vparty,manifesto_vparty_juicio,0.5
+UY-2019-PRES-1,UY,2019,1,Gonzalo Abella,Partido Asamblea Popular,19728,0.841,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,,,,,,,,,,
+UY-2019-PRES-1,UY,2019,1,Guido Manini Ríos,Partido Cabildo Abierto,268736,11.46,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,1.39,1.0,2.0,ches+vparty,1.17,2.0,2.0,ches+vparty,ches_la_partido,1.0
+UY-2019-PRES-1,UY,2019,1,Ernesto Talvi,Partido Colorado,300177,12.801,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,0.69,1.0,2.0,ches+vparty,-0.54,0.0,2.0,ches+vparty,ches_la_partido,1.0
+UY-2019-PRES-1,UY,2019,1,Daniel Goldman,Partido Digital,6363,0.271,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,-0.78,-1.0,2.0,ches+vparty,-1.49,-1.0,2.0,ches+vparty,ches_la_partido,0.5
+UY-2019-PRES-1,UY,2019,1,César Vega,Partido Ecologista Radical Intransigente,33461,1.427,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,,,,,,,,,,
+UY-2019-PRES-1,UY,2019,1,Daniel Martínez,Partido Frente Amplio,949376,40.486,1.0,0.0,nombre: Wikipedia (en) Uruguayan general election 2019,-0.78,-1.0,2.0,ches+vparty,-1.49,-1.0,2.0,ches+vparty,ches_la_partido,1.0
+UY-2019-PRES-1,UY,2019,1,Pablo Mieres,Partido Independiente,23580,1.006,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,,,,,,,,,,
+UY-2019-PRES-1,UY,2019,1,Luis Lacalle Pou,Partido Nacional,696452,29.7,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,0.95,1.0,2.0,ches+vparty,-0.09,0.0,2.0,ches+vparty,ches_la_partido,1.0
+UY-2019-PRES-1,UY,2019,1,Gustavo Salle,Partido Verde Animalista,19392,0.827,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,,,,,,,,,,
+UY-2019-PRES-1,UY,2019,1,Edgardo Novick,Partido de la Gente,26313,1.122,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,,,,,,,,,,
+UY-2019-PRES-1,UY,2019,1,Rafael Fernández Rodríguez,Partido de los Trabajadores,1387,0.059,0.0,,nombre: Wikipedia (en) Uruguayan general election 2019,,,,,,,,,,
+UY-2019-PRES-2,UY,2019,2,Lacalle Pou / Argimon,,1189313,50.791,0.0,,,0.95,1.0,2.0,ches+vparty,-0.09,0.0,2.0,ches+vparty,ches_la_partido,0.67
+UY-2019-PRES-2,UY,2019,2,Martinez / Villar,,1152271,49.209,1.0,0.0,,-0.78,-1.0,2.0,ches+vparty,-1.49,-1.0,2.0,ches+vparty,ches_la_partido,0.5
+UY-2024-PRES-1,UY,2024,1,Gonzalo Martínez,Partido Asamblea Popular,10102,0.435,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-1,UY,2024,1,Martín Pérez Banchero,Partido Avanzar Republicano,1909,0.082,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-1,UY,2024,1,Guido Manini Ríos,Partido Cabildo Abierto,60549,2.605,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,0.83,1.0,1.0,ches,1.77,2.0,1.0,ches,ches_la_partido,1.0
+UY-2024-PRES-1,UY,2024,1,Andrés Ojeda,Partido Colorado,392592,16.892,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,0.67,1.0,1.0,ches,0.07,0.0,1.0,ches,ches_la_partido,1.0
+UY-2024-PRES-1,UY,2024,1,Eduardo Lust,Partido Constitucional Ambientalista,11865,0.511,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-1,UY,2024,1,César Vega,Partido Ecologista Radical Intransigente,9281,0.399,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-1,UY,2024,1,Yamandú Orsi,Partido Frente Amplio,1071826,46.117,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,-0.77,-1.0,1.0,ches,-1.2,-1.0,1.0,ches,ches_la_partido,1.0
+UY-2024-PRES-1,UY,2024,1,Gustavo Salle,Partido Identidad Soberana,65796,2.831,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-1,UY,2024,1,Pablo Mieres,Partido Independiente,41618,1.791,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-1,UY,2024,1,Álvaro Delgado,Partido Nacional,655426,28.201,1.0,0.0,nombre: Wikipedia (en) Uruguayan general election 2024,0.87,1.0,1.0,ches,0.9,1.0,1.0,ches,ches_la_partido,1.0
+UY-2024-PRES-1,UY,2024,1,Guillermo Franchi,Partido Por Los Cambios Necesarios (PCN),3183,0.137,0.0,,nombre: Wikipedia (en) Uruguayan general election 2024,,,,,,,,,,
+UY-2024-PRES-2,UY,2024,2,Álvaro Delgado,,1119537,48.0,1.0,0.0,,0.87,1.0,1.0,ches,0.9,1.0,1.0,ches,ches_la_partido,1.0
+UY-2024-PRES-2,UY,2024,2,Yamandú Orsi,,1212833,52.0,0.0,,,-0.77,-1.0,1.0,ches,-1.2,-1.0,1.0,ches,ches_la_partido,1.0
+PE-2026-PRES-1,PE,2026,1,Keiko Fujimori,Fuerza Popular,2877678,17.19,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",1.06,1.0,2.0,juicio+ches,1.8,2.0,2.0,juicio+ches,fuente_citada,1.0
+PE-2026-PRES-1,PE,2026,1,Roberto Sánchez,Juntos por el Perú,2015114,12.04,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0
+PE-2026-PRES-1,PE,2026,1,Rafael López Aliaga,Renovación Popular,1993905,11.91,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",1.96,2.0,2.0,juicio+ches,1.96,2.0,2.0,juicio+ches,fuente_citada,1.0
+PE-2026-PRES-1,PE,2026,1,Jorge Nieto,Partido del Buen Gobierno,1837517,10.98,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",-1.0,-1.0,1.0,juicio,-1.0,-1.0,1.0,juicio,conocimiento_general_verificar,1.0
+PE-2026-PRES-1,PE,2026,1,Ricardo Belmont,Partido Cívico OBRAS,1698903,10.15,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",0.0,0.0,1.0,juicio,,,0.0,,fuente_citada,1.0
+PE-2026-PRES-1,PE,2026,1,Carlos Álvarez,País para Todos,1326717,7.93,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,1.0
+PE-2026-PRES-1,PE,2026,1,Alfonso López Chau,Ahora Nación,1221272,7.3,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",-1.0,-1.0,1.0,juicio,,,0.0,,fuente_citada,1.0
+PE-2026-PRES-1,PE,2026,1,Marisol Pérez Tello,Primero la Gente,571170,3.41,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",0.0,0.0,1.0,juicio,,,0.0,,fuente_citada,1.0
+PE-2026-PRES-1,PE,2026,1,Carlos Espá,SíCreo,560792,3.35,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,0.5
+PE-2026-PRES-1,PE,2026,1,Fernando Olivera,Frente de la Esperanza 2021,307880,1.84,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,José Luna,Podemos Perú,266768,1.59,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Yonhy Lescano,Cooperación Popular,214779,1.28,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,César Acuña,Alianza para el Progreso,192516,1.15,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Enrique Valderrama,Partido Aprista Peruano,161248,0.96,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,George Forsyth,Somos Perú,153073,0.91,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Herbert Caller,Partido Patriótico del Perú,144183,0.86,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Mario Vizcarra,Perú Primero,143908,0.86,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Ronald Atencio,Venceremos,140174,0.84,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Rosario Fernández,Un Camino Diferente,128009,0.76,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Charlie Carrasco,Partido Demócrata Unido Perú,119028,0.71,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Vladimir Cerrón,Perú Libre,100073,0.6,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Mesías Guevara,Partido Morado,82196,0.49,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Roberto Chiabra,Unidad Nacional,67939,0.41,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,0.5
+PE-2026-PRES-1,PE,2026,1,Paul Jaimes,Progresemos,66046,0.39,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Álex Gonzales,Partido Demócrata Verde,63924,0.38,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Wolfgang Grozo,Integridad Democrática,63751,0.38,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Rafael Belaúnde Llosa,Libertad Popular,40870,0.24,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,José Williams,Avanza País,32585,0.19,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Francisco Diez-Canseco,Acción Perú,31710,0.19,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Fiorella Molinelli,Fuerza y Libertad,27217,0.16,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Álvaro Paz de la Barra,Fe en el Perú,23335,0.14,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Armando Massé,Partido Democrático Federal,21744,0.13,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Antonio Ortiz,Salvemos al Perú,17648,0.11,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Walter Chirinos,PRIN,14566,0.09,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-1,PE,2026,1,Carlos Jaico,Perú Moderno,9801,0.06,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",1.0,1.0,1.0,juicio,1.0,1.0,1.0,juicio,conocimiento_general_verificar,0.5
+PE-2026-PRES-1,PE,2026,1,Napoleón Becerra,Partido de los Trabajadores y Emprendedores,0,0.0,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",,,,,,,,,,
+PE-2026-PRES-2,PE,2026,2,Keiko Fujimori,Fuerza Popular,9223396,50.13,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",1.06,1.0,2.0,juicio+ches,1.8,2.0,2.0,juicio+ches,fuente_citada,1.0
+PE-2026-PRES-2,PE,2026,2,Roberto Sánchez,Juntos por el Perú,9173755,49.87,,,"Wikipedia (en) 2026 Peruvian general election (cifras ONPE); solo nivel nacional, sin desagregación regional",-2.0,-2.0,1.0,juicio,-1.0,-1.0,1.0,juicio,fuente_citada,1.0

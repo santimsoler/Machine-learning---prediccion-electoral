@@ -1,0 +1,652 @@
+id_eleccion,pais,anio,vuelta,fecha,departamento,lema_o_candidato,candidato,votos,votos_validos_depto,votos_blancos,votos_anulados,votos_emitidos,votos_observados_sin_asignar,habilitados,participacion,estado_control,fuente
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Frente Amplio,,497184,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Partido Asamblea Popular,,14198,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Partido Colorado,,98658,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Partido Ecologista Radical Intransigente,,11004,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Partido Independiente,,38311,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Partido Nacional,,238834,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MONTEVIDEO,Partido de los Trabajadores,,1496,899685,9212,13857,934973,5919,1050434,0.8901,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Frente Amplio,,176187,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Partido Asamblea Popular,,4133,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Partido Colorado,,37669,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Partido Ecologista Radical Intransigente,,3802,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Partido Nacional,,99090,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Partido Independiente,,10827,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CANELONES,Partido de los Trabajadores,,480,332188,5150,5893,347558,1794,380520,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Frente Amplio,,46692,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Partido Asamblea Popular,,955,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Partido Colorado,,18890,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Partido Ecologista Radical Intransigente,,1566,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Partido Independiente,,3853,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Partido Nacional,,42010,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,MALDONADO,Partido de los Trabajadores,,135,114101,1443,1995,119489,1005,130667,0.9145,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ROCHA,Frente Amplio,,23403,52738,829,975,55812,688,60908,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ROCHA,Partido Asamblea Popular,,829,52738,829,975,55812,688,60908,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ROCHA,Partido Colorado,,7958,52738,829,975,55812,688,60908,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ROCHA,Partido Independiente,,1460,52738,829,975,55812,688,60908,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ROCHA,Partido Nacional,,19001,52738,829,975,55812,688,60908,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ROCHA,Partido de los Trabajadores,,87,52738,829,975,55812,688,60908,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TREINTA Y TRES,Frente Amplio,,15329,37274,419,513,39753,1259,42638,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TREINTA Y TRES,Partido Asamblea Popular,,298,37274,419,513,39753,1259,42638,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TREINTA Y TRES,Partido Colorado,,3500,37274,419,513,39753,1259,42638,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TREINTA Y TRES,Partido Independiente,,525,37274,419,513,39753,1259,42638,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TREINTA Y TRES,Partido Nacional,,17590,37274,419,513,39753,1259,42638,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TREINTA Y TRES,Partido de los Trabajadores,,32,37274,419,513,39753,1259,42638,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CERRO LARGO,Frente Amplio,,29191,63321,734,672,66969,1765,72502,0.9237,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CERRO LARGO,Partido Asamblea Popular,,443,63321,734,672,66969,1765,72502,0.9237,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CERRO LARGO,Partido Colorado,,7722,63321,734,672,66969,1765,72502,0.9237,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CERRO LARGO,Partido Independiente,,884,63321,734,672,66969,1765,72502,0.9237,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CERRO LARGO,Partido Nacional,,25002,63321,734,672,66969,1765,72502,0.9237,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,CERRO LARGO,Partido de los Trabajadores,,79,63321,734,672,66969,1765,72502,0.9237,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RIVERA,Frente Amplio,,27987,74840,946,738,79096,1945,87330,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RIVERA,Partido Colorado,,20738,74840,946,738,79096,1945,87330,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RIVERA,Partido Independiente,,1045,74840,946,738,79096,1945,87330,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RIVERA,Partido Nacional,,24461,74840,946,738,79096,1945,87330,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RIVERA,Partido Asamblea Popular,,459,74840,946,738,79096,1945,87330,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RIVERA,Partido de los Trabajadores,,150,74840,946,738,79096,1945,87330,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Frente Amplio,,21964,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Partido Asamblea Popular,,418,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Partido Colorado,,9073,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Partido Nacional,,20881,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Partido Independiente,,628,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Partido Ecologista Radical Intransigente,,70,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,ARTIGAS,Partido de los Trabajadores,,24,53058,571,620,56301,1655,62729,0.8975,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SALTO,Frente Amplio,,45409,88288,1166,774,92312,1621,102598,0.8997,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SALTO,Partido Colorado,,20614,88288,1166,774,92312,1621,102598,0.8997,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SALTO,Partido Independiente,,2113,88288,1166,774,92312,1621,102598,0.8997,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SALTO,Partido Nacional,,19659,88288,1166,774,92312,1621,102598,0.8997,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SALTO,Partido Asamblea Popular,,412,88288,1166,774,92312,1621,102598,0.8997,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SALTO,Partido de los Trabajadores,,81,88288,1166,774,92312,1621,102598,0.8997,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Frente Amplio,,40860,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Partido Asamblea Popular,,689,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Partido Colorado,,9209,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Partido Independiente,,1541,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Partido Nacional,,28838,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Partido Ecologista Radical Intransigente,,516,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,PAYSANDÚ,Partido de los Trabajadores,,68,81721,953,889,86335,2176,94517,0.9134,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RÍO NEGRO,Frente Amplio,,17434,38999,500,564,41098,610,45424,0.9048,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RÍO NEGRO,Partido Asamblea Popular,,286,38999,500,564,41098,610,45424,0.9048,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RÍO NEGRO,Partido Colorado,,6574,38999,500,564,41098,610,45424,0.9048,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RÍO NEGRO,Partido Nacional,,13848,38999,500,564,41098,610,45424,0.9048,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RÍO NEGRO,Partido Independiente,,809,38999,500,564,41098,610,45424,0.9048,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,RÍO NEGRO,Partido de los Trabajadores,,48,38999,500,564,41098,610,45424,0.9048,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SORIANO,Frente Amplio,,30117,63488,836,884,67339,1576,73036,0.922,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SORIANO,Partido Colorado,,9073,63488,836,884,67339,1576,73036,0.922,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SORIANO,Partido Independiente,,1413,63488,836,884,67339,1576,73036,0.922,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SORIANO,Partido Nacional,,22184,63488,836,884,67339,1576,73036,0.922,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SORIANO,Partido Asamblea Popular,,579,63488,836,884,67339,1576,73036,0.922,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SORIANO,Partido de los Trabajadores,,122,63488,836,884,67339,1576,73036,0.922,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Frente Amplio,,39877,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Partido Asamblea Popular,,620,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Partido Colorado,,12569,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Partido Ecologista Radical Intransigente,,444,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Partido Independiente,,2592,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Partido Nacional,,35378,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,COLONIA,Partido de los Trabajadores,,78,91558,1020,1318,95707,1173,104078,0.9196,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Frente Amplio,,33665,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Partido Asamblea Popular,,680,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Partido Colorado,,8707,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Partido Ecologista Radical Intransigente,,433,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Partido Independiente,,2011,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Partido Nacional,,27291,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,SAN JOSÉ,Partido de los Trabajadores,,68,72855,968,1122,76539,1080,82097,0.9323,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORES,Frente Amplio,,6903,19980,251,214,20924,334,22524,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORES,Partido Colorado,,2902,19980,251,214,20924,334,22524,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORES,Partido Independiente,,362,19980,251,214,20924,334,22524,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORES,Partido Nacional,,9658,19980,251,214,20924,334,22524,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORES,Partido Asamblea Popular,,133,19980,251,214,20924,334,22524,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORES,Partido de los Trabajadores,,22,19980,251,214,20924,334,22524,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORIDA,Frente Amplio,,20991,51234,573,646,54411,1560,58165,0.9355,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORIDA,Partido Asamblea Popular,,536,51234,573,646,54411,1560,58165,0.9355,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORIDA,Partido Colorado,,8159,51234,573,646,54411,1560,58165,0.9355,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORIDA,Partido Independiente,,1575,51234,573,646,54411,1560,58165,0.9355,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORIDA,Partido Nacional,,19877,51234,573,646,54411,1560,58165,0.9355,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,FLORIDA,Partido de los Trabajadores,,96,51234,573,646,54411,1560,58165,0.9355,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,DURAZNO,Frente Amplio,,16614,43712,512,428,46909,1882,50332,0.932,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,DURAZNO,Partido Colorado,,5627,43712,512,428,46909,1882,50332,0.932,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,DURAZNO,Partido Independiente,,1016,43712,512,428,46909,1882,50332,0.932,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,DURAZNO,Partido Nacional,,19979,43712,512,428,46909,1882,50332,0.932,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,DURAZNO,Partido Asamblea Popular,,432,43712,512,428,46909,1882,50332,0.932,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,DURAZNO,Partido de los Trabajadores,,44,43712,512,428,46909,1882,50332,0.932,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,LAVALLEJA,Frente Amplio,,16431,46008,631,658,48491,844,52254,0.928,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,LAVALLEJA,Partido Asamblea Popular,,273,46008,631,658,48491,844,52254,0.928,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,LAVALLEJA,Partido Colorado,,7877,46008,631,658,48491,844,52254,0.928,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,LAVALLEJA,Partido Independiente,,1195,46008,631,658,48491,844,52254,0.928,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,LAVALLEJA,Partido Nacional,,20184,46008,631,658,48491,844,52254,0.928,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,LAVALLEJA,Partido de los Trabajadores,,48,46008,631,658,48491,844,52254,0.928,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TACUAREMBÓ,Frente Amplio,,27949,68740,891,659,72799,2034,78736,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TACUAREMBÓ,Partido Colorado,,10180,68740,891,659,72799,2034,78736,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TACUAREMBÓ,Partido Independiente,,1219,68740,891,659,72799,2034,78736,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TACUAREMBÓ,Partido Nacional,,28836,68740,891,659,72799,2034,78736,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TACUAREMBÓ,Partido Asamblea Popular,,496,68740,891,659,72799,2034,78736,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-1,UY,2014,1,2014-10-26,TACUAREMBÓ,Partido de los Trabajadores,,60,68740,891,659,72799,2034,78736,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,MONTEVIDEO,,Vazquez / Sendic,524966,856420,25859,28386,916486,5821,1050201,0.8727,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,MONTEVIDEO,,Lacalle Pou / Larrañaga,331454,856420,25859,28386,916486,5821,1050201,0.8727,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,CANELONES,,Vazquez / Sendic,190042,319270,9900,9658,340575,1747,380442,0.8952,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,CANELONES,,Lacalle Pou / Larrañaga,129228,319270,9900,9658,340575,1747,380442,0.8952,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,MALDONADO,,Vazquez / Sendic,52679,109290,3331,3344,117011,1046,130694,0.8953,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,MALDONADO,,Lacalle Pou / Larrañaga,56611,109290,3331,3344,117011,1046,130694,0.8953,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,ROCHA,,Vazquez / Sendic,26389,50883,1790,1493,54894,728,60946,0.9007,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,ROCHA,,Lacalle Pou / Larrañaga,24494,50883,1790,1493,54894,728,60946,0.9007,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,TREINTA Y TRES,,Vazquez / Sendic,17563,36176,882,739,39192,1395,42773,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,TREINTA Y TRES,,Lacalle Pou / Larrañaga,18613,36176,882,739,39192,1395,42773,0.9163,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,CERRO LARGO,,Vazquez / Sendic,33915,61760,1502,844,65947,1841,72579,0.9086,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,CERRO LARGO,,Lacalle Pou / Larrañaga,27845,61760,1502,844,65947,1841,72579,0.9086,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,RIVERA,,Vazquez / Sendic,35782,71632,2137,1303,77403,2331,87727,0.8823,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,RIVERA,,Lacalle Pou / Larrañaga,35850,71632,2137,1303,77403,2331,87727,0.8823,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,ARTIGAS,,Vazquez / Sendic,25999,51029,991,714,54860,2126,63195,0.8681,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,ARTIGAS,,Lacalle Pou / Larrañaga,25030,51029,991,714,54860,2126,63195,0.8681,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,SALTO,,Vazquez / Sendic,51469,84786,2134,1313,89883,1650,102646,0.8757,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,SALTO,,Lacalle Pou / Larrañaga,33317,84786,2134,1313,89883,1650,102646,0.8757,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,PAYSANDÚ,,Vazquez / Sendic,44720,78595,1823,1719,84836,2699,95039,0.8926,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,PAYSANDÚ,,Lacalle Pou / Larrañaga,33875,78595,1823,1719,84836,2699,95039,0.8926,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,RÍO NEGRO,,Vazquez / Sendic,19688,37700,894,849,40043,600,45410,0.8818,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,RÍO NEGRO,,Lacalle Pou / Larrañaga,18012,37700,894,849,40043,600,45410,0.8818,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,SORIANO,,Vazquez / Sendic,33139,61397,1639,1512,66445,1897,73352,0.9058,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,SORIANO,,Lacalle Pou / Larrañaga,28258,61397,1639,1512,66445,1897,73352,0.9058,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,COLONIA,,Vazquez / Sendic,44649,88360,2330,2009,94067,1368,104255,0.9023,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,COLONIA,,Lacalle Pou / Larrañaga,43711,88360,2330,2009,94067,1368,104255,0.9023,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,SAN JOSÉ,,Vazquez / Sendic,37450,70136,1993,1625,75087,1333,82354,0.9118,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,SAN JOSÉ,,Lacalle Pou / Larrañaga,32686,70136,1993,1625,75087,1333,82354,0.9118,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,FLORES,,Vazquez / Sendic,8217,19341,505,303,20501,352,22542,0.9095,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,FLORES,,Lacalle Pou / Larrañaga,11124,19341,505,303,20501,352,22542,0.9095,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,FLORIDA,,Vazquez / Sendic,24105,48912,1381,1235,53399,1871,58471,0.9133,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,FLORIDA,,Lacalle Pou / Larrañaga,24807,48912,1381,1235,53399,1871,58471,0.9133,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,DURAZNO,,Vazquez / Sendic,19871,41600,1198,877,45875,2200,50649,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,DURAZNO,,Lacalle Pou / Larrañaga,21729,41600,1198,877,45875,2200,50649,0.9057,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,LAVALLEJA,,Vazquez / Sendic,19110,43904,1455,973,47439,1107,52518,0.9033,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,LAVALLEJA,,Lacalle Pou / Larrañaga,24794,43904,1455,973,47439,1107,52518,0.9033,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,TACUAREMBÓ,,Vazquez / Sendic,31815,66118,1847,1146,71473,2362,79039,0.9043,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2014-PRES-2,UY,2014,2,2014-11-30,TACUAREMBÓ,,Lacalle Pou / Larrañaga,34303,66118,1847,1146,71473,2362,79039,0.9043,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Frente Amplio,,438839,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Nacional,,214675,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Colorado,,98559,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Independiente,,12415,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Asamblea Popular,,10888,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido de los Trabajadores,,720,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Ecologista Radical Intransigente,,15978,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido de la Gente,,11715,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Verde Animalista,,10081,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Digital,,3079,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MONTEVIDEO,Partido Cabildo Abierto,,76410,893359,9527,18358,933197,7536,1053066,0.8862,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Frente Amplio,,158221,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Nacional,,101417,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Colorado,,35177,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Independiente,,3601,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Asamblea Popular,,3139,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido de los Trabajadores,,219,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Ecologista Radical Intransigente,,6409,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido de la Gente,,5347,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Verde Animalista,,3106,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Digital,,1093,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CANELONES,Partido Cabildo Abierto,,35202,352931,5617,8596,371983,2427,411087,0.9049,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Frente Amplio,,37496,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Nacional,,47339,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Colorado,,15281,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Independiente,,1437,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Asamblea Popular,,737,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido de los Trabajadores,,61,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Ecologista Radical Intransigente,,2782,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido de la Gente,,1229,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Verde Animalista,,1437,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Digital,,413,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,MALDONADO,Partido Cabildo Abierto,,15751,123963,1458,2534,130093,1269,142659,0.9119,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Frente Amplio,,18903,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Nacional,,17317,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Colorado,,5788,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Independiente,,310,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Asamblea Popular,,502,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido de los Trabajadores,,38,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Ecologista Radical Intransigente,,919,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido de la Gente,,348,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Verde Animalista,,430,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Digital,,85,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ROCHA,Partido Cabildo Abierto,,10553,55193,820,1093,58324,742,63764,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Frente Amplio,,10553,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Nacional,,15074,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Colorado,,3285,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Independiente,,143,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Asamblea Popular,,164,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido de los Trabajadores,,21,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Ecologista Radical Intransigente,,198,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido de la Gente,,316,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Verde Animalista,,253,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Digital,,75,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TREINTA Y TRES,Partido Cabildo Abierto,,7922,38004,532,648,40570,1076,44083,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Frente Amplio,,19895,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Nacional,,26215,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Colorado,,5257,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Independiente,,259,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Asamblea Popular,,215,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido de los Trabajadores,,18,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Ecologista Radical Intransigente,,317,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido de la Gente,,401,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Verde Animalista,,350,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Digital,,64,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,CERRO LARGO,Partido Cabildo Abierto,,12232,65223,844,826,69163,1724,74926,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Frente Amplio,,15274,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Nacional,,20419,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Colorado,,21256,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Independiente,,261,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Asamblea Popular,,318,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido de los Trabajadores,,52,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Ecologista Radical Intransigente,,181,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido de la Gente,,231,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Verde Animalista,,261,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Digital,,86,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RIVERA,Partido Cabildo Abierto,,18948,77287,809,927,81579,2096,91089,0.8956,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Frente Amplio,,15046,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Nacional,,24224,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Colorado,,4813,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Independiente,,151,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Asamblea Popular,,152,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido de los Trabajadores,,15,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Ecologista Radical Intransigente,,185,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido de la Gente,,139,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Verde Animalista,,137,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Digital,,54,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,ARTIGAS,Partido Cabildo Abierto,,10084,55000,513,669,58178,1694,64640,0.9,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Frente Amplio,,33720,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Nacional,,21681,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Colorado,,22001,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Independiente,,561,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Asamblea Popular,,276,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido de los Trabajadores,,29,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Ecologista Radical Intransigente,,506,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido de la Gente,,1080,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Verde Animalista,,271,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Digital,,171,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SALTO,Partido Cabildo Abierto,,11474,91770,1100,1081,96191,1620,105642,0.9105,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Frente Amplio,,32698,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Nacional,,28971,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Colorado,,11378,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Independiente,,509,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Asamblea Popular,,677,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido de los Trabajadores,,32,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Ecologista Radical Intransigente,,1154,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido de la Gente,,701,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Verde Animalista,,442,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Digital,,158,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,PAYSANDÚ,Partido Cabildo Abierto,,6919,83639,997,1276,89219,2668,98237,0.9082,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Frente Amplio,,14263,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Nacional,,13546,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Colorado,,6816,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Independiente,,286,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Asamblea Popular,,163,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Ecologista Radical Intransigente,,325,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido de la Gente,,224,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Verde Animalista,,187,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Digital,,89,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,RÍO NEGRO,Partido Cabildo Abierto,,4604,40503,533,614,42511,563,47138,0.9018,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Frente Amplio,,23386,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Nacional,,20951,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Colorado,,10454,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Independiente,,310,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Asamblea Popular,,381,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Ecologista Radical Intransigente,,877,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido de la Gente,,476,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Verde Animalista,,287,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Digital,,141,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SORIANO,Partido Cabildo Abierto,,7620,64883,876,1099,69021,1696,75619,0.9127,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Frente Amplio,,34068,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Nacional,,32691,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Colorado,,15750,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Independiente,,879,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Asamblea Popular,,482,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido de los Trabajadores,,47,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Ecologista Radical Intransigente,,958,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido de la Gente,,1104,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Verde Animalista,,409,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Digital,,160,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,COLONIA,Partido Cabildo Abierto,,7099,93647,1228,1907,98806,1326,107775,0.9168,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Frente Amplio,,29257,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Nacional,,26360,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Colorado,,8140,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Independiente,,748,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Asamblea Popular,,520,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido de los Trabajadores,,42,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Ecologista Radical Intransigente,,897,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido de la Gente,,792,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Verde Animalista,,412,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Digital,,161,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,SAN JOSÉ,Partido Cabildo Abierto,,8022,75351,1033,1515,79510,977,85589,0.929,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Frente Amplio,,5308,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Nacional,,7357,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Colorado,,4055,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Independiente,,116,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Asamblea Popular,,70,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido de los Trabajadores,,7,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Ecologista Radical Intransigente,,134,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido de la Gente,,204,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Verde Animalista,,71,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Digital,,39,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORES,Partido Cabildo Abierto,,2874,20235,218,294,21129,259,22838,0.9252,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Frente Amplio,,17267,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Nacional,,18809,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Colorado,,7919,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Independiente,,405,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Asamblea Popular,,266,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido de los Trabajadores,,29,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Ecologista Radical Intransigente,,359,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido de la Gente,,454,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Verde Animalista,,546,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Digital,,89,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,FLORIDA,Partido Cabildo Abierto,,5611,51754,629,990,55303,1539,59574,0.9283,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Frente Amplio,,13087,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Nacional,,16577,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Colorado,,5852,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Independiente,,325,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Asamblea Popular,,307,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido de los Trabajadores,,21,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Ecologista Radical Intransigente,,275,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido de la Gente,,258,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Verde Animalista,,132,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Digital,,243,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,DURAZNO,Partido Cabildo Abierto,,8135,45212,453,605,48055,1393,51787,0.9279,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Frente Amplio,,11856,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Nacional,,17608,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Colorado,,8198,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Independiente,,377,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Asamblea Popular,,158,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido de los Trabajadores,,21,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Ecologista Radical Intransigente,,491,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido de la Gente,,325,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Verde Animalista,,216,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Digital,,83,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,LAVALLEJA,Partido Cabildo Abierto,,7024,46357,575,688,48717,729,52537,0.9273,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Frente Amplio,,20239,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Nacional,,25221,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Colorado,,10198,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Independiente,,487,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Asamblea Popular,,313,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido de los Trabajadores,,15,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Ecologista Radical Intransigente,,516,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido de la Gente,,969,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Verde Animalista,,364,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Digital,,80,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-1,UY,2019,1,2019-10-27,TACUAREMBÓ,Partido Cabildo Abierto,,12252,70654,929,877,74962,2018,81075,0.9246,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,MONTEVIDEO,,Martinez / Villar,507346,891337,13924,22240,935170,7669,1053116,0.888,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,MONTEVIDEO,,Lacalle Pou / Argimon,383991,891337,13924,22240,935170,7669,1053116,0.888,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,CANELONES,,Martinez / Villar,189577,354927,6006,8686,372403,2784,411393,0.9052,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,CANELONES,,Lacalle Pou / Argimon,165350,354927,6006,8686,372403,2784,411393,0.9052,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,MALDONADO,,Martinez / Villar,48768,122961,2193,3576,130167,1437,142818,0.9114,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,MALDONADO,,Lacalle Pou / Argimon,74193,122961,2193,3576,130167,1437,142818,0.9114,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,ROCHA,,Martinez / Villar,24129,54865,1195,1472,58321,789,63808,0.914,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,ROCHA,,Lacalle Pou / Argimon,30736,54865,1195,1472,58321,789,63808,0.914,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,TREINTA Y TRES,,Martinez / Villar,14155,37857,626,885,40527,1159,44159,0.9178,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,TREINTA Y TRES,,Lacalle Pou / Argimon,23702,37857,626,885,40527,1159,44159,0.9178,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,CERRO LARGO,,Martinez / Villar,26466,65086,1052,1083,69035,1814,75011,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,CERRO LARGO,,Lacalle Pou / Argimon,38620,65086,1052,1083,69035,1814,75011,0.9203,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,RIVERA,,Martinez / Villar,24029,76871,1216,1060,81290,2143,91135,0.892,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,RIVERA,,Lacalle Pou / Argimon,52842,76871,1216,1060,81290,2143,91135,0.892,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,ARTIGAS,,Martinez / Villar,19800,54758,671,746,57890,1715,64657,0.8953,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,ARTIGAS,,Lacalle Pou / Argimon,34958,54758,671,746,57890,1715,64657,0.8953,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,SALTO,,Martinez / Villar,43398,91638,1448,1279,96046,1681,105719,0.9085,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,SALTO,,Lacalle Pou / Argimon,48240,91638,1448,1279,96046,1681,105719,0.9085,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,PAYSANDÚ,,Martinez / Villar,40114,83518,1305,1767,89429,2839,98407,0.9088,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,PAYSANDÚ,,Lacalle Pou / Argimon,43404,83518,1305,1767,89429,2839,98407,0.9088,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,RÍO NEGRO,,Martinez / Villar,17485,40438,613,747,42376,578,47152,0.8987,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,RÍO NEGRO,,Lacalle Pou / Argimon,22953,40438,613,747,42376,578,47152,0.8987,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,SORIANO,,Martinez / Villar,30453,64771,1027,1454,69043,1791,75718,0.9118,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,SORIANO,,Lacalle Pou / Argimon,34318,64771,1027,1454,69043,1791,75718,0.9118,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,COLONIA,,Martinez / Villar,41946,94057,1425,1894,98756,1380,107819,0.9159,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,COLONIA,,Lacalle Pou / Argimon,52111,94057,1425,1894,98756,1380,107819,0.9159,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,SAN JOSÉ,,Martinez / Villar,35178,75425,1323,1649,79441,1044,85654,0.9275,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,SAN JOSÉ,,Lacalle Pou / Argimon,40247,75425,1323,1649,79441,1044,85654,0.9275,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,FLORES,,Martinez / Villar,6990,20092,356,372,21086,266,22842,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,FLORES,,Lacalle Pou / Argimon,13102,20092,356,372,21086,266,22842,0.9231,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,FLORIDA,,Martinez / Villar,22419,51676,878,1231,55432,1647,59678,0.9289,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,FLORIDA,,Lacalle Pou / Argimon,29257,51676,878,1231,55432,1647,59678,0.9289,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,DURAZNO,,Martinez / Villar,17905,44853,768,915,48105,1569,51960,0.9258,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,DURAZNO,,Lacalle Pou / Argimon,26948,44853,768,915,48105,1569,51960,0.9258,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,LAVALLEJA,,Martinez / Villar,15934,46183,792,928,48678,775,52577,0.9258,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,LAVALLEJA,,Lacalle Pou / Argimon,30249,46183,792,928,48678,775,52577,0.9258,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,TACUAREMBÓ,,Martinez / Villar,26179,70271,1206,1209,74834,2148,81190,0.9217,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2019-PRES-2,UY,2019,2,2019-11-24,TACUAREMBÓ,,Lacalle Pou / Argimon,44092,70271,1206,1209,74834,2148,81190,0.9217,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Asamblea Popular,,5367,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Cabildo Abierto,,21467,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Colorado,,119383,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Ecologista Radical Intransigente,,3533,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Frente Amplio,,470466,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Identidad Soberana,,27360,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Independiente,,26392,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Nacional,,186127,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Constitucional Ambientalista,,5609,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Avanzar Republicano,,667,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MONTEVIDEO,Partido Por Los Cambios Necesarios (PCN),,744,867115,9215,19512,906749,7197,1025544,0.8842,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Asamblea Popular,,1717,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Cabildo Abierto,,7874,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Colorado,,55981,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Frente Amplio,,190715,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Identidad Soberana,,10502,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Independiente,,4756,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Nacional,,90464,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Ecologista Radical Intransigente,,1810,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Constitucional Ambientalista,,1790,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Por Los Cambios Necesarios (PCN),,319,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CANELONES,Partido Avanzar Republicano,,242,366170,5940,11258,389098,2445,432046,0.9006,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Cabildo Abierto,,3108,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Colorado,,23559,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Ecologista Radical Intransigente,,816,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Frente Amplio,,45719,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Identidad Soberana,,4687,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Independiente,,2175,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Nacional,,49038,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Constitucional Ambientalista,,809,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Por Los Cambios Necesarios (PCN),,122,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Asamblea Popular,,471,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,MALDONADO,Partido Avanzar Republicano,,93,130597,2072,3397,138362,1382,153520,0.9013,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Cabildo Abierto,,1244,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Colorado,,10150,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Frente Amplio,,23232,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Identidad Soberana,,1915,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Independiente,,429,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Nacional,,17995,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Asamblea Popular,,269,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Ecologista Radical Intransigente,,215,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Constitucional Ambientalista,,299,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Por Los Cambios Necesarios (PCN),,161,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ROCHA,Partido Avanzar Republicano,,18,55927,1064,1407,59558,845,66139,0.9005,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Cabildo Abierto,,819,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Colorado,,5788,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Frente Amplio,,12478,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Identidad Soberana,,1098,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Nacional,,15630,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Independiente,,198,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Constitucional Ambientalista,,160,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Ecologista Radical Intransigente,,94,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Por Los Cambios Necesarios (PCN),,61,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Asamblea Popular,,64,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TREINTA Y TRES,Partido Avanzar Republicano,,20,36410,570,834,38499,1210,42584,0.9041,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Cabildo Abierto,,2094,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Colorado,,8357,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Constitucional Ambientalista,,279,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Ecologista Radical Intransigente,,121,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Frente Amplio,,21875,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Identidad Soberana,,1417,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Independiente,,445,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Nacional,,29645,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Por Los Cambios Necesarios (PCN),,214,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Asamblea Popular,,42,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,CERRO LARGO,Partido Avanzar Republicano,,19,64508,986,1072,67283,1444,74217,0.9066,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Cabildo Abierto,,4556,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Colorado,,27524,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Ecologista Radical Intransigente,,159,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Frente Amplio,,20572,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Identidad Soberana,,1537,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Independiente,,453,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Nacional,,20298,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Por Los Cambios Necesarios (PCN),,114,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Asamblea Popular,,170,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Avanzar Republicano,,22,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RIVERA,Partido Constitucional Ambientalista,,200,75605,1286,1073,79142,2378,89320,0.8861,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Cabildo Abierto,,3226,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Colorado,,9768,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Constitucional Ambientalista,,98,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Frente Amplio,,17630,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Identidad Soberana,,804,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Nacional,,21615,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Por Los Cambios Necesarios (PCN),,144,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Avanzar Republicano,,26,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Independiente,,275,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Asamblea Popular,,80,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,ARTIGAS,Partido Ecologista Radical Intransigente,,19,53685,833,848,56114,1746,63203,0.8878,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Avanzar Republicano,,53,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Cabildo Abierto,,3966,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Colorado,,19042,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Constitucional Ambientalista,,370,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Frente Amplio,,39893,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Identidad Soberana,,1859,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Independiente,,818,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Nacional,,24785,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Ecologista Radical Intransigente,,231,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Por Los Cambios Necesarios (PCN),,177,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SALTO,Partido Asamblea Popular,,136,91330,1363,1221,95088,1874,104873,0.9067,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Asamblea Popular,,407,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Cabildo Abierto,,1408,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Colorado,,12386,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Constitucional Ambientalista,,455,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Ecologista Radical Intransigente,,339,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Frente Amplio,,34641,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Identidad Soberana,,2234,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Independiente,,477,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Nacional,,30512,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Por Los Cambios Necesarios (PCN),,162,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,PAYSANDÚ,Partido Avanzar Republicano,,41,83062,1084,1632,87337,2948,96631,0.9038,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Cabildo Abierto,,1052,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Colorado,,8446,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Frente Amplio,,17346,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Independiente,,270,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Nacional,,11333,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Por Los Cambios Necesarios (PCN),,51,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Asamblea Popular,,77,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Constitucional Ambientalista,,131,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Identidad Soberana,,1090,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Ecologista Radical Intransigente,,56,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,RÍO NEGRO,Partido Avanzar Republicano,,26,39878,660,653,42027,519,46493,0.9039,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Colorado,,11656,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Frente Amplio,,25738,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Identidad Soberana,,2001,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Nacional,,21231,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Asamblea Popular,,164,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Cabildo Abierto,,1506,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Independiente,,459,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Constitucional Ambientalista,,190,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Ecologista Radical Intransigente,,496,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Por Los Cambios Necesarios (PCN),,100,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SORIANO,Partido Avanzar Republicano,,52,63593,908,1297,66885,1760,75577,0.885,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Cabildo Abierto,,1455,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Colorado,,16195,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Ecologista Radical Intransigente,,302,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Frente Amplio,,37157,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Identidad Soberana,,2072,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Independiente,,1296,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Nacional,,33339,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Avanzar Republicano,,368,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Constitucional Ambientalista,,335,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Asamblea Popular,,243,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,COLONIA,Partido Por Los Cambios Necesarios (PCN),,147,92909,1302,2159,97783,1630,107895,0.9063,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Asamblea Popular,,297,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Cabildo Abierto,,1426,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Colorado,,12782,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Ecologista Radical Intransigente,,379,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Frente Amplio,,33841,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Identidad Soberana,,1745,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Independiente,,847,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Nacional,,23440,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Constitucional Ambientalista,,298,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Por Los Cambios Necesarios (PCN),,109,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,SAN JOSÉ,Partido Avanzar Republicano,,53,75217,1205,1979,79670,1384,86461,0.9215,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Cabildo Abierto,,311,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Colorado,,4303,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Frente Amplio,,5643,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Identidad Soberana,,353,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Independiente,,190,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Nacional,,8843,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Constitucional Ambientalista,,36,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Ecologista Radical Intransigente,,49,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Por Los Cambios Necesarios (PCN),,69,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Asamblea Popular,,35,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORES,Partido Avanzar Republicano,,16,19848,319,343,20715,239,22692,0.9129,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Asamblea Popular,,125,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Cabildo Abierto,,731,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Colorado,,9427,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Frente Amplio,,19782,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Identidad Soberana,,1272,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Independiente,,650,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Nacional,,18265,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Ecologista Radical Intransigente,,204,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Avanzar Republicano,,16,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Constitucional Ambientalista,,195,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,FLORIDA,Partido Por Los Cambios Necesarios (PCN),,135,50802,830,1020,53422,1726,58174,0.9183,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Cabildo Abierto,,1076,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Colorado,,9553,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Frente Amplio,,16353,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Identidad Soberana,,976,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Independiente,,421,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Nacional,,15774,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Avanzar Republicano,,28,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Ecologista Radical Intransigente,,123,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Constitucional Ambientalista,,137,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Asamblea Popular,,153,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,DURAZNO,Partido Por Los Cambios Necesarios (PCN),,132,44726,672,762,46898,827,51378,0.9128,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Avanzar Republicano,,114,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Cabildo Abierto,,1072,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Colorado,,11127,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Frente Amplio,,14245,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Identidad Soberana,,1259,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Independiente,,468,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Nacional,,14958,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Asamblea Popular,,113,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Ecologista Radical Intransigente,,168,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Constitucional Ambientalista,,211,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,LAVALLEJA,Partido Por Los Cambios Necesarios (PCN),,56,43791,803,1078,46469,829,50761,0.9154,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Avanzar Republicano,,35,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Cabildo Abierto,,2158,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Colorado,,17165,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Ecologista Radical Intransigente,,167,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Frente Amplio,,24500,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Identidad Soberana,,1615,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Independiente,,599,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Nacional,,22134,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Asamblea Popular,,172,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Constitucional Ambientalista,,263,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-1,UY,2024,1,2024-10-27,TACUAREMBÓ,Partido Por Los Cambios Necesarios (PCN),,166,68974,1244,1205,72702,2204,79612,0.9132,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,MONTEVIDEO,,OrsiCosse,508730,869085,12986,24535,906682,7163,1025544,0.8841,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,MONTEVIDEO,,DelgadoRipoll,360355,869085,12986,24535,906682,7163,1025544,0.8841,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,CANELONES,,OrsiCosse,209462,371093,6341,11014,388461,2484,432046,0.8991,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,CANELONES,,DelgadoRipoll,161631,371093,6341,11014,388461,2484,432046,0.8991,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,MALDONADO,,OrsiCosse,54105,131003,2600,4599,138212,1401,153520,0.9003,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,MALDONADO,,DelgadoRipoll,76898,131003,2600,4599,138212,1401,153520,0.9003,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,ROCHA,,OrsiCosse,26570,56196,1260,1909,59368,856,66139,0.8976,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,ROCHA,,DelgadoRipoll,29626,56196,1260,1909,59368,856,66139,0.8976,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,TREINTA Y TRES,,OrsiCosse,15703,36243,727,1218,38193,1229,42584,0.8969,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,TREINTA Y TRES,,DelgadoRipoll,20540,36243,727,1218,38193,1229,42584,0.8969,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,CERRO LARGO,,OrsiCosse,28914,64291,1212,1259,66767,1499,74217,0.8996,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,CERRO LARGO,,DelgadoRipoll,35377,64291,1212,1259,66767,1499,74217,0.8996,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,RIVERA,,OrsiCosse,27782,75257,1439,1572,78290,2481,89320,0.8765,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,RIVERA,,DelgadoRipoll,47475,75257,1439,1572,78290,2481,89320,0.8765,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,ARTIGAS,,OrsiCosse,23041,53589,863,1063,55525,1840,63203,0.8785,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,ARTIGAS,,DelgadoRipoll,30548,53589,863,1063,55525,1840,63203,0.8785,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,SALTO,,OrsiCosse,45991,91176,1475,1668,94335,1922,104873,0.8995,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,SALTO,,DelgadoRipoll,45185,91176,1475,1668,94335,1922,104873,0.8995,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,PAYSANDÚ,,OrsiCosse,42060,82741,1456,2412,86626,3170,96631,0.8965,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,PAYSANDÚ,,DelgadoRipoll,40681,82741,1456,2412,86626,3170,96631,0.8965,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,RÍO NEGRO,,OrsiCosse,19621,39887,767,1002,41659,537,46493,0.896,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,RÍO NEGRO,,DelgadoRipoll,20266,39887,767,1002,41659,537,46493,0.896,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,SORIANO,,OrsiCosse,30949,63683,1121,1759,66570,1841,75577,0.8808,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,SORIANO,,DelgadoRipoll,32734,63683,1121,1759,66570,1841,75577,0.8808,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,COLONIA,,OrsiCosse,42414,93684,1423,2378,97493,1670,107895,0.9036,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,COLONIA,,DelgadoRipoll,51270,93684,1423,2378,97493,1670,107895,0.9036,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,SAN JOSÉ,,OrsiCosse,38303,75887,1343,2098,79331,1412,86461,0.9175,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,SAN JOSÉ,,DelgadoRipoll,37584,75887,1343,2098,79331,1412,86461,0.9175,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,FLORES,,OrsiCosse,7570,19743,383,471,20597,253,22692,0.9077,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,FLORES,,DelgadoRipoll,12173,19743,383,471,20597,253,22692,0.9077,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,FLORIDA,,OrsiCosse,23698,50808,1016,1381,53210,1869,58174,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,FLORIDA,,DelgadoRipoll,27110,50808,1016,1381,53210,1869,58174,0.9147,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,DURAZNO,,OrsiCosse,20532,44977,740,1083,46802,888,51378,0.9109,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,DURAZNO,,DelgadoRipoll,24445,44977,740,1083,46802,888,51378,0.9109,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,LAVALLEJA,,OrsiCosse,17502,43951,916,1479,46346,848,50761,0.913,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,LAVALLEJA,,DelgadoRipoll,26449,43951,916,1479,46346,848,50761,0.913,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,TACUAREMBÓ,,OrsiCosse,29886,69076,1474,1754,72313,2390,79612,0.9083,cuadra_sin_observados,Corte Electoral Uruguay
+UY-2024-PRES-2,UY,2024,2,2024-11-24,TACUAREMBÓ,,DelgadoRipoll,39190,69076,1474,1754,72313,2390,79612,0.9083,cuadra_sin_observados,Corte Electoral Uruguay

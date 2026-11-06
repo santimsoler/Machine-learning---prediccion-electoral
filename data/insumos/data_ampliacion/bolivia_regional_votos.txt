@@ -1,0 +1,459 @@
+### BOLIVIA REGIONAL (clave,departamento,candidato,votos)
+2005,Chuquisaca,Morales (MAS-IPSP),84343
+2005,Chuquisaca,Quiroga (PODEMOS),48153
+2005,Chuquisaca,Doria Medina (UN),12316
+2005,Chuquisaca,Nagatani (MNR),6705
+2005,Chuquisaca,Quispe (MIP),1562
+2005,Chuquisaca,Angulo (NFR),1473
+2005,Chuquisaca,Rodriguez (FREPA),488
+2005,Chuquisaca,Garcia (USTB),660
+2005,La Paz,Morales (MAS-IPSP),640880
+2005,La Paz,Quiroga (PODEMOS),174122
+2005,La Paz,Doria Medina (UN),65392
+2005,La Paz,Nagatani (MNR),24482
+2005,La Paz,Quispe (MIP),44294
+2005,La Paz,Angulo (NFR),6385
+2005,La Paz,Rodriguez (FREPA),3818
+2005,La Paz,Garcia (USTB),2479
+2005,Cochabamba,Morales (MAS-IPSP),335439
+2005,Cochabamba,Quiroga (PODEMOS),129566
+2005,Cochabamba,Doria Medina (UN),28689
+2005,Cochabamba,Nagatani (MNR),12773
+2005,Cochabamba,Quispe (MIP),4145
+2005,Cochabamba,Angulo (NFR),4280
+2005,Cochabamba,Rodriguez (FREPA),1390
+2005,Cochabamba,Garcia (USTB),1035
+2005,Oruro,Morales (MAS-IPSP),99648
+2005,Oruro,Quiroga (PODEMOS),39747
+2005,Oruro,Doria Medina (UN),8633
+2005,Oruro,Nagatani (MNR),6229
+2005,Oruro,Quispe (MIP),3102
+2005,Oruro,Angulo (NFR),913
+2005,Oruro,Rodriguez (FREPA),413
+2005,Oruro,Garcia (USTB),546
+2005,Potosí,Morales (MAS-IPSP),112068
+2005,Potosí,Quiroga (PODEMOS),49808
+2005,Potosí,Doria Medina (UN),9875
+2005,Potosí,Nagatani (MNR),11021
+2005,Potosí,Quispe (MIP),5852
+2005,Potosí,Angulo (NFR),2629
+2005,Potosí,Rodriguez (FREPA),1424
+2005,Potosí,Garcia (USTB),1202
+2005,Tarija,Morales (MAS-IPSP),43019
+2005,Tarija,Quiroga (PODEMOS),61737
+2005,Tarija,Doria Medina (UN),9793
+2005,Tarija,Nagatani (MNR),19117
+2005,Tarija,Quispe (MIP),1243
+2005,Tarija,Angulo (NFR),764
+2005,Tarija,Rodriguez (FREPA),296
+2005,Tarija,Garcia (USTB),373
+2005,Santa Cruz,Morales (MAS-IPSP),207785
+2005,Santa Cruz,Quiroga (PODEMOS),261845
+2005,Santa Cruz,Doria Medina (UN),78233
+2005,Santa Cruz,Nagatani (MNR),72561
+2005,Santa Cruz,Quispe (MIP),1503
+2005,Santa Cruz,Angulo (NFR),2776
+2005,Santa Cruz,Rodriguez (FREPA),757
+2005,Santa Cruz,Garcia (USTB),938
+2005,Beni,Morales (MAS-IPSP),16937
+2005,Beni,Quiroga (PODEMOS),47547
+2005,Beni,Doria Medina (UN),6419
+2005,Beni,Nagatani (MNR),30929
+2005,Beni,Quispe (MIP),215
+2005,Beni,Angulo (NFR),394
+2005,Beni,Rodriguez (FREPA),112
+2005,Beni,Garcia (USTB),126
+2005,Pando,Morales (MAS-IPSP),4255
+2005,Pando,Quiroga (PODEMOS),9220
+2005,Pando,Doria Medina (UN),4740
+2005,Pando,Nagatani (MNR),2042
+2005,Pando,Quispe (MIP),32
+2005,Pando,Angulo (NFR),53
+2005,Pando,Rodriguez (FREPA),39
+2005,Pando,Garcia (USTB),22
+2009,Chuquisaca,Morales (MAS-IPSP),127995
+2009,Chuquisaca,Reyes Villa (PPB-CN),76722
+2009,Chuquisaca,Doria Medina (UN-CP),12998
+2009,Chuquisaca,Joaquino (AS),5885
+2009,Chuquisaca,Flores (MUSPA),1660
+2009,Chuquisaca,Veliz (PULSO),1150
+2009,Chuquisaca,Loayza (GENTE),1202
+2009,Chuquisaca,Choquehuanca (BS),748
+2009,La Paz,Morales (MAS-IPSP),1099259
+2009,La Paz,Reyes Villa (PPB-CN),119248
+2009,La Paz,Doria Medina (UN-CP),110292
+2009,La Paz,Joaquino (AS),21185
+2009,La Paz,Flores (MUSPA),7247
+2009,La Paz,Veliz (PULSO),3248
+2009,La Paz,Loayza (GENTE),5810
+2009,La Paz,Choquehuanca (BS),3017
+2009,Cochabamba,Morales (MAS-IPSP),569237
+2009,Cochabamba,Reyes Villa (PPB-CN),203041
+2009,Cochabamba,Doria Medina (UN-CP),34804
+2009,Cochabamba,Joaquino (AS),9469
+2009,Cochabamba,Flores (MUSPA),3074
+2009,Cochabamba,Veliz (PULSO),3725
+2009,Cochabamba,Loayza (GENTE),2617
+2009,Cochabamba,Choquehuanca (BS),1189
+2009,Oruro,Morales (MAS-IPSP),178363
+2009,Oruro,Reyes Villa (PPB-CN),20170
+2009,Oruro,Doria Medina (UN-CP),13870
+2009,Oruro,Joaquino (AS),8431
+2009,Oruro,Flores (MUSPA),1603
+2009,Oruro,Veliz (PULSO),666
+2009,Oruro,Loayza (GENTE),908
+2009,Oruro,Choquehuanca (BS),450
+2009,Potosí,Morales (MAS-IPSP),243855
+2009,Potosí,Reyes Villa (PPB-CN),13238
+2009,Potosí,Doria Medina (UN-CP),7375
+2009,Potosí,Joaquino (AS),41767
+2009,Potosí,Flores (MUSPA),1678
+2009,Potosí,Veliz (PULSO),945
+2009,Potosí,Loayza (GENTE),1504
+2009,Potosí,Choquehuanca (BS),983
+2009,Tarija,Morales (MAS-IPSP),114577
+2009,Tarija,Reyes Villa (PPB-CN),85840
+2009,Tarija,Doria Medina (UN-CP),16513
+2009,Tarija,Joaquino (AS),3847
+2009,Tarija,Flores (MUSPA),1373
+2009,Tarija,Veliz (PULSO),599
+2009,Tarija,Loayza (GENTE),861
+2009,Tarija,Choquehuanca (BS),636
+2009,Santa Cruz,Morales (MAS-IPSP),441705
+2009,Santa Cruz,Reyes Villa (PPB-CN),567974
+2009,Santa Cruz,Doria Medina (UN-CP),46451
+2009,Santa Cruz,Joaquino (AS),13025
+2009,Santa Cruz,Flores (MUSPA),4670
+2009,Santa Cruz,Veliz (PULSO),1955
+2009,Santa Cruz,Loayza (GENTE),1963
+2009,Santa Cruz,Choquehuanca (BS),1988
+2009,Beni,Morales (MAS-IPSP),60671
+2009,Beni,Reyes Villa (PPB-CN),85631
+2009,Beni,Doria Medina (UN-CP),11897
+2009,Beni,Joaquino (AS),1062
+2009,Beni,Flores (MUSPA),462
+2009,Beni,Veliz (PULSO),312
+2009,Beni,Loayza (GENTE),458
+2009,Beni,Choquehuanca (BS),619
+2009,Pando,Morales (MAS-IPSP),16334
+2009,Pando,Reyes Villa (PPB-CN),18739
+2009,Pando,Doria Medina (UN-CP),1099
+2009,Pando,Joaquino (AS),281
+2009,Pando,Flores (MUSPA),62
+2009,Pando,Veliz (PULSO),35
+2009,Pando,Loayza (GENTE),65
+2009,Pando,Choquehuanca (BS),79
+2014,Chuquisaca,Morales (MAS-IPSP),165785
+2014,Chuquisaca,Doria Medina (UD),42263
+2014,Chuquisaca,Quiroga (PDC),44671
+2014,Chuquisaca,Del Granado (MSM),4405
+2014,Chuquisaca,Vargas (PVB),4438
+2014,La Paz,Morales (MAS-IPSP),1006433
+2014,La Paz,Doria Medina (UD),215360
+2014,La Paz,Quiroga (PDC),112745
+2014,La Paz,Del Granado (MSM),58099
+2014,La Paz,Vargas (PVB),67668
+2014,Cochabamba,Morales (MAS-IPSP),637125
+2014,Cochabamba,Doria Medina (UD),186346
+2014,Cochabamba,Quiroga (PDC),84680
+2014,Cochabamba,Del Granado (MSM),28013
+2014,Cochabamba,Vargas (PVB),19468
+2014,Oruro,Morales (MAS-IPSP),166360
+2014,Oruro,Doria Medina (UD),35962
+2014,Oruro,Quiroga (PDC),29387
+2014,Oruro,Del Granado (MSM),10867
+2014,Oruro,Vargas (PVB),7872
+2014,Potosí,Morales (MAS-IPSP),224215
+2014,Potosí,Doria Medina (UD),61058
+2014,Potosí,Quiroga (PDC),19330
+2014,Potosí,Del Granado (MSM),8387
+2014,Potosí,Vargas (PVB),9682
+2014,Tarija,Morales (MAS-IPSP),136014
+2014,Tarija,Doria Medina (UD),69989
+2014,Tarija,Quiroga (PDC),49339
+2014,Tarija,Del Granado (MSM),4288
+2014,Tarija,Vargas (PVB),3551
+2014,Santa Cruz,Morales (MAS-IPSP),623313
+2014,Santa Cruz,Doria Medina (UD),506704
+2014,Santa Cruz,Quiroga (PDC),104119
+2014,Santa Cruz,Del Granado (MSM),18689
+2014,Santa Cruz,Vargas (PVB),19572
+2014,Beni,Morales (MAS-IPSP),74084
+2014,Beni,Doria Medina (UD),91855
+2014,Beni,Quiroga (PDC),7788
+2014,Beni,Del Granado (MSM),2567
+2014,Beni,Vargas (PVB),2266
+2014,Pando,Morales (MAS-IPSP),24289
+2014,Pando,Doria Medina (UD),19097
+2014,Pando,Quiroga (PDC),2174
+2014,Pando,Del Granado (MSM),682
+2014,Pando,Vargas (PVB),389
+2019,Chuquisaca,Morales (MAS-IPSP),128657
+2019,Chuquisaca,Mesa (CC),134338
+2019,Chuquisaca,Chi (PDC),24385
+2019,Chuquisaca,Ortiz (BDN),5954
+2019,Chuquisaca,Patzi (MTS),1991
+2019,Chuquisaca,Lema (MNR),1666
+2019,Chuquisaca,Nina (PAN-BOL),3578
+2019,Chuquisaca,Cardenas (UCS),1572
+2019,Chuquisaca,Rodriguez,1685
+2019,La Paz,Morales (MAS-IPSP),887271
+2019,La Paz,Mesa (CC),497844
+2019,La Paz,Chi (PDC),178132
+2019,La Paz,Ortiz (BDN),19892
+2019,La Paz,Patzi (MTS),53133
+2019,La Paz,Lema (MNR),5399
+2019,La Paz,Nina (PAN-BOL),13026
+2019,La Paz,Cardenas (UCS),6443
+2019,La Paz,Rodriguez,8037
+2019,Cochabamba,Morales (MAS-IPSP),659188
+2019,Cochabamba,Mesa (CC),369156
+2019,Cochabamba,Chi (PDC),79970
+2019,Cochabamba,Ortiz (BDN),17312
+2019,Cochabamba,Patzi (MTS),4996
+2019,Cochabamba,Lema (MNR),2625
+2019,Cochabamba,Nina (PAN-BOL),6343
+2019,Cochabamba,Cardenas (UCS),2937
+2019,Cochabamba,Rodriguez,3461
+2019,Oruro,Morales (MAS-IPSP),139189
+2019,Oruro,Mesa (CC),95414
+2019,Oruro,Chi (PDC),39192
+2019,Oruro,Ortiz (BDN),4763
+2019,Oruro,Patzi (MTS),3729
+2019,Oruro,Lema (MNR),1156
+2019,Oruro,Nina (PAN-BOL),3485
+2019,Oruro,Cardenas (UCS),1437
+2019,Oruro,Rodriguez,1132
+2019,Potosí,Morales (MAS-IPSP),179874
+2019,Potosí,Mesa (CC),119697
+2019,Potosí,Chi (PDC),38042
+2019,Potosí,Ortiz (BDN),12210
+2019,Potosí,Patzi (MTS),4745
+2019,Potosí,Lema (MNR),2005
+2019,Potosí,Nina (PAN-BOL),3065
+2019,Potosí,Cardenas (UCS),2486
+2019,Potosí,Rodriguez,2372
+2019,Tarija,Morales (MAS-IPSP),123715
+2019,Tarija,Mesa (CC),130526
+2019,Tarija,Chi (PDC),34374
+2019,Tarija,Ortiz (BDN),8349
+2019,Tarija,Patzi (MTS),1078
+2019,Tarija,Lema (MNR),5619
+2019,Tarija,Nina (PAN-BOL),1443
+2019,Tarija,Cardenas (UCS),1304
+2019,Tarija,Rodriguez,1305
+2019,Santa Cruz,Morales (MAS-IPSP),550058
+2019,Santa Cruz,Mesa (CC),741166
+2019,Santa Cruz,Chi (PDC),108849
+2019,Santa Cruz,Ortiz (BDN),149026
+2019,Santa Cruz,Patzi (MTS),3935
+2019,Santa Cruz,Lema (MNR),12997
+2019,Santa Cruz,Nina (PAN-BOL),5623
+2019,Santa Cruz,Cardenas (UCS),6625
+2019,Santa Cruz,Rodriguez,3987
+2019,Beni,Morales (MAS-IPSP),74708
+2019,Beni,Mesa (CC),74617
+2019,Beni,Chi (PDC),15164
+2019,Beni,Ortiz (BDN),37249
+2019,Beni,Patzi (MTS),1455
+2019,Beni,Lema (MNR),8353
+2019,Beni,Nina (PAN-BOL),899
+2019,Beni,Cardenas (UCS),971
+2019,Beni,Rodriguez,841
+2019,Pando,Morales (MAS-IPSP),25627
+2019,Pando,Mesa (CC),23271
+2019,Pando,Chi (PDC),4440
+2019,Pando,Ortiz (BDN),2033
+2019,Pando,Patzi (MTS),467
+2019,Pando,Lema (MNR),1198
+2019,Pando,Nina (PAN-BOL),378
+2019,Pando,Cardenas (UCS),235
+2019,Pando,Rodriguez,207
+2019,Exterior,Morales (MAS-IPSP),120647
+2019,Exterior,Mesa (CC),54568
+2019,Exterior,Chi (PDC),16499
+2019,Exterior,Ortiz (BDN),3379
+2019,Exterior,Patzi (MTS),1295
+2019,Exterior,Lema (MNR),1291
+2019,Exterior,Nina (PAN-BOL),1982
+2019,Exterior,Cardenas (UCS),1272
+2019,Exterior,Rodriguez,696
+2020,Beni,Arce (MAS-IPSP),71957
+2020,Beni,Mesa (CC),81182
+2020,Beni,Camacho (Creemos),49128
+2020,Beni,Chi (FPV),4031
+2020,Beni,Mamani (PAN-BOL),963
+2020,Chuquisaca,Arce (MAS-IPSP),148452
+2020,Chuquisaca,Mesa (CC),139176
+2020,Chuquisaca,Camacho (Creemos),6791
+2020,Chuquisaca,Chi (FPV),6178
+2020,Chuquisaca,Mamani (PAN-BOL),1996
+2020,Cochabamba,Arce (MAS-IPSP),773386
+2020,Cochabamba,Mesa (CC),371826
+2020,Cochabamba,Camacho (Creemos),13356
+2020,Cochabamba,Chi (FPV),11867
+2020,Cochabamba,Mamani (PAN-BOL),3216
+2020,La Paz,Arce (MAS-IPSP),1162949
+2020,La Paz,Mesa (CC),486139
+2020,La Paz,Camacho (Creemos),12319
+2020,La Paz,Chi (FPV),28763
+2020,La Paz,Mamani (PAN-BOL),11032
+2020,Oruro,Arce (MAS-IPSP),186452
+2020,Oruro,Mesa (CC),97812
+2020,Oruro,Camacho (Creemos),2746
+2020,Oruro,Chi (FPV),6301
+2020,Oruro,Mamani (PAN-BOL),2940
+2020,Pando,Arce (MAS-IPSP),25883
+2020,Pando,Mesa (CC),14635
+2020,Pando,Camacho (Creemos),14817
+2020,Pando,Chi (FPV),1025
+2020,Pando,Mamani (PAN-BOL),157
+2020,Potosí,Arce (MAS-IPSP),211571
+2020,Potosí,Mesa (CC),131635
+2020,Potosí,Camacho (Creemos),10248
+2020,Potosí,Chi (FPV),9408
+2020,Potosí,Mamani (PAN-BOL),4364
+2020,Santa Cruz,Arce (MAS-IPSP),576567
+2020,Santa Cruz,Mesa (CC),275868
+2020,Santa Cruz,Camacho (Creemos),717742
+2020,Santa Cruz,Chi (FPV),18037
+2020,Santa Cruz,Mamani (PAN-BOL),4137
+2020,Tarija,Arce (MAS-IPSP),124586
+2020,Tarija,Mesa (CC),150405
+2020,Tarija,Camacho (Creemos),16023
+2020,Tarija,Chi (FPV),6994
+2020,Tarija,Mamani (PAN-BOL),1342
+2025-1,Beni,Paz (PDC),30181
+2025-1,Beni,Quiroga (Libre),52178
+2025-1,Beni,Doria Medina (Unidad),82058
+2025-1,Beni,Rodriguez (Alianza Popular),13526
+2025-1,Beni,Reyes Villa (APB Super),23864
+2025-1,Beni,Del Castillo (MAS-IPSP),8217
+2025-1,Beni,Aracena (AUN),1989
+2025-1,Beni,Fernandez (FPV),2339
+2025-1,Chuquisaca,Paz (PDC),90753
+2025-1,Chuquisaca,Quiroga (Libre),79020
+2025-1,Chuquisaca,Doria Medina (Unidad),32873
+2025-1,Chuquisaca,Rodriguez (Alianza Popular),21445
+2025-1,Chuquisaca,Reyes Villa (APB Super),14640
+2025-1,Chuquisaca,Del Castillo (MAS-IPSP),9760
+2025-1,Chuquisaca,Aracena (AUN),3924
+2025-1,Chuquisaca,Fernandez (FPV),3356
+2025-1,Cochabamba,Paz (PDC),237479
+2025-1,Cochabamba,Quiroga (Libre),233427
+2025-1,Cochabamba,Doria Medina (Unidad),83842
+2025-1,Cochabamba,Rodriguez (Alianza Popular),104354
+2025-1,Cochabamba,Reyes Villa (APB Super),130224
+2025-1,Cochabamba,Del Castillo (MAS-IPSP),16608
+2025-1,Cochabamba,Aracena (AUN),12501
+2025-1,Cochabamba,Fernandez (FPV),11212
+2025-1,La Paz,Paz (PDC),697751
+2025-1,La Paz,Quiroga (Libre),239830
+2025-1,La Paz,Doria Medina (Unidad),238685
+2025-1,La Paz,Rodriguez (Alianza Popular),134620
+2025-1,La Paz,Reyes Villa (APB Super),46582
+2025-1,La Paz,Del Castillo (MAS-IPSP),64917
+2025-1,La Paz,Aracena (AUN),28277
+2025-1,La Paz,Fernandez (FPV),32332
+2025-1,Oruro,Paz (PDC),126648
+2025-1,Oruro,Quiroga (Libre),62501
+2025-1,Oruro,Doria Medina (Unidad),18973
+2025-1,Oruro,Rodriguez (Alianza Popular),17067
+2025-1,Oruro,Reyes Villa (APB Super),13219
+2025-1,Oruro,Del Castillo (MAS-IPSP),8922
+2025-1,Oruro,Aracena (AUN),5407
+2025-1,Oruro,Fernandez (FPV),4997
+2025-1,Pando,Paz (PDC),11650
+2025-1,Pando,Quiroga (Libre),15743
+2025-1,Pando,Doria Medina (Unidad),11660
+2025-1,Pando,Rodriguez (Alianza Popular),4774
+2025-1,Pando,Reyes Villa (APB Super),6365
+2025-1,Pando,Del Castillo (MAS-IPSP),2668
+2025-1,Pando,Aracena (AUN),615
+2025-1,Pando,Fernandez (FPV),636
+2025-1,Potosí,Paz (PDC),133524
+2025-1,Potosí,Quiroga (Libre),70789
+2025-1,Potosí,Doria Medina (Unidad),30124
+2025-1,Potosí,Rodriguez (Alianza Popular),30113
+2025-1,Potosí,Reyes Villa (APB Super),17060
+2025-1,Potosí,Del Castillo (MAS-IPSP),11327
+2025-1,Potosí,Aracena (AUN),6181
+2025-1,Potosí,Fernandez (FPV),6528
+2025-1,Santa Cruz,Paz (PDC),300259
+2025-1,Santa Cruz,Quiroga (Libre),580581
+2025-1,Santa Cruz,Doria Medina (Unidad),432662
+2025-1,Santa Cruz,Rodriguez (Alianza Popular),82092
+2025-1,Santa Cruz,Reyes Villa (APB Super),78990
+2025-1,Santa Cruz,Del Castillo (MAS-IPSP),31927
+2025-1,Santa Cruz,Aracena (AUN),13163
+2025-1,Santa Cruz,Fernandez (FPV),21604
+2025-1,Tarija,Paz (PDC),55546
+2025-1,Tarija,Quiroga (Libre),63157
+2025-1,Tarija,Doria Medina (Unidad),108551
+2025-1,Tarija,Rodriguez (Alianza Popular),23937
+2025-1,Tarija,Reyes Villa (APB Super),16630
+2025-1,Tarija,Del Castillo (MAS-IPSP),12571
+2025-1,Tarija,Aracena (AUN),4292
+2025-1,Tarija,Fernandez (FPV),3150
+2025-2,Beni,Paz (PDC),107685
+2025-2,Beni,Quiroga (Libre),126584
+2025-2,Chuquisaca,Paz (PDC),162429
+2025-2,Chuquisaca,Quiroga (Libre),139958
+2025-2,Cochabamba,Paz (PDC),721794
+2025-2,Cochabamba,Quiroga (Libre),455896
+2025-2,La Paz,Paz (PDC),1153026
+2025-2,La Paz,Quiroga (Libre),593108
+2025-2,Oruro,Paz (PDC),185452
+2025-2,Oruro,Quiroga (Libre),121782
+2025-2,Pando,Paz (PDC),33736
+2025-2,Pando,Quiroga (Libre),27796
+2025-2,Potosí,Paz (PDC),249402
+2025-2,Potosí,Quiroga (Libre),144122
+2025-2,Santa Cruz,Paz (PDC),659737
+2025-2,Santa Cruz,Quiroga (Libre),1053711
+2025-2,Tarija,Paz (PDC),157237
+2025-2,Tarija,Quiroga (Libre),159195
+
+### BOLIVIA NACIONAL 1997 y 2002 (clave,candidato,partido,votos)
+
+### BOLIVIA 1993: tablas de la pagina
+## tabla 0
+0,1
+,"Este artículo o sección tiene referencias, pero necesita más para complementar su verificabilidad. Busca fuentes: «Elecciones generales de Bolivia de 1993» – noticias · libros · académico · imágenesEste aviso fue puesto el 7 de julio de 2020."
+
+## tabla 1
+0,1,2,3,4,5,6,7,8,9,10,11
+← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →,← 1989 • • 1997 →
+Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta,Elecciones generales de 1993 Presidente y Vicepresidente de la República 27 escaños del Senado 14 escaños necesarios para la mayoría absoluta 130 escaños de la Cámara de Diputados 66 escaños necesarios para la mayoría absoluta
+,,,,,,,,,,,
+Fecha,Fecha,Fecha,Fecha,Fecha,Fecha,Domingo 6 de junio de 1993,Domingo 6 de junio de 1993,Domingo 6 de junio de 1993,Domingo 6 de junio de 1993,Domingo 6 de junio de 1993,Domingo 6 de junio de 1993
+Tipo,Tipo,Tipo,Tipo,Tipo,Tipo,Presidencial y Legislativa,Presidencial y Legislativa,Presidencial y Legislativa,Presidencial y Legislativa,Presidencial y Legislativa,Presidencial y Legislativa
+Período,Período,Período,Período,Período,Período,6 de agosto de 1993 al 6 de agosto de 1997,6 de agosto de 1993 al 6 de agosto de 1997,6 de agosto de 1993 al 6 de agosto de 1997,6 de agosto de 1993 al 6 de agosto de 1997,6 de agosto de 1993 al 6 de agosto de 1997,6 de agosto de 1993 al 6 de agosto de 1997
+,,,,,,,,,,,
+Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral,Demografía electoral
+Población,Población,Población,Población,Población,6 626 740,6 626 740,6 626 740,6 626 740,6 626 740,6 626 740,6 626 740
+Hab. registrados,Hab. registrados,Hab. registrados,Hab. registrados,Hab. registrados,Hab. registrados,2 399 197,2 399 197,2 399 197,2 399 197,2 399 197,2 399 197
+Votantes,Votantes,Votantes,Votantes,Votantes,Votantes,1 731 309,1 731 309,1 731 309,1 731 309,1 731 309,1 731 309
+Participación,Participación,Participación,Participación,Participación,Participación,Participación,Participación,Participación,Participación,Participación,Participación
+,,,,,,,72.16 % 1.5 %,72.16 % 1.5 %,72.16 % 1.5 %,72.16 % 1.5 %,72.16 % 1.5 %
+Votos válidos,Votos válidos,Votos válidos,Votos válidos,Votos válidos,Votos válidos,1 647 710,1 647 710,1 647 710,1 647 710,1 647 710,1 647 710
+
+## tabla 2
+Departamento,Senadores,Diputados
+La Paz,3,28
+Potosí,3,19
+Cochabamba,3,18
+Santa Cruz,3,17
+Chuquisaca,3,13
+Oruro,3,10
+Tarija,3,9
+Beni,3,9
+Pando,3,7
+Total,27,130
+
+## tabla 3
+0,1,2,3,4,5,6,7
+,,,,,,,
+Candidatos,Candidatos,Partido/Alianza,Votos,%,Diputados,Senadores,
+,Gonzalo Sánchez de Lozada Víctor Hugo Cárdenas,Movimiento Nacionalista Revolucionario- Movimiento Revolucionario Túpac Katari de Liberación,585 890,3556,52,17,
+,Hugo Banzer Suárez Óscar

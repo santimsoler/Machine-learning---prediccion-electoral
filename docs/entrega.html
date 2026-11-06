@@ -1,0 +1,74 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Principales determinantes del voto en Latinoamérica</title>
+<style>
+@page{size:A4;margin:20mm 18mm}
+body{font-family:"Helvetica Neue",Arial,sans-serif;font-size:10.5pt;line-height:1.45;color:#1a1a1a}
+h1{font-size:17pt;margin:0 0 4px}h2{font-size:12.5pt;margin:20px 0 6px;border-bottom:1px solid #bbb;padding-bottom:2px}h3{font-size:10.8pt;margin:12px 0 4px}
+.ref td{padding:1px 10px 1px 0;vertical-align:top}.sub{color:#555;font-size:10pt}
+table.t{border-collapse:collapse;width:100%;font-size:9.2pt;margin:6px 0}table.t th,table.t td{border:1px solid #ccc;padding:3px 6px;text-align:left;vertical-align:top}table.t th{background:#f2f2f2}
+h2,h3{break-after:avoid}img{width:100%}.fig{margin:8px 0}.cap{font-size:9pt;color:#555;margin-top:2px}
+p{margin:5px 0;text-align:justify}ul{margin:4px 0 4px 18px;padding:0}li{margin:2px 0}
+</style></head><body>
+<h1>Principales determinantes del voto en Latinoamérica</h1>
+<p class="sub">Primera entrega · Seminario M73 Big Data, Machine Learning e Inteligencia Artificial · Maestría en Economía Aplicada, FCE-UBA</p>
+
+<h2>1. Datos de referencia</h2>
+<table class="ref">
+<tr><td><b>Nombre</b></td><td>Pablo Santiago Martínez Soler</td></tr>
+<tr><td><b>Mail</b></td><td>santimsoler@gmail.com</td></tr>
+<tr><td><b>Título</b></td><td>Principales determinantes del voto en Latinoamérica</td></tr>
+<tr><td><b>Datos</b></td><td>Públicos, armados por mí a partir de fuentes oficiales (ver tabla del punto 2). Repositorio y datos: <b>https://github.com/santimsoler/Machine-learning---prediccion-electoral</b> (carpeta <i>data</i>)</td></tr>
+</table>
+
+<h2>2. Qué se quiere predecir y primera exploración</h2>
+<h3>Qué, para qué y para quién</h3>
+<p>Se quiere predecir <b>qué porcentaje de los votos obtiene el oficialismo</b> en una elección presidencial: la opción del partido o coalición del presidente en ejercicio, o el candidato con su apoyo explícito. Sirve para anticipar cambios de rumbo político y económico: lo pueden usar partidos y equipos de campaña, consultoras y analistas de riesgo político, y áreas de estudios económicos que necesiten un escenario electoral. Se usaría en los meses previos a la elección, con la aprobación del gobierno, la situación económica y social y las características del contexto político, todas medidas antes del voto. Como complemento, el mismo conjunto permite ver cómo cambia ese voto entre regiones dentro de un país.</p>
+
+<h3>Origen, unidad, período y acceso</h3>
+<p>Doce países (Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador, México, Panamá, Paraguay, Perú y Uruguay), elecciones presidenciales de 1989 a 2026: 76 elecciones país-año, 102 elecciones-vuelta (76 primeras vueltas y 26 segundas). Todos los datos son públicos; el conjunto lo armé yo, uniendo fuentes de distinta naturaleza.</p>
+<ul>
+<li><b>Unidad principal:</b> elección-vuelta (102 filas, 73 columnas; una versión con 28 predictores sin celdas vacías), con el voto nacional del oficialismo como variable a predecir.</li>
+<li><b>Unidad regional:</b> elección-vuelta × región de primer nivel administrativo (provincia, estado, región, departamento): 1.617 filas y 147 columnas (Bolivia, Paraguay, Costa Rica y México con cobertura regional solo en algunas elecciones; Panamá, incorporado después, tiene por ahora solo nivel nacional).</li>
+</ul>
+<table class="t"><tr><th style="width:27%">Contenido</th><th>Fuente</th></tr>
+<tr><td>Resultados electorales</td><td>Organismos electorales de cada país (resultados por provincia, municipio, comuna, departamento o distrito, agregados al primer nivel administrativo)</td></tr>
+<tr><td>Oficialismo e ideología</td><td>Codificación propia, con criterio explícito; ideología contrastada con Manifesto Project, V-Party y CHES-LA</td></tr>
+<tr><td>Aprobación presidencial</td><td>Executive Approval Database (hasta 2018-19), encuestadoras para 2019-2026 y Latinobarómetro; percepción económica: Latinobarómetro</td></tr>
+<tr><td>Confianza del consumidor</td><td>Di Tella (AR), IPEC (CL), OCDE vía FRED (BR, CO); aproximaciones parciales para PE (BCRP), UY (UCU/Equipos), EC (BCE) y PY (BCP, solo 2023); sin equivalente para BO</td></tr>
+<tr><td>Pobreza y desarrollo</td><td>Banco Mundial (pobreza nacional, macro), FMI (resultado fiscal), EPH, PNAD, CASEN, DANE, INEI, MIDES, UDAPE (Bolivia) e INE Paraguay (regional) y SHDI subnacional (Global Data Lab)</td></tr></table>
+<p>Las variables se miden antes de la elección. Solo entran elecciones con un oficialista identificable: sin oficialismo no existe la variable a predecir. Por eso Perú aparece con una sola elección (2021), y se excluyeron, entre otras, Bolivia 2005 y 2020, y Ecuador 1996, 1998, 2002, 2006 y 2023.</p>
+
+<h3>Primera exploración</h3>
+<ul>
+<li><b>Tamaño y tipos:</b> el archivo regional tiene 1.617 filas y 147 columnas (118 numéricas decimales, 9 enteras y 20 de texto); el archivo por elección, 102 filas y 73 columnas (51 decimales, 8 enteras y 14 de texto).</li>
+<li><b>Valores faltantes:</b> el 42% de las celdas del archivo regional está vacío. La mayor parte no es un faltante real: las medidas de pobreza regional son específicas de cada país (CASEN solo existe para Chile, NBI para Colombia y Uruguay, INEI para Perú, UDAPE para Bolivia) y no se miden en los demás por construcción. Contando solo las columnas que existen para cada país, el faltante real es del 9%. Para comparar entre países se usa una variable armonizada (posición relativa de la región dentro de su país), con cobertura del 96%. A nivel elección, la aprobación cubre 97 de las 102 observaciones, el cambio de pobreza 95, la percepción económica 92 y la confianza del consumidor 49; para el modelo se armó una versión con 28 predictores sin celdas vacías (imputación por mediana del país, con un indicador por variable imputada).</li>
+<li><b>Variable a predecir:</b> el voto nacional del oficialismo tiene media 38,6%, mediana 42,2% y desvío 16,5 puntos. En primera vuelta la media es 34,8% (desvío 16,7) y en segunda 49,8% (desvío 8,9). Los extremos son Costa Rica 2022 (0,7%), Brasil 2018 (1,2%), Ecuador 2021 (1,5%), Panamá 1994 (1,7%) y Perú 2021 (2,0%), con candidatos oficialistas muy débiles o con un apoyo dudoso. En el archivo regional, el voto del oficialismo tiene media 42,3% y desvío 17,9 puntos (1.616 observaciones).</li>
+</ul>
+<div class="fig"><img src="fig_dist.png"><div class="cap">Figura 1. Distribución del voto del oficialismo, a nivel nacional (izquierda) y en las regiones (derecha).</div></div>
+
+<h3>Planteo del problema de predicción</h3>
+<ul>
+<li><b>Target:</b> voto nacional del oficialismo en cada elección-vuelta (<i>y_share_nacional</i>).</li>
+<li><b>Tipo:</b> regresión. Como variante, clasificar si el oficialismo gana o pierde.</li>
+<li><b>Métrica:</b> error absoluto medio (MAE) en puntos porcentuales y R² fuera de muestra.</li>
+<li><b>Separación entrenamiento y prueba:</b> por grupo, dejando afuera una elección completa por vez (<i>leave-one-election-out</i>), con las dos vueltas del mismo país y año juntas. Un corte al azar mezclaría información de la misma elección en entrenamiento y prueba.</li>
+<li><b>Benchmark:</b> predecir con el promedio histórico del oficialismo de las demás elecciones, separado por vuelta. Con la validación anterior, su MAE es de <b>11,9 puntos</b> (13,1 con el promedio sin separar por vuelta). El modelo debería bajar de ese error. Un segundo benchmark es el voto del oficialismo en la elección anterior del mismo país, que en las 64 primeras vueltas con antecedente tiene un MAE de 16,8 puntos.</li>
+<li><b>Extensión regional:</b> el mismo esquema se puede aplicar a la región (<i>y_share_oficialismo</i>) para estudiar la heterogeneidad territorial. Por ejemplo, las regiones relativamente más pobres tienden a votar más a candidatos de izquierda (correlación +0,27 dentro de cada elección, con 1.182 observaciones), aunque con diferencias por país.</li>
+</ul>
+
+<h2>3. Dos atributos con poder predictivo</h2>
+<p><b>Aprobación del presidente antes de la elección.</b> Si el gobierno es bien evaluado, es esperable que su espacio obtenga más votos: es la medida más directa del juicio de los votantes sobre el oficialismo. <b>Cambio de la pobreza durante el mandato.</b> Si la pobreza subió mientras gobernaba el oficialismo, es esperable que el voto a ese espacio caiga; es una medida social del desempeño que complementa la evaluación subjetiva. Mido el cambio en puntos porcentuales entre la elección anterior y la actual, con la línea de pobreza del Banco Mundial (6,85 USD por día, PPA 2017).</p>
+<div class="fig"><img src="fig_attr.png"><div class="cap">Figura 2. Voto nacional del oficialismo contra la aprobación (izquierda) y el cambio de la pobreza durante el mandato (derecha). Cada punto es una elección-vuelta; la recta es un ajuste lineal.</div></div>
+<p>Los gráficos van en la dirección esperada. La aprobación tiene correlación de +0,56 con el voto del oficialismo (97 observaciones) y el cambio de pobreza de −0,34 (89 observaciones); entre sí se correlacionan −0,39, así que no son totalmente redundantes. En primera vuelta son +0,60 y −0,37. Parte de la relación depende de las observaciones extremas: sin Brasil 2018 y Perú 2021 las correlaciones son +0,54 y −0,28, y sin las nueve elecciones con voto menor al 8%, +0,43 y −0,17. Son relaciones moderadas, que con tan pocas elecciones habrá que confirmar fuera de muestra.</p>
+
+<h2>4. Riesgos y alternativa</h2>
+<ul>
+<li><b>Pocas observaciones.</b> Hay 76 elecciones país-año (102 con las dos vueltas). Con tantas variables candidatas, el modelo puede sobreajustar, y los resultados dependerán de pocos casos influyentes (como los extremos mencionados).</li>
+<li><b>Definición de oficialismo.</b> Es una codificación propia. En Perú, cuatro de las cinco elecciones no tienen oficialista identificable, y ocho casos son dudosos (Chile 1989, Perú 2021, Bolivia 2002 y 2025, Ecuador 2021, Costa Rica 2014 segunda vuelta y 2026, y Panamá 1994). Hay que correr los resultados con y sin ellos.</li>
+<li><b>Momento de medición.</b> La aprobación de 2019 en adelante se mide entre 90 y 150 días antes de la primera vuelta (nueve meses en Argentina 2019), y las olas del Latinobarómetro son anuales y no coinciden con la fecha de la elección. Toda variable debe ser anterior a la elección; algunas tienen marca de fecha para excluirlas si no cumplen.</li>
+<li><b>Cobertura y comparabilidad.</b> La aprobación falta en cinco elecciones de 1989–1998 (Chile, Bolivia y Paraguay) y en algunas de Bolivia, Ecuador, Paraguay y Uruguay se completó con encuestas puntuales o con Latinobarómetro calibrado; la confianza del consumidor no tiene equivalente en Bolivia y es una aproximación en Perú, Uruguay, Ecuador y Paraguay. Las escalas de aprobación y las medidas de pobreza no son idénticas entre países, por lo que se usan cambios y posiciones relativas y no niveles.</li>
+</ul>
+<p><b>Alternativa si el problema es serio.</b> Usar un modelo parsimonioso y regularizado (regresión penalizada, dos a cinco variables) en lugar de modelos flexibles; plantear una clasificación (gana o pierde el oficialismo) en lugar de la regresión; y ampliar el conjunto a más países con la misma construcción, para tener más elecciones.</p>
+
+<h2>5. Idea de texto para la segunda parte</h2>
+<p>Programas de gobierno y plataformas de los candidatos presidenciales (Manifesto Project, sitios de los partidos y prensa electoral), una por candidato y elección. Se convertirían con embeddings o TF-IDF en medidas de posición ideológica y de temas (economía, rol del Estado, cuestiones sociales) que se agregarían como predictor a nivel elección y servirían para validar la ideología hoy codificada a mano.</p>
+</body></html>

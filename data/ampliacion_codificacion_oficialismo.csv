@@ -1,0 +1,22 @@
+id_eleccion,pais,anio,vuelta,fecha,presidente_en_ejercicio,y_share_nacional,oficialismo_dudoso,nota_codificacion
+BO-1993-PRES-1,BO,1993,1,1993-06-06,Paz Zamora,21.05,0,"Acuerdo Patriótico (Oscar Zamora, MIR-ADN)"
+BO-1997-PRES-1,BO,1997,1,1997-06-01,Sánchez de Lozada,18.2,0,MNR (Juan Carlos Durán)
+BO-2002-PRES-1,BO,2002,1,2002-06-30,Quiroga,3.4,1,ADN (Ronald MacLean); Quiroga había asumido tras la renuncia de Banzer y no fue candidato
+BO-2009-PRES-1,BO,2009,1,2009-12-06,Morales,64.22,0,MAS-IPSP
+BO-2014-PRES-1,BO,2014,1,2014-10-12,Morales,61.36,0,MAS-IPSP
+BO-2019-PRES-1,BO,2019,1,2019-10-20,Morales,47.08,0,MAS-IPSP
+BO-2025-PRES-1,BO,2025,1,2025-08-17,Arce,3.19,1,MAS-IPSP (Eduardo del Castillo); Arce no fue candidato y el MAS se fracturó; share = suma departamental
+PY-1993-PRES-1,PY,1993,1,1993-05-09,Rodríguez,41.63,0,"ANR-Colorado (Wasmosy); % sobre votos positivos calculado (la tabla fuente da 39,91 sobre el total con blancos/nulos)"
+PY-1998-PRES-1,PY,1998,1,1998-05-10,Wasmosy,55.35,0,ANR-Colorado (Cubas Grau)
+PY-2003-PRES-1,PY,2003,1,2003-04-27,González Macchi,38.3,0,"ANR-Colorado (Duarte Frutos); % sobre votos positivos calculado (oficial s/ total: 37,1)"
+PY-2008-PRES-1,PY,2008,1,2008-04-20,Duarte Frutos,30.82,0,"ANR-Colorado (Blanca Ovelar); % sobre votos positivos calculado desde votos (la tabla fuente da 31,02 con denominador inconsistente)"
+PY-2013-PRES-1,PY,2013,1,2013-04-21,Franco,39.09,0,"PLRA (Efraín Alegre), partido del presidente; % sobre votos positivos calculado (la tabla da 37,11 sobre el total con blancos/nulos)"
+PY-2018-PRES-1,PY,2018,1,2018-04-22,Cartes,48.96,0,ANR-Colorado (Abdo Benítez)
+PY-2023-PRES-1,PY,2023,1,2023-04-30,Abdo Benítez,42.74,0,ANR-Colorado (Peña)
+EC-2009-PRES-1,EC,2009,1,2009-04-26,Correa,51.99,0,Alianza PAIS
+EC-2013-PRES-1,EC,2013,1,2013-02-17,Correa,57.17,0,Alianza PAIS
+EC-2017-PRES-1,EC,2017,1,2017-02-19,Correa,39.36,0,Alianza PAIS (Lenín Moreno)
+EC-2017-PRES-2,EC,2017,2,2017-04-02,Correa,51.16,0,Alianza PAIS (Lenín Moreno)
+EC-2021-PRES-1,EC,2021,1,2021-02-07,Moreno,1.54,1,"Alianza PAIS (Ximena Peña), partido de Moreno, que se distanció de él; Moreno no declaró apoyo explícito a ningún candidato. Peña apoyó a Arauz en el balotaje"
+EC-2025-PRES-1,EC,2025,1,2025-02-09,Noboa,44.17,0,ADN (Daniel Noboa)
+EC-2025-PRES-2,EC,2025,2,2025-04-13,Noboa,55.63,0,ADN (Daniel Noboa)

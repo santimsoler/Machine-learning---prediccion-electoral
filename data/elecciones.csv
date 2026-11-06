@@ -1,0 +1,73 @@
+id_eleccion,pais,anio,vuelta,fecha,presidente_en_ejercicio,partido_oficialismo,palabras_clave_opcion_oficialista,oficialismo_va_por_reeleccion,estado_codificacion
+AR-1983-PRES-1,AR,1983,1,1983-10-30,Bignone (régimen militar),—,,0,sin_gobierno_previo
+AR-1989-PRES-1,AR,1989,1,1989-05-14,Alfonsín,UCR,ANGELOZ,0,analista_pendiente
+AR-1995-PRES-1,AR,1995,1,1995-05-14,Menem,PJ,MENEM,1,analista_pendiente
+AR-1999-PRES-1,AR,1999,1,1999-10-24,Menem,PJ,DUHALDE;JUSTICIALISTA,0,analista_pendiente
+AR-2003-PRES-1,AR,2003,1,2003-04-27,Duhalde (interino),PJ,KIRCHNER,0,verificado_apoyo_explicito_Duhalde_Pagina12_2003-01-15
+AR-2007-PRES-1,AR,2007,1,2007-10-28,N. Kirchner,PJ-FPV,FERNANDEZ DE KIRCHNER;VICTORIA,0,analista_pendiente
+AR-2011-PRES-1,AR,2011,1,2011-10-23,C. Fernández de Kirchner,FPV,VICTORIA,1,analista_pendiente
+AR-2015-PRES-1,AR,2015,1,2015-10-25,C. Fernández de Kirchner,FPV,VICTORIA,0,analista_pendiente
+AR-2015-PRES-2,AR,2015,2,2015-11-22,C. Fernández de Kirchner,FPV,VICTORIA,0,analista_pendiente
+AR-2019-PRES-1,AR,2019,1,2019-10-27,Macri,Cambiemos/JxC,JUNTOS POR EL CAMBIO,1,analista_pendiente
+AR-2023-PRES-1,AR,2023,1,2023-10-22,A. Fernández,Frente de Todos/UxP,UNION POR LA PATRIA,0,analista_pendiente
+AR-2023-PRES-2,AR,2023,2,2023-11-19,A. Fernández,Frente de Todos/UxP,UNION POR LA PATRIA,0,analista_pendiente
+BR-2002-PRES-1,BR,2002,1,2002-10-06,Cardoso,PSDB,SERRA,0,analista_pendiente
+BR-2002-PRES-2,BR,2002,2,2002-10-27,Cardoso,PSDB,SERRA,0,analista_pendiente
+BR-2006-PRES-1,BR,2006,1,2006-10-01,Lula,PT,LULA,1,analista_pendiente
+BR-2006-PRES-2,BR,2006,2,2006-10-29,Lula,PT,LULA,1,analista_pendiente
+BR-2010-PRES-1,BR,2010,1,2010-10-03,Lula,PT,DILMA,0,analista_pendiente
+BR-2010-PRES-2,BR,2010,2,2010-10-31,Lula,PT,DILMA,0,analista_pendiente
+BR-2014-PRES-1,BR,2014,1,2014-10-05,Rousseff,PT,DILMA,1,analista_pendiente
+BR-2014-PRES-2,BR,2014,2,2014-10-26,Rousseff,PT,DILMA,1,analista_pendiente
+BR-2018-PRES-1,BR,2018,1,2018-10-07,Temer,MDB,MEIRELLES,0,analista_pendiente
+BR-2018-PRES-2,BR,2018,2,2018-10-28,Temer,MDB,MEIRELLES,0,analista_pendiente
+BR-2022-PRES-1,BR,2022,1,2022-10-02,Bolsonaro,PL,BOLSONARO,1,analista_pendiente
+BR-2022-PRES-2,BR,2022,2,2022-10-30,Bolsonaro,PL,BOLSONARO,1,analista_pendiente
+BR-2026-PRES-1,BR,2026,1,2026-10-04,Lula,PT,LULA,1,analista_pendiente
+BR-2026-PRES-2,BR,2026,2,2026-10-25,Lula,PT,LULA,1,analista_pendiente
+CL-1989-PRES-1,CL,1989,1,1989-12-14,Pinochet (régimen),Régimen,BUCHI,0,dudoso_regimen_militar_Buchi_candidato_derecha_pro_regimen_no_verificado_con_fuente
+CL-1993-PRES-1,CL,1993,1,1993-12-11,Aylwin,Concertación,FREI,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-1999-PRES-1,CL,1999,1,1999-12-12,Frei Ruiz-Tagle,Concertación,LAGOS,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-1999-PRES-2,CL,1999,2,2000-01-16,Frei Ruiz-Tagle,Concertación,LAGOS,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2005-PRES-1,CL,2005,1,2005-12-11,Lagos,Concertación,BACHELET,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2005-PRES-2,CL,2005,2,2006-01-15,Lagos,Concertación,BACHELET,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2009-PRES-1,CL,2009,1,2009-12-13,Bachelet,Concertación,FREI,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2009-PRES-2,CL,2009,2,2010-01-17,Bachelet,Concertación,FREI,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2013-PRES-1,CL,2013,1,2013-11-17,Piñera,Alianza,MATTHEI,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2013-PRES-2,CL,2013,2,2013-12-15,Piñera,Alianza,MATTHEI,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2017-PRES-1,CL,2017,1,2017-11-19,Bachelet,Nueva Mayoría,GUILLIER,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2017-PRES-2,CL,2017,2,2017-12-17,Bachelet,Nueva Mayoría,GUILLIER,0,coalicion_gobernante_confirmada_por_usuario_2026-11-02_sin_cita_por_eleccion
+CL-2021-PRES-1,CL,2021,1,2021-11-21,Piñera,Chile Vamos,SICHEL,0,verificado_apoyo_explicito_Pinera_24horas_2021-08-10_y_RN_Evopoli_PRI_Emol_2021-10-26
+CL-2021-PRES-2,CL,2021,2,2021-12-19,Piñera,Chile Vamos,SICHEL,0,verificado_apoyo_explicito_Pinera_24horas_2021-08-10_y_RN_Evopoli_PRI_Emol_2021-10-26
+CL-2025-PRES-1,CL,2025,1,2025-11-16,Boric,Unidad por Chile,JARA,0,verificado_apoyo_explicito_Boric_a_Jara_BioBio_y_TheClinic_2025-07-04
+CL-2025-PRES-2,CL,2025,2,2025-12-14,Boric,Unidad por Chile,JARA,0,verificado_apoyo_explicito_Boric_a_Jara_BioBio_y_TheClinic_2025-07-04
+CO-1998-PRES-1,CO,1998,1,1998-05-31,Samper,Liberal,SERPA,0,analista_pendiente
+CO-1998-PRES-2,CO,1998,2,1998-06-21,Samper,Liberal,SERPA,0,analista_pendiente
+CO-2002-PRES-1,CO,2002,1,2002-05-26,Pastrana,Conservador,ALVARO URIBE,0,verificado_apoyo_oficial_Partido_Conservador_Uribe_independiente_Wikipedia
+CO-2006-PRES-1,CO,2006,1,2006-05-28,Uribe,Primero Colombia,ALVARO URIBE,1,analista_pendiente
+CO-2010-PRES-1,CO,2010,1,2010-05-30,Uribe,Partido de la U,SANTOS,0,analista_pendiente
+CO-2010-PRES-2,CO,2010,2,2010-06-20,Uribe,Partido de la U,SANTOS,0,analista_pendiente
+CO-2014-PRES-1,CO,2014,1,2014-05-25,Santos,Unidad Nacional/U,SANTOS,1,analista_pendiente
+CO-2014-PRES-2,CO,2014,2,2014-06-15,Santos,Unidad Nacional/U,SANTOS,1,analista_pendiente
+CO-2018-PRES-1,CO,2018,1,2018-05-27,Santos,Unidad Nacional,,0,sin_apoyo_explicito_Santos_no_endoso_formalmente_Semana_2018-04-07
+CO-2018-PRES-2,CO,2018,2,2018-06-17,Santos,Unidad Nacional,,0,sin_apoyo_explicito_Santos_no_endoso_formalmente_Semana_2018-04-07
+CO-2022-PRES-1,CO,2022,1,2022-05-29,Duque,Centro Democrático,,0,sin_apoyo_explicito_CD_sin_candidato_ni_endoso_Semana_2022-04-08
+CO-2022-PRES-2,CO,2022,2,2022-06-19,Duque,Centro Democrático,,0,sin_apoyo_explicito_CD_sin_candidato_ni_endoso_Semana_2022-04-08
+CO-2026-PRES-1,CO,2026,1,2026-05-31,Petro,Pacto Histórico,CEPEDA,0,analista_pendiente
+CO-2026-PRES-2,CO,2026,2,2026-06-21,Petro,Pacto Histórico,CEPEDA,0,analista_pendiente
+PE-2006-PRES-1,PE,2006,1,2006-04-09,Toledo,Perú Posible,,0,sin_candidato_oficialista_Belaunde_retirado_2006-01-31
+PE-2006-PRES-2,PE,2006,2,2006-06-04,Toledo,Perú Posible,,0,sin_candidato_oficialista_Belaunde_retirado_2006-01-31
+PE-2011-PRES-1,PE,2011,1,2011-04-10,García,APRA,,0,sin_candidato_oficialista_APRA_retiro_Araoz
+PE-2011-PRES-2,PE,2011,2,2011-06-05,García,APRA,,0,sin_candidato_oficialista_APRA_retiro_Araoz
+PE-2016-PRES-1,PE,2016,1,2016-04-10,Humala,Partido Nacionalista,,0,sin_candidato_oficialista_lista_nacionalista_ausente_en_datos_a_verificar_von_Hesse
+PE-2016-PRES-2,PE,2016,2,2016-06-05,Humala,Partido Nacionalista,,0,sin_candidato_oficialista_lista_nacionalista_ausente_en_datos_a_verificar_von_Hesse
+PE-2021-PRES-1,PE,2021,1,2021-04-11,Sagasti (interino),Partido Morado,PARTIDO MORADO,0,dudoso_candidato_del_partido_del_presidente_Guzman_se_desmarca_sensibilidad_recomendada
+PE-2021-PRES-2,PE,2021,2,2021-06-06,Sagasti (interino),Partido Morado,PARTIDO MORADO,0,dudoso_candidato_del_partido_del_presidente_Guzman_se_desmarca_sensibilidad_recomendada
+UY-2014-PRES-1,UY,2014,1,2014-10-26,Mujica,Frente Amplio,FRENTE AMPLIO;VAZQUEZ,0,analista_pendiente
+UY-2014-PRES-2,UY,2014,2,2014-11-30,Mujica,Frente Amplio,FRENTE AMPLIO;VAZQUEZ,0,analista_pendiente
+UY-2019-PRES-1,UY,2019,1,2019-10-27,Vázquez,Frente Amplio,FRENTE AMPLIO;MARTINEZ,0,analista_pendiente
+UY-2019-PRES-2,UY,2019,2,2019-11-24,Vázquez,Frente Amplio,FRENTE AMPLIO;MARTINEZ,0,analista_pendiente
+UY-2024-PRES-1,UY,2024,1,2024-10-27,Lacalle Pou,Partido Nacional,PARTIDO NACIONAL;DELGADO,0,analista_pendiente
+UY-2024-PRES-2,UY,2024,2,2024-11-24,Lacalle Pou,Partido Nacional,PARTIDO NACIONAL;DELGADO,0,analista_pendiente
+PE-2026-PRES-1,PE,2026,1,2026-04-12,"Balcázar (interino, Perú Libre)",Perú Libre,,0,sin_oficialista_identificado_Balcazar_Peru_Libre_interino_desde_2026-02-18_sin_endoso_hallado
+PE-2026-PRES-2,PE,2026,2,2026-06-07,"Balcázar (interino, Perú Libre)",Perú Libre,,0,sin_oficialista_identificado_Balcazar_Peru_Libre_interino_desde_2026-02-18_sin_endoso_hallado

@@ -1,0 +1,1313 @@
+id_eleccion,region,candidato_col,votos
+MX-1994-PRES-1,Aguascalientes,Zedillo,157736.0
+MX-1994-PRES-1,Aguascalientes,Cevallos,124484.0
+MX-1994-PRES-1,Aguascalientes,Cárdenas,29236.0
+MX-1994-PRES-1,Aguascalientes,Soto,6518.0
+MX-1994-PRES-1,Aguascalientes,González,3794.0
+MX-1994-PRES-1,Aguascalientes,Aguilar,6610.0
+MX-1994-PRES-1,Aguascalientes,Pérez,1320.0
+MX-1994-PRES-1,Aguascalientes,Lombardo,1271.0
+MX-1994-PRES-1,Aguascalientes,Madero,1048.0
+MX-1994-PRES-1,Aguascalientes,Write-in,136.0
+MX-1994-PRES-1,Aguascalientes,Invalid,7463.0
+MX-1994-PRES-1,Baja California,Zedillo,402332.0
+MX-1994-PRES-1,Baja California,Cevallos,297565.0
+MX-1994-PRES-1,Baja California,Cárdenas,68669.0
+MX-1994-PRES-1,Baja California,Soto,15953.0
+MX-1994-PRES-1,Baja California,González,7853.0
+MX-1994-PRES-1,Baja California,Aguilar,3399.0
+MX-1994-PRES-1,Baja California,Pérez,2044.0
+MX-1994-PRES-1,Baja California,Lombardo,3088.0
+MX-1994-PRES-1,Baja California,Madero,1310.0
+MX-1994-PRES-1,Baja California,Write-in,1882.0
+MX-1994-PRES-1,Baja California,Invalid,18393.0
+MX-1994-PRES-1,Baja California Sur,Zedillo,80097.0
+MX-1994-PRES-1,Baja California Sur,Cevallos,46907.0
+MX-1994-PRES-1,Baja California Sur,Cárdenas,9463.0
+MX-1994-PRES-1,Baja California Sur,Soto,3905.0
+MX-1994-PRES-1,Baja California Sur,González,786.0
+MX-1994-PRES-1,Baja California Sur,Aguilar,564.0
+MX-1994-PRES-1,Baja California Sur,Pérez,386.0
+MX-1994-PRES-1,Baja California Sur,Lombardo,324.0
+MX-1994-PRES-1,Baja California Sur,Madero,242.0
+MX-1994-PRES-1,Baja California Sur,Write-in,35.0
+MX-1994-PRES-1,Baja California Sur,Invalid,2580.0
+MX-1994-PRES-1,Campeche,Zedillo,123225.0
+MX-1994-PRES-1,Campeche,Cevallos,41910.0
+MX-1994-PRES-1,Campeche,Cárdenas,47640.0
+MX-1994-PRES-1,Campeche,Soto,2935.0
+MX-1994-PRES-1,Campeche,González,720.0
+MX-1994-PRES-1,Campeche,Aguilar,1139.0
+MX-1994-PRES-1,Campeche,Pérez,3241.0
+MX-1994-PRES-1,Campeche,Lombardo,1051.0
+MX-1994-PRES-1,Campeche,Madero,384.0
+MX-1994-PRES-1,Campeche,Write-in,433.0
+MX-1994-PRES-1,Campeche,Invalid,6328.0
+MX-1994-PRES-1,Chiapas,Zedillo,493135.0
+MX-1994-PRES-1,Chiapas,Cevallos,126266.0
+MX-1994-PRES-1,Chiapas,Cárdenas,347981.0
+MX-1994-PRES-1,Chiapas,Soto,19381.0
+MX-1994-PRES-1,Chiapas,González,4274.0
+MX-1994-PRES-1,Chiapas,Aguilar,17404.0
+MX-1994-PRES-1,Chiapas,Pérez,7255.0
+MX-1994-PRES-1,Chiapas,Lombardo,6183.0
+MX-1994-PRES-1,Chiapas,Madero,1348.0
+MX-1994-PRES-1,Chiapas,Write-in,3495.0
+MX-1994-PRES-1,Chiapas,Invalid,63987.0
+MX-1994-PRES-1,Chihuahua,Zedillo,660874.0
+MX-1994-PRES-1,Chihuahua,Cevallos,308590.0
+MX-1994-PRES-1,Chihuahua,Cárdenas,68251.0
+MX-1994-PRES-1,Chihuahua,Soto,39901.0
+MX-1994-PRES-1,Chihuahua,González,5102.0
+MX-1994-PRES-1,Chihuahua,Aguilar,3615.0
+MX-1994-PRES-1,Chihuahua,Pérez,2702.0
+MX-1994-PRES-1,Chihuahua,Lombardo,3300.0
+MX-1994-PRES-1,Chihuahua,Madero,1424.0
+MX-1994-PRES-1,Chihuahua,Write-in,640.0
+MX-1994-PRES-1,Chihuahua,Invalid,28751.0
+MX-1994-PRES-1,Coahuila,Zedillo,359168.0
+MX-1994-PRES-1,Coahuila,Cevallos,226621.0
+MX-1994-PRES-1,Coahuila,Cárdenas,97121.0
+MX-1994-PRES-1,Coahuila,Soto,17954.0
+MX-1994-PRES-1,Coahuila,González,3157.0
+MX-1994-PRES-1,Coahuila,Aguilar,14760.0
+MX-1994-PRES-1,Coahuila,Pérez,5088.0
+MX-1994-PRES-1,Coahuila,Lombardo,2355.0
+MX-1994-PRES-1,Coahuila,Madero,816.0
+MX-1994-PRES-1,Coahuila,Write-in,420.0
+MX-1994-PRES-1,Coahuila,Invalid,15582.0
+MX-1994-PRES-1,Colima,Zedillo,102903.0
+MX-1994-PRES-1,Colima,Cevallos,60338.0
+MX-1994-PRES-1,Colima,Cárdenas,24157.0
+MX-1994-PRES-1,Colima,Soto,2882.0
+MX-1994-PRES-1,Colima,González,1316.0
+MX-1994-PRES-1,Colima,Aguilar,3448.0
+MX-1994-PRES-1,Colima,Pérez,424.0
+MX-1994-PRES-1,Colima,Lombardo,627.0
+MX-1994-PRES-1,Colima,Madero,1247.0
+MX-1994-PRES-1,Colima,Write-in,548.0
+MX-1994-PRES-1,Colima,Invalid,5354.0
+MX-1994-PRES-1,Ciudad de México,Zedillo,1873059.0
+MX-1994-PRES-1,Ciudad de México,Cevallos,1172438.0
+MX-1994-PRES-1,Ciudad de México,Cárdenas,902199.0
+MX-1994-PRES-1,Ciudad de México,Soto,185903.0
+MX-1994-PRES-1,Ciudad de México,González,91839.0
+MX-1994-PRES-1,Ciudad de México,Aguilar,37370.0
+MX-1994-PRES-1,Ciudad de México,Pérez,15402.0
+MX-1994-PRES-1,Ciudad de México,Lombardo,19084.0
+MX-1994-PRES-1,Ciudad de México,Madero,12246.0
+MX-1994-PRES-1,Ciudad de México,Write-in,7157.0
+MX-1994-PRES-1,Ciudad de México,Invalid,98706.0
+MX-1994-PRES-1,Durango,Zedillo,266837.0
+MX-1994-PRES-1,Durango,Cevallos,141818.0
+MX-1994-PRES-1,Durango,Cárdenas,49793.0
+MX-1994-PRES-1,Durango,Soto,43351.0
+MX-1994-PRES-1,Durango,González,2466.0
+MX-1994-PRES-1,Durango,Aguilar,2712.0
+MX-1994-PRES-1,Durango,Pérez,1950.0
+MX-1994-PRES-1,Durango,Lombardo,2181.0
+MX-1994-PRES-1,Durango,Madero,545.0
+MX-1994-PRES-1,Durango,Write-in,602.0
+MX-1994-PRES-1,Durango,Invalid,13833.0
+MX-1994-PRES-1,Guanajuato,Zedillo,945088.0
+MX-1994-PRES-1,Guanajuato,Cevallos,513865.0
+MX-1994-PRES-1,Guanajuato,Cárdenas,149268.0
+MX-1994-PRES-1,Guanajuato,Soto,32763.0
+MX-1994-PRES-1,Guanajuato,González,10906.0
+MX-1994-PRES-1,Guanajuato,Aguilar,13838.0
+MX-1994-PRES-1,Guanajuato,Pérez,10031.0
+MX-1994-PRES-1,Guanajuato,Lombardo,6691.0
+MX-1994-PRES-1,Guanajuato,Madero,14685.0
+MX-1994-PRES-1,Guanajuato,Write-in,2873.0
+MX-1994-PRES-1,Guanajuato,Invalid,57808.0
+MX-1994-PRES-1,Guerrero,Zedillo,385590.0
+MX-1994-PRES-1,Guerrero,Cevallos,74198.0
+MX-1994-PRES-1,Guerrero,Cárdenas,266818.0
+MX-1994-PRES-1,Guerrero,Soto,9168.0
+MX-1994-PRES-1,Guerrero,González,2951.0
+MX-1994-PRES-1,Guerrero,Aguilar,13485.0
+MX-1994-PRES-1,Guerrero,Pérez,7037.0
+MX-1994-PRES-1,Guerrero,Lombardo,4300.0
+MX-1994-PRES-1,Guerrero,Madero,2634.0
+MX-1994-PRES-1,Guerrero,Write-in,1057.0
+MX-1994-PRES-1,Guerrero,Invalid,25973.0
+MX-1994-PRES-1,Hidalgo,Zedillo,450800.0
+MX-1994-PRES-1,Hidalgo,Cevallos,134171.0
+MX-1994-PRES-1,Hidalgo,Cárdenas,115693.0
+MX-1994-PRES-1,Hidalgo,Soto,14988.0
+MX-1994-PRES-1,Hidalgo,González,4992.0
+MX-1994-PRES-1,Hidalgo,Aguilar,8668.0
+MX-1994-PRES-1,Hidalgo,Pérez,7253.0
+MX-1994-PRES-1,Hidalgo,Lombardo,3442.0
+MX-1994-PRES-1,Hidalgo,Madero,1107.0
+MX-1994-PRES-1,Hidalgo,Write-in,794.0
+MX-1994-PRES-1,Hidalgo,Invalid,29754.0
+MX-1994-PRES-1,Jalisco,Zedillo,1050815.0
+MX-1994-PRES-1,Jalisco,Cevallos,1008234.0
+MX-1994-PRES-1,Jalisco,Cárdenas,166226.0
+MX-1994-PRES-1,Jalisco,Soto,47854.0
+MX-1994-PRES-1,Jalisco,González,20023.0
+MX-1994-PRES-1,Jalisco,Aguilar,17464.0
+MX-1994-PRES-1,Jalisco,Pérez,11566.0
+MX-1994-PRES-1,Jalisco,Lombardo,9528.0
+MX-1994-PRES-1,Jalisco,Madero,11289.0
+MX-1994-PRES-1,Jalisco,Write-in,3181.0
+MX-1994-PRES-1,Jalisco,Invalid,59081.0
+MX-1994-PRES-1,Estado de México,Zedillo,2143122.0
+MX-1994-PRES-1,Estado de México,Cevallos,1179422.0
+MX-1994-PRES-1,Estado de México,Cárdenas,835135.0
+MX-1994-PRES-1,Estado de México,Soto,150186.0
+MX-1994-PRES-1,Estado de México,González,82171.0
+MX-1994-PRES-1,Estado de México,Aguilar,45385.0
+MX-1994-PRES-1,Estado de México,Pérez,22075.0
+MX-1994-PRES-1,Estado de México,Lombardo,26053.0
+MX-1994-PRES-1,Estado de México,Madero,14193.0
+MX-1994-PRES-1,Estado de México,Write-in,4481.0
+MX-1994-PRES-1,Estado de México,Invalid,114214.0
+MX-1994-PRES-1,Michoacán,Zedillo,612040.0
+MX-1994-PRES-1,Michoacán,Cevallos,212921.0
+MX-1994-PRES-1,Michoacán,Cárdenas,493236.0
+MX-1994-PRES-1,Michoacán,Soto,17729.0
+MX-1994-PRES-1,Michoacán,González,7606.0
+MX-1994-PRES-1,Michoacán,Aguilar,8542.0
+MX-1994-PRES-1,Michoacán,Pérez,8584.0
+MX-1994-PRES-1,Michoacán,Lombardo,4293.0
+MX-1994-PRES-1,Michoacán,Madero,6160.0
+MX-1994-PRES-1,Michoacán,Write-in,1130.0
+MX-1994-PRES-1,Michoacán,Invalid,36124.0
+MX-1994-PRES-1,Morelos,Zedillo,282821.0
+MX-1994-PRES-1,Morelos,Cevallos,128942.0
+MX-1994-PRES-1,Morelos,Cárdenas,109560.0
+MX-1994-PRES-1,Morelos,Soto,14399.0
+MX-1994-PRES-1,Morelos,González,6509.0
+MX-1994-PRES-1,Morelos,Aguilar,5845.0
+MX-1994-PRES-1,Morelos,Pérez,3249.0
+MX-1994-PRES-1,Morelos,Lombardo,2073.0
+MX-1994-PRES-1,Morelos,Madero,1305.0
+MX-1994-PRES-1,Morelos,Write-in,1075.0
+MX-1994-PRES-1,Morelos,Invalid,14063.0
+MX-1994-PRES-1,Nayarit,Zedillo,179411.0
+MX-1994-PRES-1,Nayarit,Cevallos,59925.0
+MX-1994-PRES-1,Nayarit,Cárdenas,50717.0
+MX-1994-PRES-1,Nayarit,Soto,8862.0
+MX-1994-PRES-1,Nayarit,González,1243.0
+MX-1994-PRES-1,Nayarit,Aguilar,1758.0
+MX-1994-PRES-1,Nayarit,Pérez,1661.0
+MX-1994-PRES-1,Nayarit,Lombardo,2394.0
+MX-1994-PRES-1,Nayarit,Madero,310.0
+MX-1994-PRES-1,Nayarit,Write-in,775.0
+MX-1994-PRES-1,Nayarit,Invalid,9031.0
+MX-1994-PRES-1,Nuevo León,Zedillo,723629.0
+MX-1994-PRES-1,Nuevo León,Cevallos,596820.0
+MX-1994-PRES-1,Nuevo León,Cárdenas,44413.0
+MX-1994-PRES-1,Nuevo León,Soto,89387.0
+MX-1994-PRES-1,Nuevo León,González,5860.0
+MX-1994-PRES-1,Nuevo León,Aguilar,2917.0
+MX-1994-PRES-1,Nuevo León,Pérez,2874.0
+MX-1994-PRES-1,Nuevo León,Lombardo,2409.0
+MX-1994-PRES-1,Nuevo León,Madero,2144.0
+MX-1994-PRES-1,Nuevo León,Write-in,2193.0
+MX-1994-PRES-1,Nuevo León,Invalid,31091.0
+MX-1994-PRES-1,Oaxaca,Zedillo,509776.0
+MX-1994-PRES-1,Oaxaca,Cevallos,131225.0
+MX-1994-PRES-1,Oaxaca,Cárdenas,276758.0
+MX-1994-PRES-1,Oaxaca,Soto,17221.0
+MX-1994-PRES-1,Oaxaca,González,5044.0
+MX-1994-PRES-1,Oaxaca,Aguilar,9665.0
+MX-1994-PRES-1,Oaxaca,Pérez,12803.0
+MX-1994-PRES-1,Oaxaca,Lombardo,10816.0
+MX-1994-PRES-1,Oaxaca,Madero,1445.0
+MX-1994-PRES-1,Oaxaca,Write-in,891.0
+MX-1994-PRES-1,Oaxaca,Invalid,44163.0
+MX-1994-PRES-1,Puebla,Zedillo,787493.0
+MX-1994-PRES-1,Puebla,Cevallos,399942.0
+MX-1994-PRES-1,Puebla,Cárdenas,216200.0
+MX-1994-PRES-1,Puebla,Soto,37141.0
+MX-1994-PRES-1,Puebla,González,13263.0
+MX-1994-PRES-1,Puebla,Aguilar,11750.0
+MX-1994-PRES-1,Puebla,Pérez,10850.0
+MX-1994-PRES-1,Puebla,Lombardo,9493.0
+MX-1994-PRES-1,Puebla,Madero,2885.0
+MX-1994-PRES-1,Puebla,Write-in,1196.0
+MX-1994-PRES-1,Puebla,Invalid,61865.0
+MX-1994-PRES-1,Querétaro,Zedillo,275788.0
+MX-1994-PRES-1,Querétaro,Cevallos,149540.0
+MX-1994-PRES-1,Querétaro,Cárdenas,26969.0
+MX-1994-PRES-1,Querétaro,Soto,11077.0
+MX-1994-PRES-1,Querétaro,González,2937.0
+MX-1994-PRES-1,Querétaro,Aguilar,3122.0
+MX-1994-PRES-1,Querétaro,Pérez,1572.0
+MX-1994-PRES-1,Querétaro,Lombardo,2127.0
+MX-1994-PRES-1,Querétaro,Madero,1554.0
+MX-1994-PRES-1,Querétaro,Write-in,231.0
+MX-1994-PRES-1,Querétaro,Invalid,14419.0
+MX-1994-PRES-1,Quintana Roo,Zedillo,112546.0
+MX-1994-PRES-1,Quintana Roo,Cevallos,62006.0
+MX-1994-PRES-1,Quintana Roo,Cárdenas,26301.0
+MX-1994-PRES-1,Quintana Roo,Soto,2665.0
+MX-1994-PRES-1,Quintana Roo,González,1304.0
+MX-1994-PRES-1,Quintana Roo,Aguilar,1550.0
+MX-1994-PRES-1,Quintana Roo,Pérez,902.0
+MX-1994-PRES-1,Quintana Roo,Lombardo,1026.0
+MX-1994-PRES-1,Quintana Roo,Madero,174.0
+MX-1994-PRES-1,Quintana Roo,Write-in,80.0
+MX-1994-PRES-1,Quintana Roo,Invalid,5522.0
+MX-1994-PRES-1,San Luis Potosí,Zedillo,440601.0
+MX-1994-PRES-1,San Luis Potosí,Cevallos,196351.0
+MX-1994-PRES-1,San Luis Potosí,Cárdenas,73523.0
+MX-1994-PRES-1,San Luis Potosí,Soto,19705.0
+MX-1994-PRES-1,San Luis Potosí,González,4546.0
+MX-1994-PRES-1,San Luis Potosí,Aguilar,2980.0
+MX-1994-PRES-1,San Luis Potosí,Pérez,3701.0
+MX-1994-PRES-1,San Luis Potosí,Lombardo,2537.0
+MX-1994-PRES-1,San Luis Potosí,Madero,3192.0
+MX-1994-PRES-1,San Luis Potosí,Write-in,996.0
+MX-1994-PRES-1,San Luis Potosí,Invalid,26783.0
+MX-1994-PRES-1,Sinaloa,Zedillo,474882.0
+MX-1994-PRES-1,Sinaloa,Cevallos,285207.0
+MX-1994-PRES-1,Sinaloa,Cárdenas,129025.0
+MX-1994-PRES-1,Sinaloa,Soto,12059.0
+MX-1994-PRES-1,Sinaloa,González,3982.0
+MX-1994-PRES-1,Sinaloa,Aguilar,2973.0
+MX-1994-PRES-1,Sinaloa,Pérez,4383.0
+MX-1994-PRES-1,Sinaloa,Lombardo,4098.0
+MX-1994-PRES-1,Sinaloa,Madero,580.0
+MX-1994-PRES-1,Sinaloa,Write-in,835.0
+MX-1994-PRES-1,Sinaloa,Invalid,20680.0
+MX-1994-PRES-1,Sonora,Zedillo,361835.0
+MX-1994-PRES-1,Sonora,Cevallos,330272.0
+MX-1994-PRES-1,Sonora,Cárdenas,111978.0
+MX-1994-PRES-1,Sonora,Soto,33118.0
+MX-1994-PRES-1,Sonora,González,2778.0
+MX-1994-PRES-1,Sonora,Aguilar,2698.0
+MX-1994-PRES-1,Sonora,Pérez,1646.0
+MX-1994-PRES-1,Sonora,Lombardo,1741.0
+MX-1994-PRES-1,Sonora,Madero,961.0
+MX-1994-PRES-1,Sonora,Write-in,1066.0
+MX-1994-PRES-1,Sonora,Invalid,17745.0
+MX-1994-PRES-1,Tabasco,Zedillo,335851.0
+MX-1994-PRES-1,Tabasco,Cevallos,44763.0
+MX-1994-PRES-1,Tabasco,Cárdenas,196100.0
+MX-1994-PRES-1,Tabasco,Soto,5832.0
+MX-1994-PRES-1,Tabasco,González,1583.0
+MX-1994-PRES-1,Tabasco,Aguilar,3158.0
+MX-1994-PRES-1,Tabasco,Pérez,1645.0
+MX-1994-PRES-1,Tabasco,Lombardo,1563.0
+MX-1994-PRES-1,Tabasco,Madero,399.0
+MX-1994-PRES-1,Tabasco,Write-in,293.0
+MX-1994-PRES-1,Tabasco,Invalid,22427.0
+MX-1994-PRES-1,Tamaulipas,Zedillo,481595.0
+MX-1994-PRES-1,Tamaulipas,Cevallos,275989.0
+MX-1994-PRES-1,Tamaulipas,Cárdenas,192900.0
+MX-1994-PRES-1,Tamaulipas,Soto,23916.0
+MX-1994-PRES-1,Tamaulipas,González,5155.0
+MX-1994-PRES-1,Tamaulipas,Aguilar,5307.0
+MX-1994-PRES-1,Tamaulipas,Pérez,20502.0
+MX-1994-PRES-1,Tamaulipas,Lombardo,3301.0
+MX-1994-PRES-1,Tamaulipas,Madero,1604.0
+MX-1994-PRES-1,Tamaulipas,Write-in,1357.0
+MX-1994-PRES-1,Tamaulipas,Invalid,30058.0
+MX-1994-PRES-1,Tlaxcala,Zedillo,186126.0
+MX-1994-PRES-1,Tlaxcala,Cevallos,84582.0
+MX-1994-PRES-1,Tlaxcala,Cárdenas,54029.0
+MX-1994-PRES-1,Tlaxcala,Soto,7799.0
+MX-1994-PRES-1,Tlaxcala,González,2862.0
+MX-1994-PRES-1,Tlaxcala,Aguilar,2120.0
+MX-1994-PRES-1,Tlaxcala,Pérez,1819.0
+MX-1994-PRES-1,Tlaxcala,Lombardo,2138.0
+MX-1994-PRES-1,Tlaxcala,Madero,1887.0
+MX-1994-PRES-1,Tlaxcala,Write-in,114.0
+MX-1994-PRES-1,Tlaxcala,Invalid,9681.0
+MX-1994-PRES-1,Veracruz,Zedillo,1360540.0
+MX-1994-PRES-1,Veracruz,Cevallos,419109.0
+MX-1994-PRES-1,Veracruz,Cárdenas,612354.0
+MX-1994-PRES-1,Veracruz,Soto,50492.0
+MX-1994-PRES-1,Veracruz,González,16342.0
+MX-1994-PRES-1,Veracruz,Aguilar,40825.0
+MX-1994-PRES-1,Veracruz,Pérez,16127.0
+MX-1994-PRES-1,Veracruz,Lombardo,23508.0
+MX-1994-PRES-1,Veracruz,Madero,7810.0
+MX-1994-PRES-1,Veracruz,Write-in,3115.0
+MX-1994-PRES-1,Veracruz,Invalid,93331.0
+MX-1994-PRES-1,Yucatán,Zedillo,251699.0
+MX-1994-PRES-1,Yucatán,Cevallos,195986.0
+MX-1994-PRES-1,Yucatán,Cárdenas,15009.0
+MX-1994-PRES-1,Yucatán,Soto,3583.0
+MX-1994-PRES-1,Yucatán,González,2102.0
+MX-1994-PRES-1,Yucatán,Aguilar,1127.0
+MX-1994-PRES-1,Yucatán,Pérez,799.0
+MX-1994-PRES-1,Yucatán,Lombardo,867.0
+MX-1994-PRES-1,Yucatán,Madero,330.0
+MX-1994-PRES-1,Yucatán,Write-in,84.0
+MX-1994-PRES-1,Yucatán,Invalid,10429.0
+MX-1994-PRES-1,Zacatecas,Zedillo,310237.0
+MX-1994-PRES-1,Zacatecas,Cevallos,116434.0
+MX-1994-PRES-1,Zacatecas,Cárdenas,45412.0
+MX-1994-PRES-1,Zacatecas,Soto,21494.0
+MX-1994-PRES-1,Zacatecas,González,1847.0
+MX-1994-PRES-1,Zacatecas,Aguilar,1703.0
+MX-1994-PRES-1,Zacatecas,Pérez,1904.0
+MX-1994-PRES-1,Zacatecas,Lombardo,2732.0
+MX-1994-PRES-1,Zacatecas,Madero,677.0
+MX-1994-PRES-1,Zacatecas,Write-in,550.0
+MX-1994-PRES-1,Zacatecas,Invalid,13072.0
+MX-2000-PRES-1,Aguascalientes,Fox,202335.0
+MX-2000-PRES-1,Aguascalientes,Labastida,127134.0
+MX-2000-PRES-1,Aguascalientes,Cárdenas,26264.0
+MX-2000-PRES-1,Aguascalientes,Rincón,9467.0
+MX-2000-PRES-1,Aguascalientes,Camacho,2202.0
+MX-2000-PRES-1,Aguascalientes,Muñoz,1389.0
+MX-2000-PRES-1,Aguascalientes,Write-in,83.0
+MX-2000-PRES-1,Aguascalientes,None,6291.0
+MX-2000-PRES-1,Baja California,Fox,429194.0
+MX-2000-PRES-1,Baja California,Labastida,319477.0
+MX-2000-PRES-1,Baja California,Cárdenas,77340.0
+MX-2000-PRES-1,Baja California,Rincón,14562.0
+MX-2000-PRES-1,Baja California,Camacho,3470.0
+MX-2000-PRES-1,Baja California,Muñoz,3080.0
+MX-2000-PRES-1,Baja California,Write-in,507.0
+MX-2000-PRES-1,Baja California,None,14965.0
+MX-2000-PRES-1,Baja California Sur,Fox,60834.0
+MX-2000-PRES-1,Baja California Sur,Labastida,56230.0
+MX-2000-PRES-1,Baja California Sur,Cárdenas,45229.0
+MX-2000-PRES-1,Baja California Sur,Rincón,2107.0
+MX-2000-PRES-1,Baja California Sur,Camacho,460.0
+MX-2000-PRES-1,Baja California Sur,Muñoz,364.0
+MX-2000-PRES-1,Baja California Sur,Write-in,17.0
+MX-2000-PRES-1,Baja California Sur,None,2804.0
+MX-2000-PRES-1,Campeche,Fox,104498.0
+MX-2000-PRES-1,Campeche,Labastida,106347.0
+MX-2000-PRES-1,Campeche,Cárdenas,35090.0
+MX-2000-PRES-1,Campeche,Rincón,2485.0
+MX-2000-PRES-1,Campeche,Camacho,1406.0
+MX-2000-PRES-1,Campeche,Muñoz,1247.0
+MX-2000-PRES-1,Campeche,Write-in,559.0
+MX-2000-PRES-1,Campeche,None,9309.0
+MX-2000-PRES-1,Chiapas,Fox,288204.0
+MX-2000-PRES-1,Chiapas,Labastida,469392.0
+MX-2000-PRES-1,Chiapas,Cárdenas,272182.0
+MX-2000-PRES-1,Chiapas,Rincón,5340.0
+MX-2000-PRES-1,Chiapas,Camacho,4659.0
+MX-2000-PRES-1,Chiapas,Muñoz,4063.0
+MX-2000-PRES-1,Chiapas,Write-in,1056.0
+MX-2000-PRES-1,Chiapas,None,44551.0
+MX-2000-PRES-1,Chihuahua,Fox,549177.0
+MX-2000-PRES-1,Chihuahua,Labastida,460931.0
+MX-2000-PRES-1,Chihuahua,Cárdenas,76810.0
+MX-2000-PRES-1,Chihuahua,Rincón,11569.0
+MX-2000-PRES-1,Chihuahua,Camacho,4487.0
+MX-2000-PRES-1,Chihuahua,Muñoz,3166.0
+MX-2000-PRES-1,Chihuahua,Write-in,609.0
+MX-2000-PRES-1,Chihuahua,None,21350.0
+MX-2000-PRES-1,Coahuila,Fox,398800.0
+MX-2000-PRES-1,Coahuila,Labastida,311480.0
+MX-2000-PRES-1,Coahuila,Cárdenas,77393.0
+MX-2000-PRES-1,Coahuila,Rincón,10392.0
+MX-2000-PRES-1,Coahuila,Camacho,2111.0
+MX-2000-PRES-1,Coahuila,Muñoz,1880.0
+MX-2000-PRES-1,Coahuila,Write-in,1454.0
+MX-2000-PRES-1,Coahuila,None,12464.0
+MX-2000-PRES-1,Colima,Fox,106445.0
+MX-2000-PRES-1,Colima,Labastida,81099.0
+MX-2000-PRES-1,Colima,Cárdenas,23313.0
+MX-2000-PRES-1,Colima,Rincón,3159.0
+MX-2000-PRES-1,Colima,Camacho,1028.0
+MX-2000-PRES-1,Colima,Muñoz,542.0
+MX-2000-PRES-1,Colima,Write-in,39.0
+MX-2000-PRES-1,Colima,None,4377.0
+MX-2000-PRES-1,Ciudad de México,Fox,1928035.0
+MX-2000-PRES-1,Ciudad de México,Labastida,1060227.0
+MX-2000-PRES-1,Ciudad de México,Cárdenas,1146131.0
+MX-2000-PRES-1,Ciudad de México,Rincón,149312.0
+MX-2000-PRES-1,Ciudad de México,Camacho,36383.0
+MX-2000-PRES-1,Ciudad de México,Muñoz,18843.0
+MX-2000-PRES-1,Ciudad de México,Write-in,2009.0
+MX-2000-PRES-1,Ciudad de México,None,75669.0
+MX-2000-PRES-1,Durango,Fox,211361.0
+MX-2000-PRES-1,Durango,Labastida,222892.0
+MX-2000-PRES-1,Durango,Cárdenas,50592.0
+MX-2000-PRES-1,Durango,Rincón,6144.0
+MX-2000-PRES-1,Durango,Camacho,1579.0
+MX-2000-PRES-1,Durango,Muñoz,1469.0
+MX-2000-PRES-1,Durango,Write-in,859.0
+MX-2000-PRES-1,Durango,None,9294.0
+MX-2000-PRES-1,Guanajuato,Fox,1128780.0
+MX-2000-PRES-1,Guanajuato,Labastida,517815.0
+MX-2000-PRES-1,Guanajuato,Cárdenas,121489.0
+MX-2000-PRES-1,Guanajuato,Rincón,18248.0
+MX-2000-PRES-1,Guanajuato,Camacho,10800.0
+MX-2000-PRES-1,Guanajuato,Muñoz,8473.0
+MX-2000-PRES-1,Guanajuato,Write-in,2873.0
+MX-2000-PRES-1,Guanajuato,None,49039.0
+MX-2000-PRES-1,Guerrero,Fox,174962.0
+MX-2000-PRES-1,Guerrero,Labastida,402091.0
+MX-2000-PRES-1,Guerrero,Cárdenas,332091.0
+MX-2000-PRES-1,Guerrero,Rincón,6179.0
+MX-2000-PRES-1,Guerrero,Camacho,2913.0
+MX-2000-PRES-1,Guerrero,Muñoz,3003.0
+MX-2000-PRES-1,Guerrero,Write-in,954.0
+MX-2000-PRES-1,Guerrero,None,20180.0
+MX-2000-PRES-1,Hidalgo,Fox,282864.0
+MX-2000-PRES-1,Hidalgo,Labastida,355565.0
+MX-2000-PRES-1,Hidalgo,Cárdenas,136861.0
+MX-2000-PRES-1,Hidalgo,Rincón,12319.0
+MX-2000-PRES-1,Hidalgo,Camacho,5034.0
+MX-2000-PRES-1,Hidalgo,Muñoz,4078.0
+MX-2000-PRES-1,Hidalgo,Write-in,758.0
+MX-2000-PRES-1,Hidalgo,None,19997.0
+MX-2000-PRES-1,Jalisco,Fox,1392535.0
+MX-2000-PRES-1,Jalisco,Labastida,941962.0
+MX-2000-PRES-1,Jalisco,Cárdenas,163269.0
+MX-2000-PRES-1,Jalisco,Rincón,45494.0
+MX-2000-PRES-1,Jalisco,Camacho,17567.0
+MX-2000-PRES-1,Jalisco,Muñoz,11110.0
+MX-2000-PRES-1,Jalisco,Write-in,3287.0
+MX-2000-PRES-1,Jalisco,None,48736.0
+MX-2000-PRES-1,Estado de México,Fox,2239750.0
+MX-2000-PRES-1,Estado de México,Labastida,1637714.0
+MX-2000-PRES-1,Estado de México,Cárdenas,961876.0
+MX-2000-PRES-1,Estado de México,Rincón,121137.0
+MX-2000-PRES-1,Estado de México,Camacho,40733.0
+MX-2000-PRES-1,Estado de México,Muñoz,27203.0
+MX-2000-PRES-1,Estado de México,Write-in,3416.0
+MX-2000-PRES-1,Estado de México,None,92743.0
+MX-2000-PRES-1,Michoacán,Fox,419188.0
+MX-2000-PRES-1,Michoacán,Labastida,441871.0
+MX-2000-PRES-1,Michoacán,Cárdenas,543804.0
+MX-2000-PRES-1,Michoacán,Rincón,13058.0
+MX-2000-PRES-1,Michoacán,Camacho,7444.0
+MX-2000-PRES-1,Michoacán,Muñoz,6404.0
+MX-2000-PRES-1,Michoacán,Write-in,2060.0
+MX-2000-PRES-1,Michoacán,None,30448.0
+MX-2000-PRES-1,Morelos,Fox,290639.0
+MX-2000-PRES-1,Morelos,Labastida,193861.0
+MX-2000-PRES-1,Morelos,Cárdenas,124368.0
+MX-2000-PRES-1,Morelos,Rincón,12539.0
+MX-2000-PRES-1,Morelos,Camacho,2916.0
+MX-2000-PRES-1,Morelos,Muñoz,3010.0
+MX-2000-PRES-1,Morelos,Write-in,136.0
+MX-2000-PRES-1,Morelos,None,12296.0
+MX-2000-PRES-1,Nayarit,Fox,107417.0
+MX-2000-PRES-1,Nayarit,Labastida,173479.0
+MX-2000-PRES-1,Nayarit,Cárdenas,63121.0
+MX-2000-PRES-1,Nayarit,Rincón,3092.0
+MX-2000-PRES-1,Nayarit,Camacho,1175.0
+MX-2000-PRES-1,Nayarit,Muñoz,1024.0
+MX-2000-PRES-1,Nayarit,Write-in,351.0
+MX-2000-PRES-1,Nayarit,None,7043.0
+MX-2000-PRES-1,Nuevo León,Fox,760093.0
+MX-2000-PRES-1,Nuevo León,Labastida,615907.0
+MX-2000-PRES-1,Nuevo León,Cárdenas,96637.0
+MX-2000-PRES-1,Nuevo León,Rincón,20448.0
+MX-2000-PRES-1,Nuevo León,Camacho,7478.0
+MX-2000-PRES-1,Nuevo León,Muñoz,2658.0
+MX-2000-PRES-1,Nuevo León,Write-in,1519.0
+MX-2000-PRES-1,Nuevo León,None,27201.0
+MX-2000-PRES-1,Oaxaca,Fox,301195.0
+MX-2000-PRES-1,Oaxaca,Labastida,486496.0
+MX-2000-PRES-1,Oaxaca,Cárdenas,282587.0
+MX-2000-PRES-1,Oaxaca,Rincón,11074.0
+MX-2000-PRES-1,Oaxaca,Camacho,8372.0
+MX-2000-PRES-1,Oaxaca,Muñoz,7305.0
+MX-2000-PRES-1,Oaxaca,Write-in,1851.0
+MX-2000-PRES-1,Oaxaca,None,39616.0
+MX-2000-PRES-1,Puebla,Fox,732435.0
+MX-2000-PRES-1,Puebla,Labastida,698974.0
+MX-2000-PRES-1,Puebla,Cárdenas,208688.0
+MX-2000-PRES-1,Puebla,Rincón,20170.0
+MX-2000-PRES-1,Puebla,Camacho,8609.0
+MX-2000-PRES-1,Puebla,Muñoz,7849.0
+MX-2000-PRES-1,Puebla,Write-in,1142.0
+MX-2000-PRES-1,Puebla,None,44305.0
+MX-2000-PRES-1,Querétaro,Fox,290977.0
+MX-2000-PRES-1,Querétaro,Labastida,192622.0
+MX-2000-PRES-1,Querétaro,Cárdenas,39629.0
+MX-2000-PRES-1,Querétaro,Rincón,10585.0
+MX-2000-PRES-1,Querétaro,Camacho,3768.0
+MX-2000-PRES-1,Querétaro,Muñoz,8670.0
+MX-2000-PRES-1,Querétaro,Write-in,170.0
+MX-2000-PRES-1,Querétaro,None,13849.0
+MX-2000-PRES-1,Quintana Roo,Fox,132383.0
+MX-2000-PRES-1,Quintana Roo,Labastida,94202.0
+MX-2000-PRES-1,Quintana Roo,Cárdenas,50487.0
+MX-2000-PRES-1,Quintana Roo,Rincón,2399.0
+MX-2000-PRES-1,Quintana Roo,Camacho,916.0
+MX-2000-PRES-1,Quintana Roo,Muñoz,729.0
+MX-2000-PRES-1,Quintana Roo,Write-in,70.0
+MX-2000-PRES-1,Quintana Roo,None,5216.0
+MX-2000-PRES-1,San Luis Potosí,Fox,393997.0
+MX-2000-PRES-1,San Luis Potosí,Labastida,324234.0
+MX-2000-PRES-1,San Luis Potosí,Cárdenas,72599.0
+MX-2000-PRES-1,San Luis Potosí,Rincón,11073.0
+MX-2000-PRES-1,San Luis Potosí,Camacho,3306.0
+MX-2000-PRES-1,San Luis Potosí,Muñoz,2287.0
+MX-2000-PRES-1,San Luis Potosí,Write-in,407.0
+MX-2000-PRES-1,San Luis Potosí,None,22673.0
+MX-2000-PRES-1,Sinaloa,Fox,230777.0
+MX-2000-PRES-1,Sinaloa,Labastida,621329.0
+MX-2000-PRES-1,Sinaloa,Cárdenas,90488.0
+MX-2000-PRES-1,Sinaloa,Rincón,7205.0
+MX-2000-PRES-1,Sinaloa,Camacho,2189.0
+MX-2000-PRES-1,Sinaloa,Muñoz,1675.0
+MX-2000-PRES-1,Sinaloa,Write-in,1290.0
+MX-2000-PRES-1,Sinaloa,None,15920.0
+MX-2000-PRES-1,Sonora,Fox,447496.0
+MX-2000-PRES-1,Sonora,Labastida,292267.0
+MX-2000-PRES-1,Sonora,Cárdenas,114580.0
+MX-2000-PRES-1,Sonora,Rincón,6426.0
+MX-2000-PRES-1,Sonora,Camacho,1672.0
+MX-2000-PRES-1,Sonora,Muñoz,1325.0
+MX-2000-PRES-1,Sonora,Write-in,94.0
+MX-2000-PRES-1,Sonora,None,13269.0
+MX-2000-PRES-1,Tabasco,Fox,174840.0
+MX-2000-PRES-1,Tabasco,Labastida,269519.0
+MX-2000-PRES-1,Tabasco,Cárdenas,213983.0
+MX-2000-PRES-1,Tabasco,Rincón,5817.0
+MX-2000-PRES-1,Tabasco,Camacho,2599.0
+MX-2000-PRES-1,Tabasco,Muñoz,1732.0
+MX-2000-PRES-1,Tabasco,Write-in,655.0
+MX-2000-PRES-1,Tabasco,None,14036.0
+MX-2000-PRES-1,Tamaulipas,Fox,521486.0
+MX-2000-PRES-1,Tamaulipas,Labastida,445737.0
+MX-2000-PRES-1,Tamaulipas,Cárdenas,91426.0
+MX-2000-PRES-1,Tamaulipas,Rincón,9387.0
+MX-2000-PRES-1,Tamaulipas,Camacho,3210.0
+MX-2000-PRES-1,Tamaulipas,Muñoz,6932.0
+MX-2000-PRES-1,Tamaulipas,Write-in,1157.0
+MX-2000-PRES-1,Tamaulipas,None,19659.0
+MX-2000-PRES-1,Tlaxcala,Fox,123880.0
+MX-2000-PRES-1,Tlaxcala,Labastida,127163.0
+MX-2000-PRES-1,Tlaxcala,Cárdenas,82073.0
+MX-2000-PRES-1,Tlaxcala,Rincón,5185.0
+MX-2000-PRES-1,Tlaxcala,Camacho,2508.0
+MX-2000-PRES-1,Tlaxcala,Muñoz,1450.0
+MX-2000-PRES-1,Tlaxcala,Write-in,53.0
+MX-2000-PRES-1,Tlaxcala,None,6639.0
+MX-2000-PRES-1,Veracruz,Fox,1066719.0
+MX-2000-PRES-1,Veracruz,Labastida,1008933.0
+MX-2000-PRES-1,Veracruz,Cárdenas,491791.0
+MX-2000-PRES-1,Veracruz,Rincón,25474.0
+MX-2000-PRES-1,Veracruz,Camacho,11343.0
+MX-2000-PRES-1,Veracruz,Muñoz,10956.0
+MX-2000-PRES-1,Veracruz,Write-in,985.0
+MX-2000-PRES-1,Veracruz,None,58630.0
+MX-2000-PRES-1,Yucatán,Fox,328503.0
+MX-2000-PRES-1,Yucatán,Labastida,321392.0
+MX-2000-PRES-1,Yucatán,Cárdenas,27214.0
+MX-2000-PRES-1,Yucatán,Rincón,4258.0
+MX-2000-PRES-1,Yucatán,Camacho,1344.0
+MX-2000-PRES-1,Yucatán,Muñoz,987.0
+MX-2000-PRES-1,Yucatán,Write-in,602.0
+MX-2000-PRES-1,Yucatán,None,13127.0
+MX-2000-PRES-1,Zacatecas,Fox,169837.0
+MX-2000-PRES-1,Zacatecas,Labastida,197336.0
+MX-2000-PRES-1,Zacatecas,Cárdenas,117375.0
+MX-2000-PRES-1,Zacatecas,Rincón,6277.0
+MX-2000-PRES-1,Zacatecas,Camacho,2908.0
+MX-2000-PRES-1,Zacatecas,Muñoz,1993.0
+MX-2000-PRES-1,Zacatecas,Write-in,439.0
+MX-2000-PRES-1,Zacatecas,None,12461.0
+MX-2006-PRES-1,Aguascalientes,Calderón,193588.0
+MX-2006-PRES-1,Aguascalientes,López,89920.0
+MX-2006-PRES-1,Aguascalientes,Madrazo,97935.0
+MX-2006-PRES-1,Aguascalientes,Mercado,16275.0
+MX-2006-PRES-1,Aguascalientes,Campa,5597.0
+MX-2006-PRES-1,Aguascalientes,Write-in,3335.0
+MX-2006-PRES-1,Aguascalientes,None,7669.0
+MX-2006-PRES-1,Baja California,Calderón,450186.0
+MX-2006-PRES-1,Baja California,López,224275.0
+MX-2006-PRES-1,Baja California,Madrazo,203233.0
+MX-2006-PRES-1,Baja California,Mercado,35917.0
+MX-2006-PRES-1,Baja California,Campa,13522.0
+MX-2006-PRES-1,Baja California,Write-in,6488.0
+MX-2006-PRES-1,Baja California,None,17099.0
+MX-2006-PRES-1,Baja California Sur,Calderón,62127.0
+MX-2006-PRES-1,Baja California Sur,López,77875.0
+MX-2006-PRES-1,Baja California Sur,Madrazo,29874.0
+MX-2006-PRES-1,Baja California Sur,Mercado,5470.0
+MX-2006-PRES-1,Baja California Sur,Campa,1475.0
+MX-2006-PRES-1,Baja California Sur,Write-in,1225.0
+MX-2006-PRES-1,Baja California Sur,None,2801.0
+MX-2006-PRES-1,Campeche,Calderón,99526.0
+MX-2006-PRES-1,Campeche,López,101192.0
+MX-2006-PRES-1,Campeche,Madrazo,87412.0
+MX-2006-PRES-1,Campeche,Mercado,4756.0
+MX-2006-PRES-1,Campeche,Campa,8470.0
+MX-2006-PRES-1,Campeche,Write-in,1652.0
+MX-2006-PRES-1,Campeche,None,9514.0
+MX-2006-PRES-1,Chiapas,Calderón,215358.0
+MX-2006-PRES-1,Chiapas,López,551749.0
+MX-2006-PRES-1,Chiapas,Madrazo,427351.0
+MX-2006-PRES-1,Chiapas,Mercado,15065.0
+MX-2006-PRES-1,Chiapas,Campa,7378.0
+MX-2006-PRES-1,Chiapas,Write-in,8395.0
+MX-2006-PRES-1,Chiapas,None,47327.0
+MX-2006-PRES-1,Chihuahua,Calderón,523914.0
+MX-2006-PRES-1,Chihuahua,López,212069.0
+MX-2006-PRES-1,Chihuahua,Madrazo,341916.0
+MX-2006-PRES-1,Chihuahua,Mercado,31414.0
+MX-2006-PRES-1,Chihuahua,Campa,20375.0
+MX-2006-PRES-1,Chihuahua,Write-in,6540.0
+MX-2006-PRES-1,Chihuahua,None,25405.0
+MX-2006-PRES-1,Coahuila,Calderón,400894.0
+MX-2006-PRES-1,Coahuila,López,225117.0
+MX-2006-PRES-1,Coahuila,Madrazo,245960.0
+MX-2006-PRES-1,Coahuila,Mercado,26450.0
+MX-2006-PRES-1,Coahuila,Campa,8412.0
+MX-2006-PRES-1,Coahuila,Write-in,8192.0
+MX-2006-PRES-1,Coahuila,None,14919.0
+MX-2006-PRES-1,Colima,Calderón,107880.0
+MX-2006-PRES-1,Colima,López,61434.0
+MX-2006-PRES-1,Colima,Madrazo,76586.0
+MX-2006-PRES-1,Colima,Mercado,5284.0
+MX-2006-PRES-1,Colima,Campa,1567.0
+MX-2006-PRES-1,Colima,Write-in,784.0
+MX-2006-PRES-1,Colima,None,4591.0
+MX-2006-PRES-1,Ciudad de México,Calderón,1325474.0
+MX-2006-PRES-1,Ciudad de México,López,2813112.0
+MX-2006-PRES-1,Ciudad de México,Madrazo,413644.0
+MX-2006-PRES-1,Ciudad de México,Mercado,175517.0
+MX-2006-PRES-1,Ciudad de México,Campa,27152.0
+MX-2006-PRES-1,Ciudad de México,Write-in,14833.0
+MX-2006-PRES-1,Ciudad de México,None,69553.0
+MX-2006-PRES-1,Durango,Calderón,255229.0
+MX-2006-PRES-1,Durango,López,128881.0
+MX-2006-PRES-1,Durango,Madrazo,153990.0
+MX-2006-PRES-1,Durango,Mercado,11188.0
+MX-2006-PRES-1,Durango,Campa,5769.0
+MX-2006-PRES-1,Durango,Write-in,6113.0
+MX-2006-PRES-1,Durango,None,10873.0
+MX-2006-PRES-1,Guanajuato,Calderón,1155403.0
+MX-2006-PRES-1,Guanajuato,López,301463.0
+MX-2006-PRES-1,Guanajuato,Madrazo,368789.0
+MX-2006-PRES-1,Guanajuato,Mercado,49753.0
+MX-2006-PRES-1,Guanajuato,Campa,18611.0
+MX-2006-PRES-1,Guanajuato,Write-in,17136.0
+MX-2006-PRES-1,Guanajuato,None,49896.0
+MX-2006-PRES-1,Guerrero,Calderón,160253.0
+MX-2006-PRES-1,Guerrero,López,510217.0
+MX-2006-PRES-1,Guerrero,Madrazo,263035.0
+MX-2006-PRES-1,Guerrero,Mercado,16809.0
+MX-2006-PRES-1,Guerrero,Campa,10493.0
+MX-2006-PRES-1,Guerrero,Write-in,7132.0
+MX-2006-PRES-1,Guerrero,None,24172.0
+MX-2006-PRES-1,Hidalgo,Calderón,251772.0
+MX-2006-PRES-1,Hidalgo,López,385750.0
+MX-2006-PRES-1,Hidalgo,Madrazo,235926.0
+MX-2006-PRES-1,Hidalgo,Mercado,25702.0
+MX-2006-PRES-1,Hidalgo,Campa,15360.0
+MX-2006-PRES-1,Hidalgo,Write-in,6444.0
+MX-2006-PRES-1,Hidalgo,None,24636.0
+MX-2006-PRES-1,Jalisco,Calderón,1435334.0
+MX-2006-PRES-1,Jalisco,López,559266.0
+MX-2006-PRES-1,Jalisco,Madrazo,705925.0
+MX-2006-PRES-1,Jalisco,Mercado,93836.0
+MX-2006-PRES-1,Jalisco,Campa,37739.0
+MX-2006-PRES-1,Jalisco,Write-in,16537.0
+MX-2006-PRES-1,Jalisco,None,61729.0
+MX-2006-PRES-1,Estado de México,Calderón,1771515.0
+MX-2006-PRES-1,Estado de México,López,2469093.0
+MX-2006-PRES-1,Estado de México,Madrazo,1033110.0
+MX-2006-PRES-1,Estado de México,Mercado,215857.0
+MX-2006-PRES-1,Estado de México,Campa,61494.0
+MX-2006-PRES-1,Estado de México,Write-in,48075.0
+MX-2006-PRES-1,Estado de México,None,101188.0
+MX-2006-PRES-1,Michoacán,Calderón,515600.0
+MX-2006-PRES-1,Michoacán,López,615535.0
+MX-2006-PRES-1,Michoacán,Madrazo,283157.0
+MX-2006-PRES-1,Michoacán,Mercado,29951.0
+MX-2006-PRES-1,Michoacán,Campa,8229.0
+MX-2006-PRES-1,Michoacán,Write-in,10780.0
+MX-2006-PRES-1,Michoacán,None,31845.0
+MX-2006-PRES-1,Morelos,Calderón,226340.0
+MX-2006-PRES-1,Morelos,López,312815.0
+MX-2006-PRES-1,Morelos,Madrazo,111118.0
+MX-2006-PRES-1,Morelos,Mercado,24736.0
+MX-2006-PRES-1,Morelos,Campa,12129.0
+MX-2006-PRES-1,Morelos,Write-in,6901.0
+MX-2006-PRES-1,Morelos,None,15062.0
+MX-2006-PRES-1,Nayarit,Calderón,69097.0
+MX-2006-PRES-1,Nayarit,López,152999.0
+MX-2006-PRES-1,Nayarit,Madrazo,123284.0
+MX-2006-PRES-1,Nayarit,Mercado,7730.0
+MX-2006-PRES-1,Nayarit,Campa,3840.0
+MX-2006-PRES-1,Nayarit,Write-in,1919.0
+MX-2006-PRES-1,Nayarit,None,6978.0
+MX-2006-PRES-1,Nuevo León,Calderón,865006.0
+MX-2006-PRES-1,Nuevo León,López,282384.0
+MX-2006-PRES-1,Nuevo León,Madrazo,488402.0
+MX-2006-PRES-1,Nuevo León,Mercado,51760.0
+MX-2006-PRES-1,Nuevo León,Campa,31112.0
+MX-2006-PRES-1,Nuevo León,Write-in,11343.0
+MX-2006-PRES-1,Nuevo León,None,39211.0
+MX-2006-PRES-1,Oaxaca,Calderón,226304.0
+MX-2006-PRES-1,Oaxaca,López,620062.0
+MX-2006-PRES-1,Oaxaca,Madrazo,428026.0
+MX-2006-PRES-1,Oaxaca,Mercado,19482.0
+MX-2006-PRES-1,Oaxaca,Campa,5620.0
+MX-2006-PRES-1,Oaxaca,Write-in,7672.0
+MX-2006-PRES-1,Oaxaca,None,42017.0
+MX-2006-PRES-1,Puebla,Calderón,743831.0
+MX-2006-PRES-1,Puebla,López,639659.0
+MX-2006-PRES-1,Puebla,Madrazo,460183.0
+MX-2006-PRES-1,Puebla,Mercado,50234.0
+MX-2006-PRES-1,Puebla,Campa,20418.0
+MX-2006-PRES-1,Puebla,Write-in,16227.0
+MX-2006-PRES-1,Puebla,None,53614.0
+MX-2006-PRES-1,Querétaro,Calderón,322975.0
+MX-2006-PRES-1,Querétaro,López,160383.0
+MX-2006-PRES-1,Querétaro,Madrazo,133188.0
+MX-2006-PRES-1,Querétaro,Mercado,16536.0
+MX-2006-PRES-1,Querétaro,Campa,6028.0
+MX-2006-PRES-1,Querétaro,Write-in,5823.0
+MX-2006-PRES-1,Querétaro,None,15451.0
+MX-2006-PRES-1,Quintana Roo,Calderón,111485.0
+MX-2006-PRES-1,Quintana Roo,López,147839.0
+MX-2006-PRES-1,Quintana Roo,Madrazo,105086.0
+MX-2006-PRES-1,Quintana Roo,Mercado,8801.0
+MX-2006-PRES-1,Quintana Roo,Campa,2768.0
+MX-2006-PRES-1,Quintana Roo,Write-in,2729.0
+MX-2006-PRES-1,Quintana Roo,None,7014.0
+MX-2006-PRES-1,San Luis Potosí,Calderón,462329.0
+MX-2006-PRES-1,San Luis Potosí,López,204983.0
+MX-2006-PRES-1,San Luis Potosí,Madrazo,207602.0
+MX-2006-PRES-1,San Luis Potosí,Mercado,23648.0
+MX-2006-PRES-1,San Luis Potosí,Campa,8360.0
+MX-2006-PRES-1,San Luis Potosí,Write-in,7470.0
+MX-2006-PRES-1,San Luis Potosí,None,37332.0
+MX-2006-PRES-1,Sinaloa,Calderón,363461.0
+MX-2006-PRES-1,Sinaloa,López,301709.0
+MX-2006-PRES-1,Sinaloa,Madrazo,263553.0
+MX-2006-PRES-1,Sinaloa,Mercado,20620.0
+MX-2006-PRES-1,Sinaloa,Campa,6717.0
+MX-2006-PRES-1,Sinaloa,Write-in,5397.0
+MX-2006-PRES-1,Sinaloa,None,19227.0
+MX-2006-PRES-1,Sonora,Calderón,468288.0
+MX-2006-PRES-1,Sonora,López,240114.0
+MX-2006-PRES-1,Sonora,Madrazo,175365.0
+MX-2006-PRES-1,Sonora,Mercado,23187.0
+MX-2006-PRES-1,Sonora,Campa,6914.0
+MX-2006-PRES-1,Sonora,Write-in,3724.0
+MX-2006-PRES-1,Sonora,None,16345.0
+MX-2006-PRES-1,Tabasco,Calderón,31975.0
+MX-2006-PRES-1,Tabasco,López,512743.0
+MX-2006-PRES-1,Tabasco,Madrazo,344526.0
+MX-2006-PRES-1,Tabasco,Mercado,4261.0
+MX-2006-PRES-1,Tabasco,Campa,1906.0
+MX-2006-PRES-1,Tabasco,Write-in,1582.0
+MX-2006-PRES-1,Tabasco,None,14120.0
+MX-2006-PRES-1,Tamaulipas,Calderón,506177.0
+MX-2006-PRES-1,Tamaulipas,López,324491.0
+MX-2006-PRES-1,Tamaulipas,Madrazo,317849.0
+MX-2006-PRES-1,Tamaulipas,Mercado,25025.0
+MX-2006-PRES-1,Tamaulipas,Campa,12424.0
+MX-2006-PRES-1,Tamaulipas,Write-in,15853.0
+MX-2006-PRES-1,Tamaulipas,None,24103.0
+MX-2006-PRES-1,Tlaxcala,Calderón,140128.0
+MX-2006-PRES-1,Tlaxcala,López,180487.0
+MX-2006-PRES-1,Tlaxcala,Madrazo,59672.0
+MX-2006-PRES-1,Tlaxcala,Mercado,11130.0
+MX-2006-PRES-1,Tlaxcala,Campa,3426.0
+MX-2006-PRES-1,Tlaxcala,Write-in,6504.0
+MX-2006-PRES-1,Tlaxcala,None,8883.0
+MX-2006-PRES-1,Veracruz,Calderón,1006676.0
+MX-2006-PRES-1,Veracruz,López,1036474.0
+MX-2006-PRES-1,Veracruz,Madrazo,727638.0
+MX-2006-PRES-1,Veracruz,Mercado,55971.0
+MX-2006-PRES-1,Veracruz,Campa,17777.0
+MX-2006-PRES-1,Veracruz,Write-in,25396.0
+MX-2006-PRES-1,Veracruz,None,72412.0
+MX-2006-PRES-1,Yucatán,Calderón,364353.0
+MX-2006-PRES-1,Yucatán,López,125152.0
+MX-2006-PRES-1,Yucatán,Madrazo,260116.0
+MX-2006-PRES-1,Yucatán,Mercado,12962.0
+MX-2006-PRES-1,Yucatán,Campa,4504.0
+MX-2006-PRES-1,Yucatán,Write-in,6784.0
+MX-2006-PRES-1,Yucatán,None,15284.0
+MX-2006-PRES-1,Zacatecas,Calderón,167806.0
+MX-2006-PRES-1,Zacatecas,López,187088.0
+MX-2006-PRES-1,Zacatecas,Madrazo,128392.0
+MX-2006-PRES-1,Zacatecas,Mercado,13523.0
+MX-2006-PRES-1,Zacatecas,Campa,6218.0
+MX-2006-PRES-1,Zacatecas,Write-in,9004.0
+MX-2006-PRES-1,Zacatecas,None,13224.0
+MX-2018-PRES-1,Aguascalientes,Anaya,178988.0
+MX-2018-PRES-1,Aguascalientes,Meade,103639.0
+MX-2018-PRES-1,Aguascalientes,López,222528.0
+MX-2018-PRES-1,Aguascalientes,Zavala,547.0
+MX-2018-PRES-1,Aguascalientes,Rodríguez,40299.0
+MX-2018-PRES-1,Aguascalientes,Write-ins,391.0
+MX-2018-PRES-1,Baja California,Anaya,275503.0
+MX-2018-PRES-1,Baja California,Meade,124225.0
+MX-2018-PRES-1,Baja California,López,918939.0
+MX-2018-PRES-1,Baja California,Zavala,479.0
+MX-2018-PRES-1,Baja California,Rodríguez,89823.0
+MX-2018-PRES-1,Baja California,Write-ins,1252.0
+MX-2018-PRES-1,Baja California Sur,Anaya,56794.0
+MX-2018-PRES-1,Baja California Sur,Meade,28202.0
+MX-2018-PRES-1,Baja California Sur,López,193842.0
+MX-2018-PRES-1,Baja California Sur,Zavala,404.0
+MX-2018-PRES-1,Baja California Sur,Rodríguez,16766.0
+MX-2018-PRES-1,Baja California Sur,Write-ins,235.0
+MX-2018-PRES-1,Campeche,Anaya,54417.0
+MX-2018-PRES-1,Campeche,Meade,96584.0
+MX-2018-PRES-1,Campeche,López,275262.0
+MX-2018-PRES-1,Campeche,Zavala,209.0
+MX-2018-PRES-1,Campeche,Rodríguez,11194.0
+MX-2018-PRES-1,Campeche,Write-ins,146.0
+MX-2018-PRES-1,Coahuila,Anaya,307590.0
+MX-2018-PRES-1,Coahuila,Meade,358279.0
+MX-2018-PRES-1,Coahuila,López,609362.0
+MX-2018-PRES-1,Coahuila,Zavala,730.0
+MX-2018-PRES-1,Coahuila,Rodríguez,71051.0
+MX-2018-PRES-1,Coahuila,Write-ins,437.0
+MX-2018-PRES-1,Colima,Anaya,56428.0
+MX-2018-PRES-1,Colima,Meade,62004.0
+MX-2018-PRES-1,Colima,López,197316.0
+MX-2018-PRES-1,Colima,Zavala,346.0
+MX-2018-PRES-1,Colima,Rodríguez,15753.0
+MX-2018-PRES-1,Colima,Write-ins,200.0
+MX-2018-PRES-1,Chiapas,Anaya,198117.0
+MX-2018-PRES-1,Chiapas,Meade,562863.0
+MX-2018-PRES-1,Chiapas,López,1485699.0
+MX-2018-PRES-1,Chiapas,Zavala,1697.0
+MX-2018-PRES-1,Chiapas,Rodríguez,39607.0
+MX-2018-PRES-1,Chiapas,Write-ins,580.0
+MX-2018-PRES-1,Chihuahua,Anaya,425919.0
+MX-2018-PRES-1,Chihuahua,Meade,240725.0
+MX-2018-PRES-1,Chihuahua,López,643652.0
+MX-2018-PRES-1,Chihuahua,Zavala,1604.0
+MX-2018-PRES-1,Chihuahua,Rodríguez,132242.0
+MX-2018-PRES-1,Chihuahua,Write-ins,1717.0
+MX-2018-PRES-1,Ciudad de México,Anaya,1292623.0
+MX-2018-PRES-1,Ciudad de México,Meade,652073.0
+MX-2018-PRES-1,Ciudad de México,López,3118478.0
+MX-2018-PRES-1,Ciudad de México,Zavala,3054.0
+MX-2018-PRES-1,Ciudad de México,Rodríguez,223261.0
+MX-2018-PRES-1,Ciudad de México,Write-ins,4793.0
+MX-2018-PRES-1,Durango,Anaya,187947.0
+MX-2018-PRES-1,Durango,Meade,141291.0
+MX-2018-PRES-1,Durango,López,340829.0
+MX-2018-PRES-1,Durango,Zavala,636.0
+MX-2018-PRES-1,Durango,Rodríguez,46009.0
+MX-2018-PRES-1,Durango,Write-ins,215.0
+MX-2018-PRES-1,Guanajuato,Anaya,940133.0
+MX-2018-PRES-1,Guanajuato,Meade,381692.0
+MX-2018-PRES-1,Guanajuato,López,707222.0
+MX-2018-PRES-1,Guanajuato,Zavala,1655.0
+MX-2018-PRES-1,Guanajuato,Rodríguez,223214.0
+MX-2018-PRES-1,Guanajuato,Write-ins,1859.0
+MX-2018-PRES-1,Guerrero,Anaya,217838.0
+MX-2018-PRES-1,Guerrero,Meade,285799.0
+MX-2018-PRES-1,Guerrero,López,1018163.0
+MX-2018-PRES-1,Guerrero,Zavala,277.0
+MX-2018-PRES-1,Guerrero,Rodríguez,24531.0
+MX-2018-PRES-1,Guerrero,Write-ins,362.0
+MX-2018-PRES-1,Hidalgo,Anaya,188028.0
+MX-2018-PRES-1,Hidalgo,Meade,257548.0
+MX-2018-PRES-1,Hidalgo,López,850863.0
+MX-2018-PRES-1,Hidalgo,Zavala,473.0
+MX-2018-PRES-1,Hidalgo,Rodríguez,59630.0
+MX-2018-PRES-1,Hidalgo,Write-ins,454.0
+MX-2018-PRES-1,Jalisco,Anaya,1179300.0
+MX-2018-PRES-1,Jalisco,Meade,509157.0
+MX-2018-PRES-1,Jalisco,López,1461348.0
+MX-2018-PRES-1,Jalisco,Zavala,3152.0
+MX-2018-PRES-1,Jalisco,Rodríguez,246924.0
+MX-2018-PRES-1,Jalisco,Write-ins,2954.0
+MX-2018-PRES-1,Estado de México,Anaya,1549824.0
+MX-2018-PRES-1,Estado de México,Meade,1548662.0
+MX-2018-PRES-1,Estado de México,López,4373267.0
+MX-2018-PRES-1,Estado de México,Zavala,3092.0
+MX-2018-PRES-1,Estado de México,Rodríguez,383684.0
+MX-2018-PRES-1,Estado de México,Write-ins,4653.0
+MX-2018-PRES-1,Michoacán,Anaya,443805.0
+MX-2018-PRES-1,Michoacán,Meade,335854.0
+MX-2018-PRES-1,Michoacán,López,991154.0
+MX-2018-PRES-1,Michoacán,Zavala,1176.0
+MX-2018-PRES-1,Michoacán,Rodríguez,122469.0
+MX-2018-PRES-1,Michoacán,Write-ins,1097.0
+MX-2018-PRES-1,Morelos,Anaya,142553.0
+MX-2018-PRES-1,Morelos,Meade,99506.0
+MX-2018-PRES-1,Morelos,López,638689.0
+MX-2018-PRES-1,Morelos,Zavala,680.0
+MX-2018-PRES-1,Morelos,Rodríguez,60083.0
+MX-2018-PRES-1,Morelos,Write-ins,510.0
+MX-2018-PRES-1,Nayarit,Anaya,79818.0
+MX-2018-PRES-1,Nayarit,Meade,66447.0
+MX-2018-PRES-1,Nayarit,López,315816.0
+MX-2018-PRES-1,Nayarit,Zavala,280.0
+MX-2018-PRES-1,Nayarit,Rodríguez,10382.0
+MX-2018-PRES-1,Nayarit,Write-ins,183.0
+MX-2018-PRES-1,Nuevo León,Anaya,703866.0
+MX-2018-PRES-1,Nuevo León,Meade,315379.0
+MX-2018-PRES-1,Nuevo León,López,748104.0
+MX-2018-PRES-1,Nuevo León,Zavala,2000.0
+MX-2018-PRES-1,Nuevo León,Rodríguez,360050.0
+MX-2018-PRES-1,Nuevo León,Write-ins,1931.0
+MX-2018-PRES-1,Oaxaca,Anaya,221686.0
+MX-2018-PRES-1,Oaxaca,Meade,342108.0
+MX-2018-PRES-1,Oaxaca,López,1260562.0
+MX-2018-PRES-1,Oaxaca,Zavala,931.0
+MX-2018-PRES-1,Oaxaca,Rodríguez,39020.0
+MX-2018-PRES-1,Oaxaca,Write-ins,548.0
+MX-2018-PRES-1,Puebla,Anaya,618397.0
+MX-2018-PRES-1,Puebla,Meade,490737.0
+MX-2018-PRES-1,Puebla,López,1754596.0
+MX-2018-PRES-1,Puebla,Zavala,1562.0
+MX-2018-PRES-1,Puebla,Rodríguez,113461.0
+MX-2018-PRES-1,Puebla,Write-ins,1509.0
+MX-2018-PRES-1,Querétaro,Anaya,347664.0
+MX-2018-PRES-1,Querétaro,Meade,150927.0
+MX-2018-PRES-1,Querétaro,López,424162.0
+MX-2018-PRES-1,Querétaro,Zavala,1347.0
+MX-2018-PRES-1,Querétaro,Rodríguez,72905.0
+MX-2018-PRES-1,Querétaro,Write-ins,855.0
+MX-2018-PRES-1,Quintana Roo,Anaya,116031.0
+MX-2018-PRES-1,Quintana Roo,Meade,76758.0
+MX-2018-PRES-1,Quintana Roo,López,488434.0
+MX-2018-PRES-1,Quintana Roo,Zavala,361.0
+MX-2018-PRES-1,Quintana Roo,Rodríguez,29441.0
+MX-2018-PRES-1,Quintana Roo,Write-ins,424.0
+MX-2018-PRES-1,San Luis Potosí,Anaya,334763.0
+MX-2018-PRES-1,San Luis Potosí,Meade,260211.0
+MX-2018-PRES-1,San Luis Potosí,López,527546.0
+MX-2018-PRES-1,San Luis Potosí,Zavala,717.0
+MX-2018-PRES-1,San Luis Potosí,Rodríguez,82956.0
+MX-2018-PRES-1,San Luis Potosí,Write-ins,677.0
+MX-2018-PRES-1,Sinaloa,Anaya,163956.0
+MX-2018-PRES-1,Sinaloa,Meade,234416.0
+MX-2018-PRES-1,Sinaloa,López,834001.0
+MX-2018-PRES-1,Sinaloa,Zavala,475.0
+MX-2018-PRES-1,Sinaloa,Rodríguez,29173.0
+MX-2018-PRES-1,Sinaloa,Write-ins,470.0
+MX-2018-PRES-1,Sonora,Anaya,167273.0
+MX-2018-PRES-1,Sonora,Meade,181059.0
+MX-2018-PRES-1,Sonora,López,651806.0
+MX-2018-PRES-1,Sonora,Zavala,858.0
+MX-2018-PRES-1,Sonora,Rodríguez,63800.0
+MX-2018-PRES-1,Sonora,Write-ins,505.0
+MX-2018-PRES-1,Tabasco,Anaya,91342.0
+MX-2018-PRES-1,Tabasco,Meade,107538.0
+MX-2018-PRES-1,Tabasco,López,961710.0
+MX-2018-PRES-1,Tabasco,Zavala,378.0
+MX-2018-PRES-1,Tabasco,Rodríguez,9749.0
+MX-2018-PRES-1,Tabasco,Write-ins,279.0
+MX-2018-PRES-1,Tamaulipas,Anaya,475201.0
+MX-2018-PRES-1,Tamaulipas,Meade,228386.0
+MX-2018-PRES-1,Tamaulipas,López,786210.0
+MX-2018-PRES-1,Tamaulipas,Zavala,1143.0
+MX-2018-PRES-1,Tamaulipas,Rodríguez,110246.0
+MX-2018-PRES-1,Tamaulipas,Write-ins,531.0
+MX-2018-PRES-1,Tlaxcala,Anaya,66729.0
+MX-2018-PRES-1,Tlaxcala,Meade,74744.0
+MX-2018-PRES-1,Tlaxcala,López,433127.0
+MX-2018-PRES-1,Tlaxcala,Zavala,213.0
+MX-2018-PRES-1,Tlaxcala,Rodríguez,25941.0
+MX-2018-PRES-1,Tlaxcala,Write-ins,276.0
+MX-2018-PRES-1,Veracruz,Anaya,1050599.0
+MX-2018-PRES-1,Veracruz,Meade,471313.0
+MX-2018-PRES-1,Veracruz,López,2059209.0
+MX-2018-PRES-1,Veracruz,Zavala,1224.0
+MX-2018-PRES-1,Veracruz,Rodríguez,132737.0
+MX-2018-PRES-1,Veracruz,Write-ins,1307.0
+MX-2018-PRES-1,Yucatán,Anaya,320144.0
+MX-2018-PRES-1,Yucatán,Meade,324055.0
+MX-2018-PRES-1,Yucatán,López,455216.0
+MX-2018-PRES-1,Yucatán,Zavala,384.0
+MX-2018-PRES-1,Yucatán,Rodríguez,39111.0
+MX-2018-PRES-1,Yucatán,Write-ins,333.0
+MX-2018-PRES-1,Zacatecas,Anaya,156844.0
+MX-2018-PRES-1,Zacatecas,Meade,177672.0
+MX-2018-PRES-1,Zacatecas,López,366371.0
+MX-2018-PRES-1,Zacatecas,Zavala,659.0
+MX-2018-PRES-1,Zacatecas,Rodríguez,36220.0
+MX-2018-PRES-1,Zacatecas,Write-ins,299.0
+MX-2024-PRES-1,Aguascalientes,Sheinbaum,284706.0
+MX-2024-PRES-1,Aguascalientes,Gálvez,306262.0
+MX-2024-PRES-1,Aguascalientes,Máynez,59498.0
+MX-2024-PRES-1,Aguascalientes,Write-ins,1571.0
+MX-2024-PRES-1,Aguascalientes,Invalid,14205.0
+MX-2024-PRES-1,Baja California,Sheinbaum,1039973.0
+MX-2024-PRES-1,Baja California,Gálvez,330657.0
+MX-2024-PRES-1,Baja California,Máynez,155262.0
+MX-2024-PRES-1,Baja California,Write-ins,2929.0
+MX-2024-PRES-1,Baja California,Invalid,31512.0
+MX-2024-PRES-1,Baja California Sur,Sheinbaum,201126.0
+MX-2024-PRES-1,Baja California Sur,Gálvez,101136.0
+MX-2024-PRES-1,Baja California Sur,Máynez,29825.0
+MX-2024-PRES-1,Baja California Sur,Write-ins,463.0
+MX-2024-PRES-1,Baja California Sur,Invalid,7539.0
+MX-2024-PRES-1,Campeche,Sheinbaum,275315.0
+MX-2024-PRES-1,Campeche,Gálvez,69546.0
+MX-2024-PRES-1,Campeche,Máynez,94280.0
+MX-2024-PRES-1,Campeche,Write-ins,432.0
+MX-2024-PRES-1,Campeche,Invalid,9570.0
+MX-2024-PRES-1,Coahuila,Sheinbaum,853437.0
+MX-2024-PRES-1,Coahuila,Gálvez,617208.0
+MX-2024-PRES-1,Coahuila,Máynez,85857.0
+MX-2024-PRES-1,Coahuila,Write-ins,1203.0
+MX-2024-PRES-1,Coahuila,Invalid,31004.0
+MX-2024-PRES-1,Colima,Sheinbaum,188093.0
+MX-2024-PRES-1,Colima,Gálvez,103580.0
+MX-2024-PRES-1,Colima,Máynez,46092.0
+MX-2024-PRES-1,Colima,Write-ins,698.0
+MX-2024-PRES-1,Colima,Invalid,7247.0
+MX-2024-PRES-1,Chiapas,Sheinbaum,1769444.0
+MX-2024-PRES-1,Chiapas,Gálvez,412846.0
+MX-2024-PRES-1,Chiapas,Máynez,183101.0
+MX-2024-PRES-1,Chiapas,Write-ins,2269.0
+MX-2024-PRES-1,Chiapas,Invalid,105298.0
+MX-2024-PRES-1,Chihuahua,Sheinbaum,885869.0
+MX-2024-PRES-1,Chihuahua,Gálvez,559690.0
+MX-2024-PRES-1,Chihuahua,Máynez,157077.0
+MX-2024-PRES-1,Chihuahua,Write-ins,2280.0
+MX-2024-PRES-1,Chihuahua,Invalid,39737.0
+MX-2024-PRES-1,Ciudad de México,Sheinbaum,3095413.0
+MX-2024-PRES-1,Ciudad de México,Gálvez,1937152.0
+MX-2024-PRES-1,Ciudad de México,Máynez,467960.0
+MX-2024-PRES-1,Ciudad de México,Write-ins,9723.0
+MX-2024-PRES-1,Ciudad de México,Invalid,97303.0
+MX-2024-PRES-1,Durango,Sheinbaum,455237.0
+MX-2024-PRES-1,Durango,Gálvez,250283.0
+MX-2024-PRES-1,Durango,Máynez,56129.0
+MX-2024-PRES-1,Durango,Write-ins,698.0
+MX-2024-PRES-1,Durango,Invalid,16563.0
+MX-2024-PRES-1,Guanajuato,Sheinbaum,1302706.0
+MX-2024-PRES-1,Guanajuato,Gálvez,1103326.0
+MX-2024-PRES-1,Guanajuato,Máynez,291379.0
+MX-2024-PRES-1,Guanajuato,Write-ins,4613.0
+MX-2024-PRES-1,Guanajuato,Invalid,57068.0
+MX-2024-PRES-1,Guerrero,Sheinbaum,1110844.0
+MX-2024-PRES-1,Guerrero,Gálvez,291130.0
+MX-2024-PRES-1,Guerrero,Máynez,98827.0
+MX-2024-PRES-1,Guerrero,Write-ins,1430.0
+MX-2024-PRES-1,Guerrero,Invalid,47869.0
+MX-2024-PRES-1,Hidalgo,Sheinbaum,1043873.0
+MX-2024-PRES-1,Hidalgo,Gálvez,307056.0
+MX-2024-PRES-1,Hidalgo,Máynez,159899.0
+MX-2024-PRES-1,Hidalgo,Write-ins,1586.0
+MX-2024-PRES-1,Hidalgo,Invalid,35547.0
+MX-2024-PRES-1,Jalisco,Sheinbaum,1720921.0
+MX-2024-PRES-1,Jalisco,Gálvez,1384825.0
+MX-2024-PRES-1,Jalisco,Máynez,670462.0
+MX-2024-PRES-1,Jalisco,Write-ins,8648.0
+MX-2024-PRES-1,Jalisco,Invalid,87479.0
+MX-2024-PRES-1,Estado de México,Sheinbaum,5125040.0
+MX-2024-PRES-1,Estado de México,Gálvez,2241267.0
+MX-2024-PRES-1,Estado de México,Máynez,905529.0
+MX-2024-PRES-1,Estado de México,Write-ins,10882.0
+MX-2024-PRES-1,Estado de México,Invalid,174459.0
+MX-2024-PRES-1,Michoacán,Sheinbaum,1140630.0
+MX-2024-PRES-1,Michoacán,Gálvez,607301.0
+MX-2024-PRES-1,Michoacán,Máynez,250391.0
+MX-2024-PRES-1,Michoacán,Write-ins,3808.0
+MX-2024-PRES-1,Michoacán,Invalid,69044.0
+MX-2024-PRES-1,Morelos,Sheinbaum,631526.0
+MX-2024-PRES-1,Morelos,Gálvez,211169.0
+MX-2024-PRES-1,Morelos,Máynez,126294.0
+MX-2024-PRES-1,Morelos,Write-ins,1075.0
+MX-2024-PRES-1,Morelos,Invalid,19713.0
+MX-2024-PRES-1,Nayarit,Sheinbaum,342762.0
+MX-2024-PRES-1,Nayarit,Gálvez,109487.0
+MX-2024-PRES-1,Nayarit,Máynez,74621.0
+MX-2024-PRES-1,Nayarit,Write-ins,711.0
+MX-2024-PRES-1,Nayarit,Invalid,14134.0
+MX-2024-PRES-1,Nuevo León,Sheinbaum,1159159.0
+MX-2024-PRES-1,Nuevo León,Gálvez,888064.0
+MX-2024-PRES-1,Nuevo León,Máynez,463002.0
+MX-2024-PRES-1,Nuevo León,Write-ins,3398.0
+MX-2024-PRES-1,Nuevo León,Invalid,50253.0
+MX-2024-PRES-1,Oaxaca,Sheinbaum,1441211.0
+MX-2024-PRES-1,Oaxaca,Gálvez,271981.0
+MX-2024-PRES-1,Oaxaca,Máynez,124621.0
+MX-2024-PRES-1,Oaxaca,Write-ins,1633.0
+MX-2024-PRES-1,Oaxaca,Invalid,47631.0
+MX-2024-PRES-1,Puebla,Sheinbaum,2146741.0
+MX-2024-PRES-1,Puebla,Gálvez,716148.0
+MX-2024-PRES-1,Puebla,Máynez,332071.0
+MX-2024-PRES-1,Puebla,Write-ins,4102.0
+MX-2024-PRES-1,Puebla,Invalid,93890.0
+MX-2024-PRES-1,Querétaro,Sheinbaum,622335.0
+MX-2024-PRES-1,Querétaro,Gálvez,449501.0
+MX-2024-PRES-1,Querétaro,Máynez,116117.0
+MX-2024-PRES-1,Querétaro,Write-ins,2957.0
+MX-2024-PRES-1,Querétaro,Invalid,27548.0
+MX-2024-PRES-1,Quintana Roo,Sheinbaum,605361.0
+MX-2024-PRES-1,Quintana Roo,Gálvez,138992.0
+MX-2024-PRES-1,Quintana Roo,Máynez,63890.0
+MX-2024-PRES-1,Quintana Roo,Write-ins,1339.0
+MX-2024-PRES-1,Quintana Roo,Invalid,17703.0
+MX-2024-PRES-1,San Luis Potosí,Sheinbaum,826746.0
+MX-2024-PRES-1,San Luis Potosí,Gálvez,347948.0
+MX-2024-PRES-1,San Luis Potosí,Máynez,146802.0
+MX-2024-PRES-1,San Luis Potosí,Write-ins,2020.0
+MX-2024-PRES-1,San Luis Potosí,Invalid,42682.0
+MX-2024-PRES-1,Sinaloa,Sheinbaum,872249.0
+MX-2024-PRES-1,Sinaloa,Gálvez,326368.0
+MX-2024-PRES-1,Sinaloa,Máynez,103193.0
+MX-2024-PRES-1,Sinaloa,Write-ins,1128.0
+MX-2024-PRES-1,Sinaloa,Invalid,26868.0
+MX-2024-PRES-1,Sonora,Sheinbaum,750219.0
+MX-2024-PRES-1,Sonora,Gálvez,290917.0
+MX-2024-PRES-1,Sonora,Máynez,107759.0
+MX-2024-PRES-1,Sonora,Write-ins,1423.0
+MX-2024-PRES-1,Sonora,Invalid,23401.0
+MX-2024-PRES-1,Tabasco,Sheinbaum,897143.0
+MX-2024-PRES-1,Tabasco,Gálvez,124037.0
+MX-2024-PRES-1,Tabasco,Máynez,66018.0
+MX-2024-PRES-1,Tabasco,Write-ins,1107.0
+MX-2024-PRES-1,Tabasco,Invalid,25696.0
+MX-2024-PRES-1,Tamaulipas,Sheinbaum,1013715.0
+MX-2024-PRES-1,Tamaulipas,Gálvez,427228.0
+MX-2024-PRES-1,Tamaulipas,Máynez,152528.0
+MX-2024-PRES-1,Tamaulipas,Write-ins,1865.0
+MX-2024-PRES-1,Tamaulipas,Invalid,30965.0
+MX-2024-PRES-1,Tlaxcala,Sheinbaum,512774.0
+MX-2024-PRES-1,Tlaxcala,Gálvez,109112.0
+MX-2024-PRES-1,Tlaxcala,Máynez,103236.0
+MX-2024-PRES-1,Tlaxcala,Write-ins,800.0
+MX-2024-PRES-1,Tlaxcala,Invalid,15038.0
+MX-2024-PRES-1,Veracruz,Sheinbaum,2441410.0
+MX-2024-PRES-1,Veracruz,Gálvez,846842.0
+MX-2024-PRES-1,Veracruz,Máynez,294613.0
+MX-2024-PRES-1,Veracruz,Write-ins,3769.0
+MX-2024-PRES-1,Veracruz,Invalid,87363.0
+MX-2024-PRES-1,Yucatán,Sheinbaum,779851.0
+MX-2024-PRES-1,Yucatán,Gálvez,390645.0
+MX-2024-PRES-1,Yucatán,Máynez,88001.0
+MX-2024-PRES-1,Yucatán,Write-ins,1177.0
+MX-2024-PRES-1,Yucatán,Invalid,25301.0
+MX-2024-PRES-1,Zacatecas,Sheinbaum,388690.0
+MX-2024-PRES-1,Zacatecas,Gálvez,230993.0
+MX-2024-PRES-1,Zacatecas,Máynez,130376.0
+MX-2024-PRES-1,Zacatecas,Write-ins,1373.0
+MX-2024-PRES-1,Zacatecas,Invalid,20514.0
+MX-2012-PRES-1,Aguascalientes,Vázquez,152543.0
+MX-2012-PRES-1,Aguascalientes,Peña,190774.0
+MX-2012-PRES-1,Aguascalientes,López,102626.0
+MX-2012-PRES-1,Aguascalientes,Quadri,33705.0
+MX-2012-PRES-1,Baja California,Vázquez,338796.0
+MX-2012-PRES-1,Baja California,Peña,463350.0
+MX-2012-PRES-1,Baja California,López,389922.0
+MX-2012-PRES-1,Baja California,Quadri,34893.0
+MX-2012-PRES-1,Baja California Sur,Vázquez,75066.0
+MX-2012-PRES-1,Baja California Sur,Peña,104750.0
+MX-2012-PRES-1,Baja California Sur,López,63177.0
+MX-2012-PRES-1,Baja California Sur,Quadri,4940.0
+MX-2012-PRES-1,Campeche,Vázquez,107881.0
+MX-2012-PRES-1,Campeche,Peña,149210.0
+MX-2012-PRES-1,Campeche,López,102368.0
+MX-2012-PRES-1,Campeche,Quadri,9707.0
+MX-2012-PRES-1,Coahuila,Vázquez,428998.0
+MX-2012-PRES-1,Coahuila,Peña,464775.0
+MX-2012-PRES-1,Coahuila,López,233818.0
+MX-2012-PRES-1,Coahuila,Quadri,27833.0
+MX-2012-PRES-1,Colima,Vázquez,101083.0
+MX-2012-PRES-1,Colima,Peña,123676.0
+MX-2012-PRES-1,Colima,López,68009.0
+MX-2012-PRES-1,Colima,Quadri,4855.0
+MX-2012-PRES-1,Chiapas,Vázquez,325666.0
+MX-2012-PRES-1,Chiapas,Peña,933502.0
+MX-2012-PRES-1,Chiapas,López,634086.0
+MX-2012-PRES-1,Chiapas,Quadri,47943.0
+MX-2012-PRES-1,Chihuahua,Vázquez,328048.0
+MX-2012-PRES-1,Chihuahua,Peña,618638.0
+MX-2012-PRES-1,Chihuahua,López,301539.0
+MX-2012-PRES-1,Chihuahua,Quadri,48219.0
+MX-2012-PRES-1,Ciudad de México,Vázquez,844110.0
+MX-2012-PRES-1,Ciudad de México,Peña,1258169.0
+MX-2012-PRES-1,Ciudad de México,López,2568944.0
+MX-2012-PRES-1,Ciudad de México,Quadri,87332.0
+MX-2012-PRES-1,Durango,Vázquez,194052.0
+MX-2012-PRES-1,Durango,Peña,320361.0
+MX-2012-PRES-1,Durango,López,141162.0
+MX-2012-PRES-1,Durango,Quadri,15407.0
+MX-2012-PRES-1,Guanajuato,Vázquez,944158.0
+MX-2012-PRES-1,Guanajuato,Peña,929495.0
+MX-2012-PRES-1,Guanajuato,López,297980.0
+MX-2012-PRES-1,Guanajuato,Quadri,62920.0
+MX-2012-PRES-1,Guerrero,Vázquez,153627.0
+MX-2012-PRES-1,Guerrero,Peña,530071.0
+MX-2012-PRES-1,Guerrero,López,660554.0
+MX-2012-PRES-1,Guerrero,Quadri,20163.0
+MX-2012-PRES-1,Hidalgo,Vázquez,215101.0
+MX-2012-PRES-1,Hidalgo,Peña,517005.0
+MX-2012-PRES-1,Hidalgo,López,411980.0
+MX-2012-PRES-1,Hidalgo,Quadri,50197.0
+MX-2012-PRES-1,Jalisco,Vázquez,1098252.0
+MX-2012-PRES-1,Jalisco,Peña,1362790.0
+MX-2012-PRES-1,Jalisco,López,769771.0
+MX-2012-PRES-1,Jalisco,Quadri,93506.0
+MX-2012-PRES-1,Estado de México,Vázquez,1250707.0
+MX-2012-PRES-1,Estado de México,Peña,2966110.0
+MX-2012-PRES-1,Estado de México,López,2339725.0
+MX-2012-PRES-1,Estado de México,Quadri,160462.0
+MX-2012-PRES-1,Michoacán,Vázquez,337512.0
+MX-2012-PRES-1,Michoacán,Peña,710302.0
+MX-2012-PRES-1,Michoacán,López,517114.0
+MX-2012-PRES-1,Michoacán,Quadri,34427.0
+MX-2012-PRES-1,Morelos,Vázquez,157027.0
+MX-2012-PRES-1,Morelos,Peña,295734.0
+MX-2012-PRES-1,Morelos,López,363280.0
+MX-2012-PRES-1,Morelos,Quadri,19036.0
+MX-2012-PRES-1,Nayarit,Vázquez,82970.0
+MX-2012-PRES-1,Nayarit,Peña,221408.0
+MX-2012-PRES-1,Nayarit,López,145640.0
+MX-2012-PRES-1,Nayarit,Quadri,8907.0
+MX-2012-PRES-1,Nuevo León,Vázquez,800099.0
+MX-2012-PRES-1,Nuevo León,Peña,666990.0
+MX-2012-PRES-1,Nuevo León,López,441450.0
+MX-2012-PRES-1,Nuevo León,Quadri,62159.0
+MX-2012-PRES-1,Oaxaca,Vázquez,290645.0
+MX-2012-PRES-1,Oaxaca,Peña,555650.0
+MX-2012-PRES-1,Oaxaca,López,695683.0
+MX-2012-PRES-1,Oaxaca,Quadri,18330.0
+MX-2012-PRES-1,Puebla,Vázquez,640977.0
+MX-2012-PRES-1,Puebla,Peña,854382.0
+MX-2012-PRES-1,Puebla,López,859110.0
+MX-2012-PRES-1,Puebla,Quadri,56040.0
+MX-2012-PRES-1,Querétaro,Vázquez,288343.0
+MX-2012-PRES-1,Querétaro,Peña,330726.0
+MX-2012-PRES-1,Querétaro,López,192444.0
+MX-2012-PRES-1,Querétaro,Quadri,20285.0
+MX-2012-PRES-1,Quintana Roo,Vázquez,111303.0
+MX-2012-PRES-1,Quintana Roo,Peña,179009.0
+MX-2012-PRES-1,Quintana Roo,López,226054.0
+MX-2012-PRES-1,Quintana Roo,Quadri,10362.0
+MX-2012-PRES-1,San Luis Potosí,Vázquez,346576.0
+MX-2012-PRES-1,San Luis Potosí,Peña,428797.0
+MX-2012-PRES-1,San Luis Potosí,López,263762.0
+MX-2012-PRES-1,San Luis Potosí,Quadri,32282.0
+MX-2012-PRES-1,Sinaloa,Vázquez,295585.0
+MX-2012-PRES-1,Sinaloa,Peña,551140.0
+MX-2012-PRES-1,Sinaloa,López,278805.0
+MX-2012-PRES-1,Sinaloa,Quadri,22584.0
+MX-2012-PRES-1,Sonora,Vázquez,342168.0
+MX-2012-PRES-1,Sonora,Peña,430139.0
+MX-2012-PRES-1,Sonora,López,265999.0
+MX-2012-PRES-1,Sonora,Quadri,16125.0
+MX-2012-PRES-1,Tabasco,Vázquez,65018.0
+MX-2012-PRES-1,Tabasco,Peña,346383.0
+MX-2012-PRES-1,Tabasco,López,646981.0
+MX-2012-PRES-1,Tabasco,Quadri,5766.0
+MX-2012-PRES-1,Tamaulipas,Vázquez,597387.0
+MX-2012-PRES-1,Tamaulipas,Peña,491021.0
+MX-2012-PRES-1,Tamaulipas,López,280834.0
+MX-2012-PRES-1,Tamaulipas,Quadri,31465.0
+MX-2012-PRES-1,Tlaxcala,Vázquez,98450.0
+MX-2012-PRES-1,Tlaxcala,Peña,184247.0
+MX-2012-PRES-1,Tlaxcala,López,210177.0
+MX-2012-PRES-1,Tlaxcala,Quadri,15993.0
+MX-2012-PRES-1,Veracruz,Vázquez,1203157.0
+MX-2012-PRES-1,Veracruz,Peña,1201324.0
+MX-2012-PRES-1,Veracruz,López,1035790.0
+MX-2012-PRES-1,Veracruz,Quadri,50750.0
+MX-2012-PRES-1,Yucatán,Vázquez,394197.0
+MX-2012-PRES-1,Yucatán,Peña,440011.0
+MX-2012-PRES-1,Yucatán,López,177696.0
+MX-2012-PRES-1,Yucatán,Quadri,18131.0
+MX-2012-PRES-1,Zacatecas,Vázquez,122416.0
+MX-2012-PRES-1,Zacatecas,Peña,338653.0
+MX-2012-PRES-1,Zacatecas,López,161907.0
+MX-2012-PRES-1,Zacatecas,Quadri,21431.0

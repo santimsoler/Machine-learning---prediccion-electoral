@@ -1,0 +1,185 @@
+id_eleccion,pais,anio,candidato,share_pct,e_cont,e_ord,e_n_fuentes,e_rango_entre_fuentes,e_fuentes,s_cont,s_ord,s_n_fuentes,s_rango_entre_fuentes,s_fuentes,nivel_evidencia,notas
+AR-1983-PRES-1,AR,1983,ALFONSÍN – MARTÍNEZ,51.748,-1.0,-1.0,1,,juicio,-1.0,-1.0,1,,juicio,fuente_citada,
+AR-1983-PRES-1,AR,1983,LUDER - BITTEL,40.163,-1.0,-1.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-1989-PRES-1,AR,1989,MENEM - DUHALDE,47.491,-0.98,-1.0,2,0.07,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-1989-PRES-1,AR,1989,ANGELOZ - CASELLA,37.095,0.56,1.0,2,1.32,juicio+manifesto,0.0,0.0,1,,juicio,fuente_citada,
+AR-1989-PRES-1,AR,1989,ALSOGARAY - NATALE,6.528,2.0,2.0,2,0.0,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-1995-PRES-1,AR,1995,MENEM - RUCKAUF,49.939,1.64,2.0,2,1.07,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-1995-PRES-1,AR,1995,BORDÓN - ÁLVAREZ,29.297,-0.79,-1.0,2,0.64,juicio+manifesto,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,
+AR-1995-PRES-1,AR,1995,MASSACCESI - HERNÁNDEZ,16.994,-0.28,0.0,2,0.85,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,
+AR-1999-PRES-1,AR,1999,DE LA RÚA - ÁLVAREZ,48.366,-0.14,0.0,2,0.43,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,
+AR-1999-PRES-1,AR,1999,DUHALDE - ORTEGA,38.271,-0.57,-1.0,2,1.28,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-1999-PRES-1,AR,1999,CAVALLO - CARO FIGUEROA,10.222,1.68,2.0,2,0.97,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-2003-PRES-1,AR,2003,MENEM - ROMERO,24.453,1.47,2.0,2,1.6,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-2003-PRES-1,AR,2003,KIRCHNER - SCIOLI,22.246,-0.89,-1.0,2,0.33,juicio+manifesto,-1.0,-1.0,1,,juicio,fuente_citada,
+AR-2003-PRES-1,AR,2003,LÓPEZ MURPHY - GÓMEZ DIEZ,16.368,1.72,2.0,2,0.83,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-2003-PRES-1,AR,2003,RODRÍGUEZ SAÁ - POSSE,14.112,-0.2,-1.0,2,2.39,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-2003-PRES-1,AR,2003,CARRIÓ - GUTIÉRREZ,14.046,-0.85,-1.0,2,0.44,juicio+manifesto,0.0,0.0,1,,juicio,fuente_citada,
+AR-2007-PRES-1,AR,2007,FERNÁNDEZ DE KIRCHNER - COBOS,45.283,-1.19,-1.0,2,0.57,juicio+manifesto,0.0,0.0,1,,juicio,fuente_citada,
+AR-2007-PRES-1,AR,2007,CARRIÓ - GIUSTINIANI,23.047,-0.82,-1.0,2,0.53,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-2007-PRES-1,AR,2007,LAVAGNA - MORALES,16.906,-0.17,0.0,2,0.5,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,
+AR-2007-PRES-1,AR,2007,RODRÍGUEZ SAÁ - MAYA,7.637,0.67,1.0,2,1.0,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-2011-PRES-1,AR,2011,FERNÁNDEZ DE KIRCHNER - BOUDOU,54.111,-0.9,-1.0,2,0.31,juicio+manifesto,-1.0,-1.0,1,,juicio,fuente_citada,
+AR-2011-PRES-1,AR,2011,BINNER - MORANDINI,16.805,-0.8,-1.0,2,0.6,juicio+manifesto,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,
+AR-2011-PRES-1,AR,2011,ALFONSÍN - GONZÁLEZ FRAGA,11.141,-0.89,-1.0,2,0.32,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,
+AR-2011-PRES-1,AR,2011,RODRÍGUEZ SAÁ - VERNET,7.96,-0.58,-1.0,2,1.26,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-2011-PRES-1,AR,2011,DUHALDE - DAS NEVES,5.864,-0.72,-1.0,2,0.85,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,
+AR-2015-PRES-1,AR,2015,Daniel Scioli - Carlos Zannini,37.081,-0.73,-1.0,2,0.82,juicio+manifesto,0.0,0.0,1,,juicio,fuente_citada,
+AR-2015-PRES-1,AR,2015,Mauricio Macri - Gabriela Michetti,34.153,0.67,1.0,2,1.0,juicio+manifesto,0.0,0.0,1,,juicio,fuente_citada,
+AR-2015-PRES-1,AR,2015,Sergio Massa - Gustavo Sáenz,21.39,0.79,1.0,2,0.64,juicio+manifesto,1.0,1.0,1,,juicio,fuente_citada,
+AR-2015-PRES-1,AR,2015,Nicolás del Caño - Myriam Bregman,3.226,-2.0,-2.0,1,,juicio,-2.0,-2.0,1,,juicio,conocimiento_general_verificar,
+AR-2015-PRES-1,AR,2015,Margarita Stolbizer - Miguel Ángel Olaviaga,2.512,,,0,,,,,0,,,,
+AR-2019-PRES-1,AR,2019,Alberto Fernández - Cristina Fernández de Kirchner,48.237,-0.87,-1.0,3,0.43,juicio+ches+manifesto,-0.72,-1.0,2,0.56,juicio+ches,fuente_citada,
+AR-2019-PRES-1,AR,2019,Mauricio Macri - Miguel Ángel Pichetto,40.284,0.89,1.0,3,0.35,juicio+ches+manifesto,0.27,0.0,2,0.53,juicio+ches,conocimiento_general_verificar,
+AR-2019-PRES-1,AR,2019,Roberto Lavagna - Juan Manuel Urtubey,6.145,-0.1,0.0,3,1.43,juicio+ches+manifesto,0.33,0.0,2,0.67,juicio+ches,fuente_citada,
+AR-2023-PRES-1,AR,2023,Sergio Massa - Agustín Rossi,36.688,-1.0,-1.0,1,,juicio,-1.0,-1.0,1,,juicio,fuente_citada,
+AR-2023-PRES-1,AR,2023,Javier Milei - Victoria Villarruel,29.988,2.0,2.0,1,,juicio,2.0,2.0,1,,juicio,fuente_citada,
+AR-2023-PRES-1,AR,2023,Patricia Bullrich - Luis Petri,23.837,1.0,1.0,1,,juicio,1.0,1.0,1,,juicio,fuente_citada,
+AR-2023-PRES-1,AR,2023,Juan Schiaretti,6.787,0.0,0.0,1,,juicio,0.0,0.0,1,,juicio,fuente_citada,
+AR-2023-PRES-1,AR,2023,Myriam Bregman - Nicolás del Caño,2.7,-2.0,-2.0,1,,juicio,-2.0,-2.0,1,,juicio,fuente_citada,
+BR-2002-PRES-1,BR,2002,LULA,46.44,-0.94,-1.0,3,0.53,juicio+vparty+manifesto,-1.41,-1.0,2,0.83,juicio+vparty,manifesto_vparty_juicio,Carta ao Povo Brasileiro: moderación; PT progresista en lo social.
+BR-2002-PRES-1,BR,2002,JOSÉ SERRA,23.2,0.71,1.0,3,0.73,juicio+vparty+manifesto,-0.37,0.0,2,0.74,juicio+vparty,manifesto_vparty_juicio,PSDB centro-derecha económica; centro en lo social.
+BR-2002-PRES-1,BR,2002,GAROTINHO,17.87,-0.91,-1.0,3,1.1,juicio+vparty+manifesto,-0.03,1.0,2,2.05,juicio+vparty,conocimiento_general_verificar,populismo de izquierda; evangélico (s por conocimiento general).
+BR-2002-PRES-1,BR,2002,CIRO,11.97,-0.76,-1.0,2,0.72,juicio+manifesto,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,desarrollismo; centro-izquierda.
+BR-2006-PRES-1,BR,2006,LULA,48.61,-0.89,-1.0,3,0.78,juicio+vparty+manifesto,-1.45,-1.0,2,0.89,juicio+vparty,manifesto_vparty_juicio,continuidad; Bolsa Família.
+BR-2006-PRES-1,BR,2006,GERALDO ALCKMIN,41.64,0.71,1.0,3,1.08,juicio+vparty+manifesto,-0.34,0.0,2,0.67,juicio+vparty,manifesto_vparty_juicio,PSDB; católico (apoyo Opus Dei) no se refleja en el partido.
+BR-2006-PRES-1,BR,2006,HELOÍSA HELENA,6.85,-2.0,-2.0,2,0.0,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,"izquierda radical; católica y contraria al aborto (s 0 por eso, no por el partido)."
+BR-2010-PRES-1,BR,2010,DILMA,46.91,-0.8,-1.0,3,0.93,juicio+vparty+manifesto,-0.95,0.0,2,1.89,juicio+vparty,conocimiento_general_verificar,en 2010 se retractó públicamente sobre el aborto bajo presión evangélica (conocimiento general).
+BR-2010-PRES-1,BR,2010,JOSÉ SERRA,32.61,0.65,1.0,3,1.37,juicio+vparty+manifesto,0.17,1.0,2,1.66,juicio+vparty,conocimiento_general_verificar,campaña 2010 con discurso antiaborto (conocimiento general).
+BR-2010-PRES-1,BR,2010,MARINA SILVA,19.33,-0.11,0.0,2,0.32,juicio+manifesto,1.0,1.0,1,,juicio,conocimiento_general_verificar,"evangélica (Asamblea de Dios), ambientalista; Manifesto trad. discrepa (-3.8): señal débil."
+BR-2014-PRES-1,BR,2014,DILMA,41.59,-0.87,-1.0,3,0.91,juicio+vparty+manifesto,-0.99,0.0,2,1.97,juicio+vparty,conocimiento_general_verificar,reelección; moderó posición sobre aborto.
+BR-2014-PRES-1,BR,2014,AÉCIO NEVES,33.55,0.97,1.0,3,0.54,juicio+vparty+manifesto,-0.26,0.0,2,0.52,juicio+vparty,manifesto_vparty_juicio,PSDB; Manifesto econ +3.5.
+BR-2014-PRES-1,BR,2014,MARINA SILVA,21.32,-0.25,0.0,3,1.31,juicio+vparty+manifesto,-0.12,1.0,2,2.23,juicio+vparty,conocimiento_general_verificar,asesores de mercado (autonomía BCB) pero programa verde; retiró pauta LGBT en 2014 (conocimiento general).
+BR-2018-PRES-1,BR,2018,JAIR BOLSONARO,46.03,1.83,2.0,4,0.58,juicio+vparty+ches+manifesto,1.92,2.0,3,0.13,juicio+vparty+ches,manifesto_vparty_juicio,"programa Guedes (privatizar todo); Manifesto econ +23; CHES-LA 2020 (Jair): +1,52 / +1,92."
+BR-2018-PRES-1,BR,2018,FERNANDO HADDAD,29.28,-1.38,-2.0,4,1.05,juicio+vparty+ches+manifesto,-1.41,-1.0,3,0.97,juicio+vparty+ches,manifesto_vparty_juicio,"programa ""revogaço"" (teto de gasto y reforma laboral); Manifesto econ -5,7, el más bajo de 2018."
+BR-2018-PRES-1,BR,2018,CIRO GOMES,12.46,-0.67,-1.0,4,1.0,juicio+vparty+ches+manifesto,-0.93,-1.0,3,1.13,juicio+vparty+ches,manifesto_vparty_juicio,desarrollismo estatal.
+BR-2018-PRES-1,BR,2018,GERALDO ALCKMIN,4.76,0.8,1.0,4,1.2,juicio+vparty+ches+manifesto,-0.34,0.0,3,0.6,juicio+vparty+ches,manifesto_vparty_juicio,"Manifesto econ +7,8."
+BR-2018-PRES-1,BR,2018,JOÃO AMOÊDO,2.5,2.0,2.0,1,,juicio,0.0,0.0,1,,juicio,conocimiento_general_verificar,liberal-libertario (conocimiento general).
+BR-2022-PRES-1,BR,2022,LULA,48.43,-0.83,-1.0,3,0.77,juicio+ches+manifesto,-1.13,-1.0,2,0.26,juicio+ches,manifesto_vparty_juicio,"CHES-LA 2020 PT: -0,95 / -1,28."
+BR-2022-PRES-1,BR,2022,JAIR BOLSONARO,43.2,1.2,1.0,3,0.53,juicio+ches+manifesto,1.96,2.0,2,0.09,juicio+ches,manifesto_vparty_juicio,"Auxílio Brasil sube el gasto; Guedes liberal. CHES-LA 2020 (Jair): +1,52 / +1,92; Manifesto econ +5,9, trad. +5,3."
+BR-2022-PRES-1,BR,2022,SIMONE TEBET,4.16,0.17,0.0,3,0.63,juicio+ches+manifesto,0.14,0.0,2,0.27,juicio+ches,manifesto_vparty_juicio,"centro liberal-socio; CHES MDB 2020: +0,1 / +0,3."
+BR-2022-PRES-1,BR,2022,CIRO GOMES,3.04,-0.74,-1.0,2,0.51,juicio+ches,-0.67,-1.0,2,0.67,juicio+ches,conocimiento_general_verificar,repite perfil 2018.
+BR-2026-PRES-1,BR,2026,FLAVIO BOLSONARO,47.03,1.25,1.0,2,0.51,juicio+ches,1.96,2.0,2,0.09,juicio+ches,fuente_citada,"e: retomar reforma laboral 2017, bajar impuestos a combustibles, reforma previsional, Estado menor; no recorta Bolsa Familia. s: reducir mayoría de edad penal, penas más duras. CHES (Jair) como proxy."
+BR-2026-PRES-1,BR,2026,LULA,45.16,-0.97,-1.0,2,0.05,juicio+ches,-1.13,-1.0,2,0.26,juicio+ches,fuente_citada,"e: exención IR hasta R$5.000, impuestos a los más ricos, estímulo al consumo. s: énfasis violencia de género; programas sociales eje."
+BR-2026-PRES-1,BR,2026,ESCRITOR AUGUSTO CURY,2.89,1.0,1.0,1,,juicio,0.0,0.0,1,,juicio,fuente_citada,"e: ""mente de direita y corazón social"" (Valor) / ""mente capitalista"" (BBC, Folha); Estado más chico, déficit cercano a cero, clubes de emprendedurismo, elogió a Paulo Guedes. s: sin posición hallada sobre aborto, armas ni drogas; programa Mulheres Vivas, cupo mínimo de mujeres en el STF, rehabilitación carcelaria, criticó ""bandido bom é bandido morto""; evitó posición sobre condenados del 8-ene. Se codifica 0 con baja confianza."
+BR-2026-PRES-1,BR,2026,RENAN SANTOS,2.24,2.0,2.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,"e: recorte grande de impuestos (""tesouraço""), previsión por capitalización, fin de indexación al salario mínimo. s: MBL/libertario, a verificar."
+BR-2026-PRES-1,BR,2026,RONALDO CAIADO,2.18,0.78,1.0,2,0.43,juicio+ches,0.9,1.0,2,0.2,juicio+ches,fuente_citada,"e: Custo Brasil, critica deuda, critica asistencialismo. s: mano dura. s por CHES PSD (+0,8)."
+CL-1989-PRES-1,CL,1989,PATRICIO AYLWIN,55.17,0.1,0.0,3,0.29,juicio+vparty+manifesto,0.89,1.0,2,0.23,juicio+vparty,manifesto_vparty_juicio,"Concertación: economía de mercado con ""deuda social""; DC católica."
+CL-1989-PRES-1,CL,1989,HERNAN BUCHI,29.4,1.87,2.0,3,0.55,juicio+vparty+manifesto,1.76,2.0,2,0.49,juicio+vparty,manifesto_vparty_juicio,"ex ministro de Hacienda de Pinochet; Manifesto econ +8,7. V-Party con UDI como proxy."
+CL-1989-PRES-1,CL,1989,FRANCISCO JAVIER ERRAZURIZ,15.43,0.13,0.0,2,0.4,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,empresario independiente de centro (conocimiento general).
+CL-1993-PRES-1,CL,1993,EDUARDO FREI,57.98,-0.01,0.0,3,0.36,juicio+vparty+manifesto,0.87,1.0,2,0.25,juicio+vparty,manifesto_vparty_juicio,continuidad Concertación.
+CL-1993-PRES-1,CL,1993,ARTURO ALESSANDRI,24.42,1.98,2.0,3,0.06,juicio+vparty+manifesto,1.76,2.0,2,0.49,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ +13,9."
+CL-1993-PRES-1,CL,1993,JOSE PINERA,6.18,2.0,2.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,"José Piñera: arquitecto del sistema de AFP, libertario (conocimiento general)."
+CL-1993-PRES-1,CL,1993,MANFRED MAX,5.55,-1.0,-1.0,1,,juicio,-2.0,-2.0,1,,juicio,conocimiento_general_verificar,Manfred Max-Neef: ecologista de izquierda humanista (conocimiento general).
+CL-1993-PRES-1,CL,1993,EUGENIO PIZARRO,4.69,-2.0,-2.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,Eugenio Pizarro: izquierda (conocimiento general).
+CL-1999-PRES-1,CL,1999,RICARDO LAGOS,47.96,-0.72,-1.0,3,0.53,juicio+vparty+manifesto,-0.85,-1.0,2,0.3,juicio+vparty,manifesto_vparty_juicio,"Concertación, PS-PPD; Manifesto econ -4,1."
+CL-1999-PRES-1,CL,1999,JOAQUIN LAVIN,47.51,1.25,1.0,3,1.59,juicio+vparty+manifesto,1.76,2.0,2,0.49,juicio+vparty,manifesto_vparty_juicio,"campaña ""cambio"" de derecha social; Manifesto econ +2,1."
+CL-1999-PRES-1,CL,1999,GLADYS MARIN,3.19,-2.0,-2.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,"Gladys Marín, PC (conocimiento general); V-Party PC 2013: e -2,31."
+CL-2005-PRES-1,CL,2005,MICHELLE BACHELET,45.96,-1.06,-1.0,3,0.44,juicio+vparty+manifesto,-0.81,-1.0,2,0.37,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ -8,3."
+CL-2005-PRES-1,CL,2005,SEBASTIAN PINERA,25.41,0.92,1.0,3,1.1,juicio+vparty+manifesto,0.84,1.0,2,0.31,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ +0,8; V-Party RN +1,67."
+CL-2005-PRES-1,CL,2005,JOAQUIN LAVIN,23.23,1.55,2.0,3,2.12,juicio+vparty+manifesto,1.66,2.0,2,0.67,juicio+vparty,manifesto_vparty_juicio,"V-Party UDI +2,62 (Manifesto econ -0,7, atípico)."
+CL-2005-PRES-1,CL,2005,TOMAS HIRSCH,5.4,-2.0,-2.0,2,0.0,juicio+manifesto,-2.0,-2.0,1,,juicio,manifesto_vparty_juicio,"Manifesto econ -13,7; V-Party PH e -2,67 / s -2,96."
+CL-2009-PRES-1,CL,2009,SEBASTIAN PINERA,44.06,0.81,1.0,3,1.64,juicio+vparty+manifesto,0.74,1.0,2,0.53,juicio+vparty,manifesto_vparty_juicio,Coalición por el Cambio.
+CL-2009-PRES-1,CL,2009,EDUARDO FREI,29.6,-0.35,0.0,3,1.38,juicio+vparty+manifesto,0.12,0.0,2,0.25,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ -8,3 pero V-Party PDC ~0."
+CL-2009-PRES-1,CL,2009,MARCO ENRIQUEZ-OMINAMI,20.14,-1.18,-1.0,2,0.53,juicio+manifesto,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,"MEO: Manifesto econ -9,2."
+CL-2009-PRES-1,CL,2009,JORGE ARRATE,6.21,-2.0,-2.0,2,0.0,juicio+manifesto,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,Juntos Podemos; V-Party PC.
+CL-2013-PRES-1,CL,2013,MICHELLE BACHELET JERIA,46.7,-1.01,-1.0,3,0.13,juicio+vparty+manifesto,-0.96,-1.0,2,0.08,juicio+vparty,manifesto_vparty_juicio,"Nueva Mayoría con PC: reforma tributaria y educativa; Manifesto econ -5,6. Se mantiene -1 (centro-izquierda moderada)."
+CL-2013-PRES-1,CL,2013,EVELYN MATTHEI FORNET,25.03,0.86,1.0,3,3.54,juicio+vparty+manifesto,1.17,1.0,2,0.34,juicio+vparty,manifesto_vparty_juicio,"Se la codifica igual que en 2025 (ala moderada de la UDI); V-Party UDI +2,62/+2,0 como contraste. Manifesto econ -9,6 es atípico."
+CL-2013-PRES-1,CL,2013,MARCO ENRIQUEZ-OMINAMI GUMUCIO,10.99,-1.33,-1.0,2,1.0,juicio+manifesto,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,"Manifesto econ -18,5."
+CL-2013-PRES-1,CL,2013,FRANCO ALDO PARISI FERNANDEZ,10.11,0.0,0.0,1,,juicio,,,0,,,conocimiento_general_verificar,populista independiente; sociocultural NA.
+CL-2017-PRES-1,CL,2017,SEBASTIAN PINERA ECHENIQUE,36.64,0.93,1.0,3,1.07,juicio+vparty+manifesto,0.75,1.0,2,0.49,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ +1,0."
+CL-2017-PRES-1,CL,2017,ALEJANDRO GUILLIER ALVAREZ,22.7,-0.99,-1.0,3,0.15,juicio+vparty+manifesto,-0.99,-1.0,2,0.01,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ -6,5."
+CL-2017-PRES-1,CL,2017,BEATRIZ SANCHEZ MUNOZ,20.27,-1.57,-2.0,3,1.25,juicio+vparty+manifesto,-1.9,-2.0,2,0.2,juicio+vparty,manifesto_vparty_juicio,"Frente Amplio; V-Party DR e -2,09 / s -2,70."
+CL-2017-PRES-1,CL,2017,JOSE ANTONIO KAST RIST,7.93,1.21,2.0,2,2.37,juicio+manifesto,2.0,2.0,1,,juicio,conocimiento_general_verificar,"candidato independiente; programa liberal en economía y conservador en valores (conocimiento general; Manifesto econ -2,2, poco informativo)."
+CL-2017-PRES-1,CL,2017,CAROLINA GOIC BOROEVIC,5.88,-0.05,0.0,3,0.93,juicio+vparty+manifesto,0.09,0.0,2,0.18,juicio+vparty,manifesto_vparty_juicio,"Manifesto econ -4,2."
+CL-2017-PRES-1,CL,2017,MARCO ENRIQUEZ-OMINAMI GUMUCIO,5.71,-0.84,-1.0,2,0.48,juicio+manifesto,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,PRO.
+CL-2021-PRES-1,CL,2021,JOSE ANTONIO KAST RIST,27.91,1.13,2.0,2,2.62,juicio+manifesto,2.0,2.0,1,,juicio,conocimiento_general_verificar,"Manifesto rile +3, econ -3,7 (documento moderado). Coherente con 2017 y 2025."
+CL-2021-PRES-1,CL,2021,GABRIEL BORIC FONT,25.82,-1.47,-2.0,4,1.0,juicio+vparty+ches+manifesto,-1.78,-2.0,3,0.47,juicio+vparty+ches,manifesto_vparty_juicio,"Manifesto econ -6,0; V-Party Frente Amplio 2017."
+CL-2021-PRES-1,CL,2021,FRANCO PARISI FERNANDEZ,12.81,-0.14,0.0,2,0.43,juicio+manifesto,,,0,,,conocimiento_general_verificar,"Manifesto econ -2,6."
+CL-2021-PRES-1,CL,2021,SEBASTIAN SICHEL RAMIREZ,12.79,0.31,1.0,2,2.08,juicio+manifesto,0.0,0.0,1,,juicio,conocimiento_general_verificar,"centroderecha moderado; Manifesto econ -6,5 (atípico)."
+CL-2021-PRES-1,CL,2021,YASNA PROVOSTE CAMPILLAY,11.6,-0.36,-1.0,4,1.23,juicio+vparty+ches+manifesto,0.2,0.0,3,0.42,juicio+vparty+ches,manifesto_vparty_juicio,"Nuevo Pacto Social; Manifesto econ -5,8."
+CL-2021-PRES-1,CL,2021,MARCO ENRIQUEZ-OMINAMI GUMUCIO,7.6,-1.13,-1.0,2,0.4,juicio+manifesto,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,"Manifesto econ -8,4."
+CL-2025-PRES-1,CL,2025,JEANNETTE JARA ROMAN,26.85,-1.25,-1.0,2,0.51,juicio+ches,-0.65,-1.0,2,0.71,juicio+ches,fuente_citada,"e: ingreso vital ~US$800, subsidios, 40 horas, aumento salario mínimo, reforma de pensiones. s: regularización acotada, control de armas. Se aparta del PC (CHES: e -1,52 / s -0,28) por perfil moderado: discrepancia marcada."
+CL-2025-PRES-1,CL,2025,JOSE ANTONIO KAST RIST,23.92,2.0,2.0,1,,juicio,2.0,2.0,1,,juicio,fuente_citada,"e: recorte gasto US$6.000M en 18 meses, impuesto corporativo 27%->23%. s: deportaciones masivas, migración irregular como delito; valores conservadores (evitó aborto/matrimonio en esta campaña)."
+CL-2025-PRES-1,CL,2025,FRANCO PARISI FERNANDEZ,19.72,0.0,0.0,1,,juicio,,,0,,,conocimiento_general_verificar,"e: apoyos monetarios directos y reformas tributarias para la clase media, heterodoxo. s: sin evidencia (NA)."
+CL-2025-PRES-1,CL,2025,JOHANNES KAISER BARENTS-VON HOHENHAGEN,13.93,2.0,2.0,1,,juicio,2.0,2.0,1,,juicio,fuente_citada,"e: reducir drásticamente el Estado, estilo Milei, armas. s: contra aborto e ""ideología de género"", defiende a Pinochet."
+CL-2025-PRES-1,CL,2025,EVELYN MATTHEI FORNET,12.46,1.29,1.0,2,0.58,juicio+ches,1.32,1.0,2,0.64,juicio+ches,fuente_citada,"e: estabilidad económica, incentivos al empleo. s: seguridad, orden, migración. CHES UDI: e +1,56 / s +1,64; se la considera más moderada que su partido: discrepancia marcada."
+CO-1998-PRES-1,CO,1998,SERPA URIBE HORACIO,35.2,-0.13,0.0,2,0.25,juicio+vparty,-0.17,0.0,2,0.33,juicio+vparty,manifesto_vparty_juicio,Partido Liberal; V-Party PLC ~0.
+CO-1998-PRES-1,CO,1998,PASTRANA ARANGO ANDRES,34.77,1.37,1.0,2,0.73,juicio+vparty,1.15,1.0,2,0.31,juicio+vparty,manifesto_vparty_juicio,"Gran Alianza por el Cambio; Manifesto econ +1,5; V-Party PCC +2,34."
+CO-1998-PRES-1,CO,1998,SANIN POSADA NOEMI,27.09,1.0,1.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,Noemí Sanín (conocimiento general).
+CO-2002-PRES-1,CO,2002,ALVARO  URIBE VELEZ,54.01,1.0,1.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,"Primero Colombia, seguridad democrática (conocimiento general; Manifesto atípico)."
+CO-2002-PRES-1,CO,2002,HORACIO  SERPA URIBE,32.38,-0.14,0.0,2,0.29,juicio+vparty,-0.2,0.0,2,0.4,juicio+vparty,manifesto_vparty_juicio,V-Party PLC.
+CO-2002-PRES-1,CO,2002,LUIS EDUARDO GARZON,6.27,-2.0,-2.0,1,,juicio,-1.0,-1.0,1,,juicio,manifesto_vparty_juicio,"Polo Democrático; V-Party PDA e -2,6."
+CO-2002-PRES-1,CO,2002,NOEMI SANIN,5.91,1.0,1.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,Sí Colombia.
+CO-2006-PRES-1,CO,2006,ALVARO URIBE VELEZ,63.57,1.0,1.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,reelección.
+CO-2006-PRES-1,CO,2006,CARLOS GAVIRIA DIAZ,22.45,-1.96,-2.0,2,0.07,juicio+vparty,-1.11,-1.0,2,0.22,juicio+vparty,manifesto_vparty_juicio,"V-Party PDA e -2,60 / s -1,83."
+CO-2006-PRES-1,CO,2006,HORACIO SERPA URIBE,12.07,-0.23,0.0,2,0.47,juicio+vparty,-0.28,0.0,2,0.55,juicio+vparty,manifesto_vparty_juicio,V-Party PLC.
+CO-2010-PRES-1,CO,2010,JUAN MANUEL SANTOS,47.41,0.55,1.0,2,0.9,juicio+vparty,-0.01,0.0,2,0.03,juicio+vparty,manifesto_vparty_juicio,"Tercera vía promercado; V-Party Partido de la U +0,14."
+CO-2010-PRES-1,CO,2010,ANTANAS MOCKUS,21.84,0.0,0.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,"Partido Verde, centro progresista (conocimiento general)."
+CO-2010-PRES-1,CO,2010,GERMÁN VARGAS LLERAS,10.27,1.16,1.0,2,0.32,juicio+vparty,0.07,0.0,2,0.15,juicio+vparty,manifesto_vparty_juicio,"Cambio Radical; V-Party CR e +1,78."
+CO-2010-PRES-1,CO,2010,GUSTAVO PETRO,9.28,-1.86,-2.0,2,0.27,juicio+vparty,-1.22,-1.0,2,0.44,juicio+vparty,manifesto_vparty_juicio,"V-Party PDA e -2,33 / s -2,16; se codifica s -1 como en 2018 y 2022."
+CO-2010-PRES-1,CO,2010,NOEMÍ SANÍN,6.23,1.37,1.0,2,0.75,juicio+vparty,0.92,1.0,2,0.17,juicio+vparty,manifesto_vparty_juicio,Partido Conservador.
+CO-2010-PRES-1,CO,2010,RAFAEL PARDO,4.45,-0.17,0.0,2,0.34,juicio+vparty,-0.23,0.0,2,0.47,juicio+vparty,manifesto_vparty_juicio,Partido Liberal.
+CO-2014-PRES-1,CO,2014,ÓSCAR IVÁN ZULUAGA,31.15,1.99,2.0,2,0.01,juicio+vparty,1.03,1.0,2,0.06,juicio+vparty,manifesto_vparty_juicio,"Centro Democrático; V-Party CD +2,68 / +1,59."
+CO-2014-PRES-1,CO,2014,JUAN MANUEL SANTOS CALDERÓN,27.36,0.8,1.0,2,0.41,juicio+vparty,-0.11,0.0,2,0.22,juicio+vparty,manifesto_vparty_juicio,"V-Party Partido de la U +0,80."
+CO-2014-PRES-1,CO,2014,MARTHA LUCÍA RAMÍREZ,16.51,1.37,1.0,2,0.75,juicio+vparty,0.95,1.0,2,0.11,juicio+vparty,manifesto_vparty_juicio,"Partido Conservador (candidata moderada); V-Party PCC e +2,36."
+CO-2014-PRES-1,CO,2014,CLARA LÓPEZ,16.18,-1.86,-2.0,2,0.27,juicio+vparty,-1.22,-1.0,2,0.44,juicio+vparty,manifesto_vparty_juicio,PDA-UP; Manifesto rile -39.
+CO-2014-PRES-1,CO,2014,ENRIQUE PEÑALOSA,8.8,1.0,1.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,Alianza Verde; Peñalosa es promercado en lo económico (conocimiento general).
+CO-2018-PRES-1,CO,2018,IVAN DUQUE,40.06,1.46,1.0,3,0.99,juicio+vparty+ches,1.12,1.0,3,0.38,juicio+vparty+ches,manifesto_vparty_juicio,"Manifesto econ +4,9; CHES-LA 2020 (Duque presidente): +1,4 / +1,36."
+CO-2018-PRES-1,CO,2018,GUSTAVO PETRO,25.53,-0.75,-1.0,3,0.53,juicio+vparty+ches,-1.1,-1.0,3,0.21,juicio+vparty+ches,manifesto_vparty_juicio,"Lista de la Decencia; CHES DEC e -0,76 / s -1,08; Manifesto econ -0,7."
+CO-2018-PRES-1,CO,2018,SERGIO FAJARDO,24.21,-0.15,0.0,3,0.5,juicio+vparty+ches,-1.13,-1.0,3,0.21,juicio+vparty+ches,manifesto_vparty_juicio,"Coalición Colombia; V-Party AV e -0,64 / s -1,81."
+CO-2018-PRES-1,CO,2018,GERMAN VARGAS LLERAS,7.43,1.06,1.0,3,0.16,juicio+vparty+ches,0.34,0.0,3,1.0,juicio+vparty+ches,manifesto_vparty_juicio,"V-Party CR +1,57."
+CO-2022-PRES-1,CO,2022,GUSTAVO PETRO,41.05,-0.89,-1.0,2,0.23,juicio+ches,-1.04,-1.0,2,0.08,juicio+ches,conocimiento_general_verificar,"e: no nuevas exploraciones petroleras, reforma agraria y pensional, pero discurso de ""capitalismo democrático"". Se alinea con CHES DEC (e -0,76 / s -1,08) y con Petro 2018. Cepeda 2026 queda en -2 por la fuente citada (profundizar el rol del Estado)."
+CO-2022-PRES-1,CO,2022,RODOLFO HERNÁNDEZ,28.67,1.0,1.0,1,,juicio,,,0,,,conocimiento_general_verificar,empresario outsider anticorrupción; s: NA.
+CO-2022-PRES-1,CO,2022,FEDERICO GUTIÉRREZ,24.36,1.03,1.0,1,,ches,1.0,1.0,1,,ches,ches_la_partido,"Equipo por Colombia; proxy Cambio Radical (CHES e +1,04 / s +1,0), coalición de centroderecha."
+CO-2022-PRES-1,CO,2022,SERGIO FAJARDO,4.26,0.0,0.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,"centro; Manifesto 2018: rile -20,8, markeco 0,6, planeco 0,6."
+CO-2026-PRES-1,CO,2026,ABELARDO DE LA ESPRIELLA,44.55,2.0,2.0,1,,juicio,2.0,2.0,1,,juicio,fuente_citada,"e: Estado más chico, menos impuestos, fracking y petróleo, ajuste fiscal 70 billones. s: porte de armas, revertir aborto, fin de la JEP, no adopción homoparental, contra ""ideología de género"" (esto último según plan filtrado, no oficial)."
+CO-2026-PRES-1,CO,2026,IVÁN CEPEDA CASTRO,41.7,-2.0,-2.0,1,,juicio,-1.0,-1.0,1,,juicio,fuente_citada,"e: más intervención del Estado, profundizar reformas de Petro, más participación estatal en sectores estratégicos, impuestos progresivos, contra el fracking. s sin fuente citada."
+CO-2026-PRES-1,CO,2026,PALOMA VALENCIA LASERNA,7.05,1.81,2.0,2,0.37,juicio+ches,1.89,2.0,2,0.23,juicio+ches,fuente_citada,"e: reducir Estado, fusionar ministerios, bajar impuestos a empresas, fracking. s: más Fuerzas Armadas, fumigación aérea, mano dura contra grupos armados, crítica a la JEP."
+CO-2026-PRES-1,CO,2026,SERGIO FAJARDO VALDERRAMA,4.34,0.0,0.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,"centro; mismo perfil que 2018 (Alianza Verde, V-Party s -1,8)."
+PE-2006-PRES-1,PE,2006,OLLANTA HUMALA TASSO,30.62,-1.29,-2.0,3,1.35,juicio+vparty+manifesto,0.43,1.0,2,1.14,juicio+vparty,manifesto_vparty_juicio,"nacionalista radical (renegociar contratos, nacionalizar); Manifesto econ -3,9 (el más bajo del año); V-Party UPP e -1,20. s por conocimiento general (etnocacerismo)."
+PE-2006-PRES-1,PE,2006,ALAN GARCIA PEREZ,24.32,0.94,1.0,3,1.33,juicio+vparty+manifesto,0.68,1.0,2,0.64,juicio+vparty,manifesto_vparty_juicio,"giro promercado respecto a los 80; V-Party APRA e +1,82; CHES APRA 2020 s +1,0."
+PE-2006-PRES-1,PE,2006,Lourdes Flores,23.81,0.85,1.0,3,1.46,juicio+vparty+manifesto,0.57,1.0,2,0.87,juicio+vparty,manifesto_vparty_juicio,"PPC liberal-conservadora; V-Party UN e +1,68; CHES PPC 2020 e +1,16 / s +1,32."
+PE-2006-PRES-1,PE,2006,Martha Chávez,7.43,1.09,1.0,2,0.17,juicio+vparty,1.27,2.0,2,1.46,juicio+vparty,manifesto_vparty_juicio,"fujimorismo; V-Party AF e +1,58; s por CHES FP (+1,6)."
+PE-2006-PRES-1,PE,2006,Valentín Paniagua,5.75,0.22,0.0,2,0.44,juicio+vparty,0.03,0.0,2,0.07,juicio+vparty,manifesto_vparty_juicio,"centro; V-Party FDC e +0,60 / s +0,10."
+PE-2006-PRES-1,PE,2006,Humberto Lay,4.38,,,0,,,2.0,2.0,1,,juicio,conocimiento_general_verificar,Restauración Nacional (evangélico); económico NA.
+PE-2011-PRES-1,PE,2011,OLLANTA HUMALA TASSO,31.7,-0.81,-1.0,3,0.37,juicio+vparty+manifesto,0.2,0.0,2,0.41,juicio+vparty,manifesto_vparty_juicio,"moderó la ""Gran Transformación"" a la ""Hoja de ruta""; Manifesto econ -3,8; V-Party PNP e -0,95."
+PE-2011-PRES-1,PE,2011,KEIKO FUJIMORI HIGUCHI,23.55,0.99,1.0,3,1.57,juicio+vparty+manifesto,1.51,2.0,2,0.99,juicio+vparty,manifesto_vparty_juicio,"V-Party FP e +2,03 / s +1,52; se mantiene +1 económico como en 2016 y 2021 (CHES FP e +1,12)."
+PE-2011-PRES-1,PE,2011,Pedro Pablo Kuczynski,18.51,0.56,1.0,3,1.27,juicio+vparty+manifesto,0.0,0.0,2,0.0,juicio+vparty,manifesto_vparty_juicio,"tecnócrata promercado; V-Party Alianza por el Gran Cambio e +0,73; s por conocimiento general (liberal moderado)."
+PE-2011-PRES-1,PE,2011,Alejandro Toledo,15.63,0.75,1.0,3,1.13,juicio+vparty+manifesto,-0.0,0.0,2,0.01,juicio+vparty,manifesto_vparty_juicio,"ex presidente promercado; V-Party Alianza Perú Posible e +1,26."
+PE-2011-PRES-1,PE,2011,Luis Castañeda Lossio,9.83,0.67,1.0,3,0.98,juicio+vparty+manifesto,0.19,0.0,2,0.39,juicio+vparty,manifesto_vparty_juicio,"Solidaridad Nacional; V-Party SN e +0,90."
+PE-2016-PRES-1,PE,2016,KEIKO FUJIMORI HIGUCHI,39.86,0.96,1.0,3,1.71,juicio+vparty+manifesto,1.54,2.0,2,0.92,juicio+vparty,manifesto_vparty_juicio,"V-Party FP e +2,02 / s +1,62; CHES FP 2021 e +1,12 / s +1,6."
+PE-2016-PRES-1,PE,2016,PEDRO PABLO KUCZYNSKI GODARD,21.05,0.8,1.0,3,1.14,juicio+vparty+manifesto,-0.27,0.0,2,0.53,juicio+vparty,manifesto_vparty_juicio,"V-Party PPK e +1,42 / s -0,80; Manifesto econ -0,5. s 0 por juicio (liberal moderado, no progresista)."
+PE-2016-PRES-1,PE,2016,Verónika Mendoza,18.74,-1.43,-2.0,3,1.73,juicio+vparty+manifesto,-1.07,-1.0,2,0.14,juicio+vparty,manifesto_vparty_juicio,"Frente Amplio; V-Party e -1,95 / s -1,71. En 2021 (Juntos por el Perú, CHES) queda en -1: discrepancia de fuente entre partidos."
+PE-2016-PRES-1,PE,2016,Alfredo Barnechea,6.97,0.09,0.0,3,0.62,juicio+vparty+manifesto,-0.02,0.0,2,0.03,juicio+vparty,manifesto_vparty_juicio,"Acción Popular; V-Party AP e +0,48; CHES AP 2020 s +0,69."
+PE-2016-PRES-1,PE,2016,Alan García,5.83,0.62,1.0,3,1.27,juicio+vparty+manifesto,0.66,1.0,2,0.69,juicio+vparty,manifesto_vparty_juicio,"Alianza Popular (APRA-PPC); V-Party e +0,93; CHES APRA s +1,0."
+PE-2016-PRES-1,PE,2016,Gregorio Santos,4.0,-2.0,-2.0,1,,juicio,,,0,,,conocimiento_general_verificar,"Gregorio Santos (Democracia Directa), izquierda regional; sociocultural NA."
+PE-2021-PRES-1,PE,2021,PEDRO CASTILLO TERRONES,18.92,-1.73,-2.0,1,,ches,1.47,1.0,1,,ches,ches_la_partido,Perú Libre
+PE-2021-PRES-1,PE,2021,KEIKO FUJIMORI HIGUCHI,13.41,1.12,1.0,1,,ches,1.6,2.0,1,,ches,ches_la_partido,Fuerza Popular
+PE-2021-PRES-1,PE,2021,Rafael López Aliaga,11.75,1.93,2.0,1,,ches,1.93,2.0,1,,ches,ches_la_partido,Renovación Popular
+PE-2021-PRES-1,PE,2021,Hernando de Soto,11.63,1.0,1.0,1,,ches,0.53,1.0,1,,ches,ches_la_partido,Avanza País
+PE-2021-PRES-1,PE,2021,Yonhy Lescano,9.07,0.45,0.0,1,,ches,0.69,1.0,1,,ches,ches_la_partido,Acción Popular
+PE-2021-PRES-1,PE,2021,Verónika Mendoza,7.86,-1.0,-1.0,1,,ches,-1.33,-1.0,1,,ches,ches_la_partido,Juntos por el Perú
+PE-2021-PRES-1,PE,2021,César Acuña,6.02,0.77,1.0,1,,ches,0.99,1.0,1,,ches,ches_la_partido,Alianza para el Progreso
+PE-2021-PRES-1,PE,2021,Daniel Urresti,5.64,0.59,1.0,1,,ches,1.02,1.0,1,,ches,ches_la_partido,Podemos Perú (proxy partido)
+PE-2021-PRES-1,PE,2021,Julio Guzmán,2.26,0.43,0.0,1,,ches,-0.52,-1.0,1,,ches,ches_la_partido,Partido Morado
+PE-2026-PRES-1,PE,2026,Keiko Fujimori,17.19,1.06,1.0,2,0.12,juicio+ches,1.8,2.0,2,0.4,juicio+ches,fuente_citada,"e: déficit 1% PBI, regla fiscal, inversión privada/APP. s: proxy CHES FP (+1,6)."
+PE-2026-PRES-1,PE,2026,Roberto Sánchez,12.04,-2.0,-2.0,1,,juicio,-1.0,-1.0,1,,juicio,fuente_citada,"e: plan de 1ª vuelta (nacionalización parcial de recursos, fin del extractivismo, control de precios, presión tributaria 25% PBI). En 2ª vuelta moderó (autonomía BCR, reglas fiscales): se codifica el plan de 1ª vuelta. s: aborto por violación y terapéutico, unión civil, equidad de género, católico ""provida""."
+PE-2026-PRES-1,PE,2026,Rafael López Aliaga,11.91,1.96,2.0,2,0.07,juicio+ches,1.96,2.0,2,0.07,juicio+ches,fuente_citada,"e: Estado más chico, baja IGV, quita exenciones, megaproyectos. s: expulsar migrantes venezolanos, ""ultraconservador""."
+PE-2026-PRES-1,PE,2026,Jorge Nieto,10.98,-1.0,-1.0,1,,juicio,-1.0,-1.0,1,,juicio,conocimiento_general_verificar,"e: fondo soberano, presión tributaria 18% PBI, impuestos verdes. s por conocimiento general."
+PE-2026-PRES-1,PE,2026,Ricardo Belmont,10.15,0.0,0.0,1,,juicio,,,0,,,fuente_citada,"e: economía social de mercado, industrialización, participación estatal en sectores estratégicos. s: NA."
+PE-2026-PRES-1,PE,2026,Carlos Álvarez,7.93,1.0,1.0,1,,juicio,1.0,1.0,1,,juicio,conocimiento_general_verificar,"e: déficit 1%, deuda <30% PBI, reforma sin subir tasas, quita exenciones. s: outsider de seguridad."
+PE-2026-PRES-1,PE,2026,Alfonso López Chau,7.3,-1.0,-1.0,1,,juicio,,,0,,,fuente_citada,"e: política fiscal progresiva, fondo soberano, déficit <1%; ubicado a la izquierda (Caretas). s: NA."
+PE-2026-PRES-1,PE,2026,Marisol Pérez Tello,3.41,0.0,0.0,1,,juicio,,,0,,,fuente_citada,"e: inversión privada, reforma tributaria progresiva, Estado digital. s: NA."
+UY-2014-PRES-1,UY,2014,Tabaré Vázquez,49.45,-1.01,-1.0,3,0.1,juicio+vparty+manifesto,-1.39,-1.0,2,0.78,juicio+vparty,manifesto_vparty_juicio,"Frente Amplio; V-Party e -1,33 / s -2,67; Manifesto econ -6,5. s -1 y no -2: como presidente vetó la despenalización del aborto en 2008 (conocimiento general)."
+UY-2014-PRES-1,UY,2014,Luis Lacalle Pou,31.94,0.85,1.0,3,0.63,juicio+vparty+manifesto,-0.2,0.0,2,0.4,juicio+vparty,manifesto_vparty_juicio,"Partido Nacional; V-Party e +1,27 / s -0,60; Manifesto econ +2,2."
+UY-2014-PRES-1,UY,2014,Pedro Bordaberry,13.33,0.74,1.0,3,1.17,juicio+vparty+manifesto,-0.5,0.0,2,1.01,juicio+vparty,manifesto_vparty_juicio,"Partido Colorado; V-Party e +1,27 / s -1,51 (batllismo más laico); Manifesto econ -1,0. s 0 por juicio."
+UY-2014-PRES-1,UY,2014,Pablo Mieres,3.2,0.08,0.0,2,0.25,juicio+manifesto,0.0,0.0,1,,juicio,manifesto_vparty_juicio,"Partido Independiente, centro socialdemócrata liberal; Manifesto econ +1,5; CHES PI 2020 e +0,2 / s -0,1."
+UY-2019-PRES-1,UY,2019,Daniel Martínez,40.49,-0.78,-1.0,2,0.03,ches+vparty,-1.49,-1.0,2,0.58,ches+vparty,ches_la_partido,Frente Amplio
+UY-2019-PRES-1,UY,2019,Luis Lacalle Pou,29.7,0.95,1.0,2,0.02,ches+vparty,-0.09,0.0,2,0.97,ches+vparty,ches_la_partido,CHES lo incluye como presidente en 2020
+UY-2019-PRES-1,UY,2019,Ernesto Talvi,12.8,0.69,1.0,2,0.04,ches+vparty,-0.54,0.0,2,1.22,ches+vparty,ches_la_partido,Partido Colorado
+UY-2019-PRES-1,UY,2019,Guido Manini Ríos,11.46,1.39,1.0,2,1.11,ches+vparty,1.17,2.0,2,1.21,ches+vparty,ches_la_partido,Cabildo Abierto
+UY-2024-PRES-1,UY,2024,Yamandú Orsi,46.12,-0.77,-1.0,1,,ches,-1.2,-1.0,1,,ches,ches_la_partido,Frente Amplio
+UY-2024-PRES-1,UY,2024,Álvaro Delgado,28.2,0.87,1.0,1,,ches,0.9,1.0,1,,ches,ches_la_partido,Partido Nacional
+UY-2024-PRES-1,UY,2024,Andrés Ojeda,16.89,0.67,1.0,1,,ches,0.07,0.0,1,,ches,ches_la_partido,"Partido Colorado; Ojeda tiene perfil de mano dura, sociocultural probablemente > partido: a verificar"
+UY-2024-PRES-1,UY,2024,Guido Manini Ríos,2.6,0.83,1.0,1,,ches,1.77,2.0,1,,ches,ches_la_partido,Cabildo Abierto

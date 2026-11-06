@@ -1,0 +1,112 @@
+id_eleccion,clave,anio,vuelta,formula,n_listas,partidos,votos,share,es_oficialismo,va_por_reeleccion,eje_economico_propio,nivel_evidencia_econ,eje_sociocultural_propio,mf_candidato,mf_rile,mf_markeco,mf_planeco,mf_welfare,mf_voto_pct
+AR-1983-PRES-1,alfonsin,1983,1,ALFONSÍN – MARTÍNEZ,3,Union Civica Radical | Unión Cívica Radical,7724559,51.748,0.0,,-1.0,fuente_citada,-1.0,,,,,,
+AR-1983-PRES-1,luder,1983,1,LUDER - BITTEL,1,Justicialista,5995402,40.163,0.0,,-1.0,conocimiento_general_verificar,1.0,,,,,,
+AR-1983-PRES-1,alende,1983,1,ALENDE - VIALE,1,Intransigente,347654,2.329,0.0,,,,,,,,,,
+AR-1983-PRES-1,sin formula (listas provinciales/menores),1983,1,,32,Acción Chubutense | Alianza Popular | Alianza Salteña | Bloquista,331456,2.22,0.0,,,,,,,,,,
+AR-1983-PRES-1,frigerio,1983,1,FRIGERIO - SALONIA,2,Movimiento de Integracion y Desarrollo | Movimiento de Integración y Desarrollo,177426,1.189,0.0,,,,,,,,,,
+AR-1983-PRES-1,manrique,1983,1,MANRIQUE - RAWSON,6,Alianza Federal | Demócrata | Demócrata de Entre Ríos - Movimiento Línea Popular - Federal | Demócrata de Mendoza,104114,0.698,0.0,,,,,,,,,,
+AR-1983-PRES-1,alsogaray,1983,1,ALSOGARAY - ORIA,3,Alianza Confederación Nacional de Centro | Confederación Nacional de Centro | Unión del Centro Democrático,61262,0.411,0.0,,,,,,,,,,
+AR-1983-PRES-1,martinez raymonda,1983,1,MARTÍNEZ RAYMONDA - BALESTRA,4,Alianza Demócrata Socialista | Demócrata Progresista | Socialista Democratico | Socialista Democrático,48129,0.323,0.0,,,,,,,,,,
+AR-1983-PRES-1,cerro,1983,1,CERRO - PONSATI,1,Demócrata Cristiano,46544,0.312,0.0,,,,,,,,,,
+AR-1983-PRES-1,zamora,1983,1,ZAMORA - DÍAZ,1,Movimiento al Socialismo,42500,0.285,0.0,,,,,,,,,,
+AR-1983-PRES-1,estevez boero,1983,1,ESTEVÉZ BOERO - ROSSI,1,Socialista Popular,21011,0.141,0.0,,,,,,,,,,
+AR-1983-PRES-1,ramos,1983,1,RAMOS - COLOMBO,2,Frente de Izquierda Popular | Socialista Popular,14259,0.095,0.0,,,,,,,,,,
+AR-1983-PRES-1,flores,1983,1,FLORES - GUAGNINI,1,Obrero,13067,0.088,0.0,,,,,,,,,,
+AR-1983-PRES-1,martines raymonda,1983,1,MARTINES RAYMONDA - BALESTRA,1,Alianza Demócrata Socialista,129,0.001,0.0,,,,,,,,,,
+AR-1989-PRES-1,menem,1989,1,MENEM - DUHALDE,4,Alianza Frente Justicialista de Unidad Popular | Frente Corriente Renovadora - Alianza Frente Justicialista de Unidad Popular | Frente Justicialista Popular,7954191,47.491,0.0,,-1.0,conocimiento_general_verificar,1.0,Carlos S. Menem,-3.82,3.418,8.981,3.083,47.49
+AR-1989-PRES-1,angeloz,1989,1,ANGELOZ - CASELLA,7,Alianza Unión Cívica Radical - Movilización - Movimiento Popular Catamarqueño | Confederación Federalista Independiente | Confederación Federalista Independiente - Unión Cívica Radical | Federal,6213217,37.095,1.0,0.0,1.0,fuente_citada,0.0,Eduardo Angeloz,-19.416,3.018,4.93,10.966,37.09815
+AR-1989-PRES-1,alsogaray,1989,1,ALSOGARAY - NATALE,6,Alianza de Centro | Alianza de Centro - Demócrata Progresista - Unión del Centro Democrático | Unión Del Centro Democrático | Unión del Centro Democrático,1093398,6.528,0.0,,2.0,fuente_citada,1.0,Álvaro Alsogaray,13.287,19.58,0.699,7.692,6.87
+AR-1989-PRES-1,vicente,1989,1,VICENTE - ZAMORA,1,Alianza Izquierda Unida,409250,2.443,0.0,,,,,,,,,,
+AR-1989-PRES-1,corzo gomez,1989,1,CORZO GÓMEZ - HOUSSAY,2,Blanco de los Jubilados,315600,1.884,0.0,,,,,,,,,,
+AR-1989-PRES-1,sin formula (listas provinciales/menores),1989,1,,27,"Acción Chaqueña | Alianza Bloquista | Auténtico Formoseño | Azul, Lealtad, Restauración",246674,1.472,0.0,,,,,,,,,,
+AR-1989-PRES-1,estevez boero,1989,1,ESTÉVEZ BOERO - BRAVO,3,Alianza Unidad Socialista | Socialista Democrático | Socialista Popular,236532,1.412,0.0,,,,,,,,,,
+AR-1989-PRES-1,bussi,1989,1,BUSSI - ÁLVAREZ,1,Fuerza Republicana,185036,1.105,0.0,,,,,,,,,,
+AR-1989-PRES-1,altamira,1989,1,ALTAMIRA - FLORES,1,Obrero,45763,0.273,0.0,,,,,,,,,,
+AR-1989-PRES-1,ammann,1989,1,AMMANN - MÉNDEZ,1,Frente Humanista - Verde,42316,0.253,0.0,,,,,,,,,,
+AR-1989-PRES-1,bustelo,1989,1,BUSTELO - HERNÁNDEZ,2,Acción Popular | Acuerdo Popular,6097,0.036,0.0,,,,,,,,,,
+AR-1989-PRES-1,accion provinciana,1989,1,ACCIÓN PROVINCIANA,1,Acción Provinciana,838,0.005,0.0,,,,,,,,,,
+AR-1989-PRES-1,socialista autentico,1989,1,SOCIALISTA AUTÉNTICO,1,Socialista Auténtico,216,0.001,0.0,,,,,,,,,,
+AR-1995-PRES-1,menem,1995,1,MENEM - RUCKAUF,15,Alianza Frente Justicialista | Alianza Frente Justicialista - Unión del Centro Democrático | Alianza Frente Justicialista Entrerriano | Alianza Frente Justicialista Popular - Bloquista,8687511,49.939,1.0,1.0,2.0,conocimiento_general_verificar,1.0,Carlos S. Menem,1.997,9.425,3.834,5.431,49.9028131945482
+AR-1995-PRES-1,bordon,1995,1,BORDÓN - ÁLVAREZ,5,Alianza Cruzada Frente Grande - Frente País | Alianza Frente País Solidario | Alianza Frente País Solidario - Frente Grande | Alianza Frente País Solidario - Movimiento de Izquierda,5096104,29.297,0.0,,-1.0,conocimiento_general_verificar,-1.0,José O. Bordón,-15.217,6.522,8.696,21.739,29.2956174215002
+AR-1995-PRES-1,massaccesi,1995,1,MASSACCESI - HERNÁNDEZ,8,Alianza Unión Cívica Radical - Alianza del Pueblo | Alianza Unión Cívica Radical - Alianza para la Patagonia | Alianza Unión Cívica Radical - Movimiento de Integración y Desarrollo | Unión Cívica Radical,2956137,16.994,0.0,,0.0,conocimiento_general_verificar,0.0,Horacio Massacessi,-11.136,2.386,7.5,7.159,16.9935172195496
+AR-1995-PRES-1,rico,1995,1,RICO - FERNÁNDEZ PEZZANO,3,De la Independencia | Fuerza Republicana | Movimiento por la Dignidad y la Independencia,310069,1.783,0.0,,,,,,,,,,
+AR-1995-PRES-1,solanas,1995,1,SOLANAS - IMIZCOZ,3,Alianza Sur | Alianza Sur - Del Trabajo y del Pueblo | Del Trabajo y del Pueblo,71625,0.412,0.0,,,,,,,,,,
+AR-1995-PRES-1,lopez de zavalia,1995,1,LÓPEZ DE ZAVALÍA - BENEJAM,1,Fuerza Republicana,64007,0.368,0.0,,,,,,,,,,
+AR-1995-PRES-1,zamora,1995,1,ZAMORA - DÍAZ,1,Movimiento Socialista de los Trabajadores,45973,0.264,0.0,,,,,,,,,,
+AR-1995-PRES-1,altamira,1995,1,ALTAMIRA - MOLLE,8,Alianza Frente Unidad Trabajadora - Obrero | Alianza Frente Unidad Trabajadores - Obrero | Alianza Frente Unidad de los Trabajadores | Alianza Frente Unidad de los Trabajadores - Obrero,32299,0.185,0.0,,,,,,,,,,
+AR-1995-PRES-1,mazzitelli,1995,1,MAZZITELLI - FONSECA,1,Socialismo Auténtico,32174,0.185,0.0,,,,,,,,,,
+AR-1995-PRES-1,mendez,1995,1,MÉNDEZ - AMBROSIO,1,Humanista,31203,0.179,0.0,,,,,,,,,,
+AR-1995-PRES-1,christiansen,1995,1,CHRISTIANSEN - MONTES,5,Alianza Movimiento al Socialismo - De los Trabajadores Socialistas - Frente Obrero y Socialista | Alianza Movimiento al Socialismo - Frente Obrero Socialista - De los Trabajadores Socialistas | Movimiento al Socialismo - De los Trabajadores Socialistas - Frente Obrero | Movimiento al Socialismo – De los Trabajadores Socialistas,27643,0.16,0.0,,,,,,,,,,
+AR-1995-PRES-1,tumini,1995,1,TUMINI - REYNA,1,Corriente Patria Libre,24326,0.14,0.0,,,,,,,,,,
+AR-1995-PRES-1,santucho,1995,1,SANTUCHO - ANTOGNAZZI,2,Movimiento Democrático Popular Antiimperialista | Solidaridad - Movimiento Democrático Popular Antiimperialista,13066,0.075,0.0,,,,,,,,,,
+AR-1995-PRES-1,paz,1995,1,PAZ - GONZÁLEZ CHÁVEZ,1,Alianza Frente para la Coincidencia Patriótica,3147,0.018,0.0,,,,,,,,,,
+AR-1999-PRES-1,de la rua,1999,1,DE LA RÚA - ÁLVAREZ,5,"Alianza para el Trabajo, la Justicia y la Educación | Alianza para el Trabajo, la Justicia y la Educación - Alianza Pacto Autonomista Liberal Demócrata Progresista | Alianza para el Trabajo, la Justicia y la Educación - Alianza por San Juan | Alianza para el Trabajo, la Justicia y la Educación - Demócrata Progresista",9167220,48.366,0.0,,0.0,conocimiento_general_verificar,0.0,Fernando de la Rúa,-13.04,3.299,5.892,11.076,48.3652471608538
+AR-1999-PRES-1,duhalde,1999,1,DUHALDE - ORTEGA,9,Alianza Concertación Justicialista para el Cambio | Alianza Concertación Justicialista para el Cambio - Alianza Frente de Integración Federal - Unión del Centro Democrático | Alianza Concertación Justicialista para el Cambio - Alianza Justicialista - Federal | Alianza Concertación Justicialista para el Cambio - Alianza Unidos por un Nuevo Chaco - Frente de Integración Federal - Nacionalista Constitucional,7253902,38.271,1.0,0.0,-1.0,conocimiento_general_verificar,1.0,Eduardo Duhalde,-6.644,3.578,1.874,10.903,38.6865849521122
+AR-1999-PRES-1,cavallo,1999,1,CAVALLO - CARO FIGUEROA,2,Acción por la República | Acción por la República - Unión del Centro Democrático,1937544,10.222,0.0,,2.0,conocimiento_general_verificar,1.0,Domingo Cavallo,0.176,8.995,2.822,10.582,9.81265432035244
+AR-1999-PRES-1,walsh,1999,1,WALSH - DE LEONARDI,2,Alianza Izquierda Unida | Alianza Izquierda Unida - Comunista,151977,0.802,0.0,,,,,,,,,,
+AR-1999-PRES-1,mendez,1999,1,MÉNDEZ - POMP,2,Humanista,131811,0.695,0.0,,,,,,,,,,
+AR-1999-PRES-1,altamira,1999,1,ALTAMIRA - RIEZNIK,1,Obrero,113916,0.601,0.0,,,,,,,,,,
+AR-1999-PRES-1,reyna,1999,1,REYNA - MOCCIA,3,Alianza Frente de la Resistencia | Alianza Frente de la Resistencia - Corriente Patria Libre | Frente de la Resistencia,56493,0.298,0.0,,,,,,,,,,
+AR-1999-PRES-1,mussa,1999,1,MUSSA - HERRERA,1,Alianza Social Cristiana,53143,0.28,0.0,,,,,,,,,,
+AR-1999-PRES-1,montes,1999,1,MONTES - HERNÁNDEZ,1,De los Trabajadores Socialistas,44551,0.235,0.0,,,,,,,,,,
+AR-1999-PRES-1,quarracino,1999,1,QUARRACINO - REARTE,1,Socialista Auténtico,43147,0.228,0.0,,,,,,,,,,
+AR-2003-PRES-1,menem,2003,1,MENEM - ROMERO,1,Alianza Frente por la Lealtad - Unión del Centro Democrático,4741202,24.453,0.0,,2.0,fuente_citada,1.0,Carlos S. Menem,-7.958,5.19,2.768,10.727,24.25
+AR-2003-PRES-1,kirchner,2003,1,KIRCHNER - SCIOLI,1,Alianza Frente para la Victoria,4313131,22.246,1.0,0.0,-1.0,fuente_citada,-1.0,Néstor C.  Kirchner,-22.667,4.0,8.0,9.333,22.24
+AR-2003-PRES-1,lopez murphy,2003,1,LÓPEZ MURPHY - GÓMEZ DIEZ,1,Alianza Movimiento Federal para Recrear el Crecimiento,3173584,16.368,0.0,,2.0,fuente_citada,1.0,Ricardo López Murphy,-0.381,7.333,0.286,3.048,16.37
+AR-2003-PRES-1,rodriguez saa,2003,1,RODRÍGUEZ SAÁ - POSSE,2,Alianza Frente Movimiento Popular - Unión y Libertad,2736091,14.112,0.0,,-1.0,fuente_citada,1.0,Adolfo Rodriguez Saá,4.167,8.333,0.0,12.5,14.11
+AR-2003-PRES-1,carrio,2003,1,CARRIÓ - GUTIÉRREZ,2,Alianza Afirmación para una República Igualitaria,2723207,14.046,0.0,,-1.0,fuente_citada,0.0,Elisa M. A. Carrió,-26.135,2.489,5.857,13.763,14.1
+AR-2003-PRES-1,moreau,2003,1,MOREAU - LOSADA,1,Unión Cívica Radical,453373,2.338,0.0,,,,,,,,,,
+AR-2003-PRES-1,walsh,2003,1,WALSH - PARRILLI,1,Alianza Izquierda Unida,332703,1.716,0.0,,,,,,,,,,
+AR-2003-PRES-1,bravo,2003,1,BRAVO - GIUSTINIANI,1,Socialista,217387,1.121,0.0,,,,,,,,,,
+AR-2003-PRES-1,altamira,2003,1,ALTAMIRA - SALAS,1,Obrero,139402,0.719,0.0,,,,,,,,,,
+AR-2003-PRES-1,venturino,2003,1,VENTURINO - PINTO KRAMER,1,Confederación para que se vayan todos,129782,0.669,0.0,,,,,,,,,,
+AR-2003-PRES-1,sulling,2003,1,SULLING - AMBROSIO,1,Humanista,105705,0.545,0.0,,,,,,,,,,
+AR-2003-PRES-1,arcagni,2003,1,ARCAGNI - ZENOF,2,Alianza Tiempos de Cambio | Alianza Tiempos de Cambio - Unión Popular,63386,0.327,0.0,,,,,,,,,,
+AR-2003-PRES-1,mazzitelli,2003,1,MAZZITELLI - CAMPS,2,Confederación para que se vayan todos | Socialista Auténtico,50303,0.259,0.0,,,,,,,,,,
+AR-2003-PRES-1,zaffore,2003,1,ZAFFORE - PERIE,1,Movimiento de Integración y Desarrollo,47954,0.247,0.0,,,,,,,,,,
+AR-2003-PRES-1,herrera,2003,1,HERRERA - CÚNEO,1,Demócrata Cristiano,47755,0.246,0.0,,,,,,,,,,
+AR-2003-PRES-1,breide obeid,2003,1,BREIDE OBEID - VASENA,2,Popular de la Reconstrucción,42461,0.219,0.0,,,,,,,,,,
+AR-2003-PRES-1,mussa,2003,1,MUSSA - SUÁREZ,1,Alianza Unidos o Dominados,39505,0.204,0.0,,,,,,,,,,
+AR-2003-PRES-1,teran,2003,1,TERÁN - BONACCI,1,Movimiento por la Dignidad y la Independencia,31766,0.164,0.0,,,,,,,,,,
+AR-2007-PRES-1,fernandez de kirchner,2007,1,FERNÁNDEZ DE KIRCHNER - COBOS,1,Alianza Frente para la Victoria,8652293,45.283,1.0,0.0,-1.0,fuente_citada,0.0,Cristina Fernández de Kirchner,-20.755,1.887,11.321,13.208,44.69
+AR-2007-PRES-1,carrio,2007,1,CARRIÓ - GIUSTINIANI,1,Alianza Confederación Coalición Cívica,4403642,23.047,0.0,,-1.0,fuente_citada,1.0,Elisa Carrió,-11.006,0.0,2.83,10.063,23.07
+AR-2007-PRES-1,lavagna,2007,1,LAVAGNA - MORALES,1,Alianza Concertación para una Nación Avanzada,3230236,16.906,0.0,,0.0,conocimiento_general_verificar,0.0,Roberto Lavagna,-13.213,0.3,3.303,17.117,16.96
+AR-2007-PRES-1,rodriguez saa,2007,1,RODRÍGUEZ SAÁ - MAYA,1,"Alianza Frente Justicia, Unión y Libertad",1459174,7.637,0.0,,1.0,fuente_citada,1.0,Alberto J. Rodriguez Saa,-26.923,0.0,0.0,15.385,7.76
+AR-2007-PRES-1,solanas,2007,1,SOLANAS - CADELLI,1,Socialista Auténtico,301537,1.578,0.0,,-2.0,conocimiento_general_verificar,-1.0,,,,,,
+AR-2007-PRES-1,lopez murphy,2007,1,LÓPEZ MURPHY - BULLRICH,1,Recrear para el Crecimiento,273406,1.431,0.0,,1.0,fuente_citada,,,,,,,
+AR-2007-PRES-1,sobisch,2007,1,SOBISCH - ASÍS,4,El Movimiento de las Provincias Unidas - Unión Popular - Movimiento de Acción Vecinal - Movimiento por la Dignidad y la Independencia | El Movimiento de las Provincias Unidas - Unión Popular - Movimiento de Acción Vecinal - Unión Popular | El Movimiento de las Provincias Unidas - Unión Popular - Movimiento por la Dignidad y la Independencia | El Movimiento de las Provincias Unidas - Unión Popular - Movimiento por la Dignidad y la Independencia - Movimiento Independiente de Jubilados y Desocupados,268401,1.405,0.0,,,,,,,,,,
+AR-2007-PRES-1,ripoll,2007,1,RIPOLL - BIDONDE,1,Movimiento Socialista de los Trabajadores,142528,0.746,0.0,,,,,,,,,,
+AR-2007-PRES-1,pitrola,2007,1,PITROLA - ARROYOS,1,Obrero,116688,0.611,0.0,,,,,,,,,,
+AR-2007-PRES-1,montes,2007,1,MONTES - HEBERLING,2,Alianza Frente de los Trabajadores Socialistas - Movimiento al Socialismo - Izquierda Socialista | Frente De Izquierda,84694,0.443,0.0,,,,,,,,,,
+AR-2007-PRES-1,ammann,2007,1,AMMANN - DELEONARDI,1,Alianza Frente Amplio hacia la Unidad Latinoamericana,69787,0.365,0.0,,,,,,,,,,
+AR-2007-PRES-1,castells,2007,1,CASTELLS - PELOZO,1,Movimiento Independiente de Jubilados y Desocupados,48878,0.256,0.0,,,,,,,,,,
+AR-2007-PRES-1,breide obeid,2007,1,BREIDE OBEID - VERGARA,1,Popular de la Reconstrucción,45318,0.237,0.0,,,,,,,,,,
+AR-2007-PRES-1,mussa,2007,1,MUSSA - NESPRAL,1,Confederación Lealtad Popular,10558,0.055,0.0,,,,,,,,,,
+AR-2011-PRES-1,fernandez de kirchner,2011,1,FERNÁNDEZ DE KIRCHNER - BOUDOU,1,Alianza Frente para la Victoria,11865055,54.111,1.0,1.0,-1.0,fuente_citada,-1.0,Cristina Fernández de Kirchner,-3.425,0.0,4.11,15.068,54.11
+AR-2011-PRES-1,binner,2011,1,BINNER - MORANDINI,1,Alianza Frente Amplio Progresista,3684970,16.805,0.0,,-1.0,conocimiento_general_verificar,-1.0,Hermes J. Binner,-17.351,0.746,3.172,18.284,16.81
+AR-2011-PRES-1,alfonsin,2011,1,ALFONSÍN - GONZÁLEZ FRAGA,1,Alianza Unión para el Desarrollo Social,2443016,11.141,0.0,,-1.0,conocimiento_general_verificar,0.0,Ricardo L. Alfonsín,-13.333,0.513,4.615,16.923,11.15
+AR-2011-PRES-1,rodriguez saa,2011,1,RODRÍGUEZ SAÁ - VERNET,1,Alianza Compromiso Federal,1745354,7.96,0.0,,-1.0,conocimiento_general_verificar,1.0,Alberto J. Rodriguez Saa,1.245,2.439,0.882,9.081,8.0
+AR-2011-PRES-1,duhalde,2011,1,DUHALDE - DAS NEVES,1,Alianza Frente Popular,1285830,5.864,0.0,,-1.0,conocimiento_general_verificar,1.0,Eduardo Duhalde,-50.0,0.0,0.926,27.778,5.86
+AR-2011-PRES-1,altamira,2011,1,ALMARIRA - CASTILLO,3,Alianza Frente de Izquierda y de los Trabajadores,503372,2.296,0.0,,,,,,,,,,
+AR-2011-PRES-1,carrio,2011,1,CARRIÓ - PÉREZ,1,Coalición Cívica - Afirmación para una República Igualitaria,399685,1.823,0.0,,,,,,,,,,
+AR-2015-PRES-1,daniel scioli,2015,1,Daniel Scioli - Carlos Zannini,1,ALIANZA FRENTE PARA LA VICTORIA,9338490,37.081,1.0,0.0,-1.0,fuente_citada,0.0,Daniel Osvaldo Scioli,-31.233,1.644,2.74,15.616,37.0806651155124
+AR-2015-PRES-1,mauricio macri,2015,1,Mauricio Macri - Gabriela Michetti,1,ALIANZA CAMBIEMOS,8601131,34.153,0.0,,1.0,fuente_citada,0.0,Mauricio Macri,-21.354,2.083,2.083,25.0,34.1528082404813
+AR-2015-PRES-1,sergio massa,2015,1,Sergio Massa - Gustavo Sáenz,1,ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA (UNA),5386977,21.39,0.0,,1.0,fuente_citada,1.0,Sergio Tomás Massa,8.333,5.556,3.395,8.642,21.3902558252959
+AR-2015-PRES-1,nicolas del cano,2015,1,Nicolás del Caño - Myriam Bregman,1,ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES,812530,3.226,0.0,,-2.0,conocimiento_general_verificar,-2.0,,,,,,
+AR-2015-PRES-1,margarita stolbizer,2015,1,Margarita Stolbizer - Miguel Ángel Olaviaga,1,ALIANZA PROGRESISTAS,632551,2.512,0.0,,,,,,,,,,
+AR-2015-PRES-1,adolfo rodriguez saa,2015,1,Adolfo Rodríguez Saá - Liliana Negre de Alonso,1,ALIANZA COMPROMISO FEDERAL,412578,1.638,0.0,,,,,,,,,,
+AR-2015-PRES-2,mauricio macri,2015,2,Mauricio Macri - Gabriela Michetti,1,ALIANZA CAMBIEMOS,12988349,51.342,0.0,,1.0,fuente_citada,0.0,Mauricio Macri,-21.354,2.083,2.083,25.0,34.1528082404813
+AR-2015-PRES-2,daniel scioli,2015,2,Daniel Scioli - Carlos Zannini,1,ALIANZA FRENTE PARA LA VICTORIA,12309575,48.658,1.0,0.0,-1.0,fuente_citada,0.0,Daniel Osvaldo Scioli,-31.233,1.644,2.74,15.616,37.0806651155124
+AR-2019-PRES-1,alberto fernandez,2019,1,Alberto Fernández - Cristina Fernández de Kirchner,1,FRENTE DE TODOS,12946037,48.237,0.0,,-1.0,fuente_citada,-1.0,Alberto Fernández,-32.366,0.67,7.143,22.098,48.24
+AR-2019-PRES-1,mauricio macri,2019,1,Mauricio Macri - Miguel Ángel Pichetto,1,JUNTOS POR EL CAMBIO,10811586,40.284,1.0,1.0,1.0,conocimiento_general_verificar,0.0,Mauricio Macri,-0.862,6.466,2.586,13.793,40.28
+AR-2019-PRES-1,roberto lavagna,2019,1,Roberto Lavagna - Juan Manuel Urtubey,1,CONSENSO FEDERAL,1649322,6.145,0.0,,0.0,fuente_citada,0.0,Roberto Lavagna,-20.859,3.067,9.816,11.656,6.14
+AR-2019-PRES-1,nicolas del cano,2019,1,Nicolás del Caño - Romina del Plá,1,FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD,579228,2.158,0.0,,-2.0,fuente_citada,-2.0,,,,,,
+AR-2019-PRES-1,juan jose gomez centurion,2019,1,Juan José Gómez Centurión - Cynthia Hotton,1,FRENTE NOS,457956,1.706,0.0,,,,2.0,,,,,,
+AR-2019-PRES-1,jose luis espert,2019,1,José Luis Espert - Luis Rosales,1,UNITE POR LA LIBERTAD Y LA DIGNIDAD,394207,1.469,0.0,,2.0,fuente_citada,1.0,,,,,,
+AR-2023-PRES-1,sergio massa,2023,1,Sergio Massa - Agustín Rossi,1,UNION POR LA PATRIA,9645983,36.688,1.0,0.0,-1.0,fuente_citada,-1.0,,,,,,
+AR-2023-PRES-1,javier milei,2023,1,Javier Milei - Victoria Villarruel,1,LA LIBERTAD AVANZA,7884336,29.988,0.0,,2.0,fuente_citada,2.0,,,,,,
+AR-2023-PRES-1,patricia bullrich,2023,1,Patricia Bullrich - Luis Petri,1,JUNTOS POR EL CAMBIO,6267152,23.837,0.0,,1.0,fuente_citada,1.0,,,,,,
+AR-2023-PRES-1,juan schiaretti,2023,1,Juan Schiaretti,1,HACEMOS POR NUESTRO PAIS,1784315,6.787,0.0,,0.0,fuente_citada,0.0,,,,,,
+AR-2023-PRES-1,myriam bregman,2023,1,Myriam Bregman - Nicolás del Caño,1,FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD,709932,2.7,0.0,,-2.0,fuente_citada,-2.0,,,,,,
+AR-2023-PRES-2,javier milei,2023,2,Javier Milei - Victoria Villarruel,1,LA LIBERTAD AVANZA,14476462,55.695,0.0,,2.0,fuente_citada,2.0,,,,,,
+AR-2023-PRES-2,sergio massa,2023,2,Sergio Massa - Agustín Rossi,1,UNION POR LA PATRIA,11516142,44.305,1.0,0.0,-1.0,fuente_citada,-1.0,,,,,,

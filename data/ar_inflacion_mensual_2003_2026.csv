@@ -1,0 +1,273 @@
+pais,periodo,ipc_mensual_pct,indice_base_nov2003_100,inflacion_interanual_pct,tramo,fuente
+AR,2003-12,0.2,100.2,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-01,0.4,100.6008,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-02,0.1,100.7014,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-03,0.6,101.3056,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-04,0.9,102.2174,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-05,0.7,102.9329,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-06,0.6,103.5505,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-07,0.5,104.0682,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-08,0.3,104.3804,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-09,0.6,105.0067,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-10,0.4,105.4267,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-11,0.0,105.4267,,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2004-12,0.8,106.2702,6.06,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-01,1.5,107.8642,7.22,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-02,0.9,108.835,8.08,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-03,1.5,110.4675,9.04,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-04,0.5,111.0199,8.61,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-05,0.6,111.686,8.5,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-06,0.9,112.6911,8.83,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-07,1.0,113.8181,9.37,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-08,0.4,114.2733,9.48,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-09,1.2,115.6446,10.13,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-10,0.8,116.5698,10.57,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-11,1.2,117.9686,11.9,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2005-12,1.1,119.2663,12.23,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-01,1.3,120.8167,12.01,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-02,0.4,121.3,11.45,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-03,1.2,122.7556,11.12,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-04,1.0,123.9831,11.68,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-05,0.5,124.6031,11.57,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-06,0.5,125.2261,11.12,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-07,0.6,125.9774,10.68,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-08,0.6,126.7333,10.9,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-09,0.9,127.8739,10.57,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-10,0.9,129.0248,10.68,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-11,0.7,129.9279,10.14,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2006-12,1.0,131.2272,10.03,INDEC_pre_intervencion,INDEC (IPC oficial)
+AR,2007-01,1.1298,132.7098,9.84,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-02,0.481,133.3482,9.93,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-03,1.0417,134.7374,9.76,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-04,2.2682,137.7935,11.14,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-05,2.0835,140.6644,12.89,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-06,2.6554,144.3997,15.31,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-07,2.5511,148.0835,17.55,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-08,3.3215,153.0021,20.73,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-09,2.0042,156.0685,22.05,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-10,1.4307,158.3015,22.69,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-11,-0.403,157.6635,21.35,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2007-12,0.979,159.207,21.32,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-01,2.023,162.4278,22.39,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-02,2.2363,166.0601,24.53,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-03,4.0649,172.8104,28.26,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-04,2.9892,177.976,29.16,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-05,0.2486,178.4184,26.84,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-06,2.4223,182.7402,26.55,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-07,1.4021,185.3025,25.13,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-08,0.8163,186.8151,22.1,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-09,1.0796,188.8319,20.99,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-10,0.5831,189.933,19.98,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-11,0.6393,191.1472,21.24,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2008-12,0.4468,192.0012,20.6,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-01,1.1576,194.2239,19.58,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-02,-0.0106,194.2033,16.95,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-03,2.3367,198.7412,15.01,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-04,1.8225,202.3633,13.7,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-05,0.8644,204.1126,14.4,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-06,0.5293,205.193,12.29,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-07,1.003,207.251,11.84,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-08,1.8569,211.0995,13.0,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-09,1.5403,214.3511,13.51,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-10,1.661,217.9115,14.73,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-11,1.1475,220.412,15.31,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2009-12,3.2026,227.4709,18.47,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-01,2.2166,232.513,19.71,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-02,4.3548,242.6384,24.94,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-03,2.6293,249.0182,25.3,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-04,1.3678,252.4242,24.74,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-05,1.5817,256.4167,25.63,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-06,1.0875,259.2053,26.32,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-07,1.4649,263.0023,26.9,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-08,1.0603,265.7909,25.91,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-09,1.5873,270.0098,25.97,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-10,3.266,278.8283,27.95,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-11,1.8969,284.1174,28.9,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2010-12,1.7022,288.9537,27.03,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-01,1.1004,292.1333,25.64,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-02,1.0778,295.2821,21.7,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-03,2.6589,303.1333,21.73,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-04,2.5968,311.0052,23.21,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-05,1.7403,316.4177,23.4,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-06,1.5057,321.182,23.91,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-07,1.7397,326.7695,24.25,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-08,2.431,334.7134,25.93,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-09,1.9183,341.1343,26.34,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-10,1.101,344.8902,23.69,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-11,1.3903,349.6853,23.08,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2011-12,1.8656,356.2092,23.28,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-01,1.1555,360.3252,23.34,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-02,1.4707,365.6245,23.82,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-03,3.3885,378.0137,24.7,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-04,2.0008,385.5769,23.98,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-05,1.9081,392.9342,24.18,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-06,1.3356,398.1821,23.97,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-07,2.4835,408.0708,24.88,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-08,1.6658,414.8685,23.95,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-09,1.5346,421.2353,23.48,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-10,1.4844,427.4881,23.95,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-11,1.986,435.9778,24.68,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2012-12,1.5771,442.8535,24.32,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-01,1.9808,451.6257,25.34,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-02,1.7999,459.7544,25.74,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-03,2.012,469.0047,24.07,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-04,1.8199,477.5401,23.85,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-05,1.7022,485.6688,23.6,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-06,2.1155,495.943,24.55,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-07,2.3588,507.6416,24.4,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-08,1.7573,516.5626,24.51,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-09,1.7457,525.5804,24.77,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-10,2.3128,537.7358,25.79,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-11,2.5671,551.5399,26.51,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2013-12,2.7994,566.9794,28.03,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-01,4.1121,590.2944,30.7,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-02,5.806,624.5666,35.85,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-03,3.6387,647.2927,38.01,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-04,2.4903,663.4121,38.92,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-05,2.5318,680.2082,40.06,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-06,2.0672,694.2695,39.99,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-07,1.7892,706.691,39.21,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-08,2.4474,723.9864,40.15,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-09,2.5363,742.3486,41.24,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-10,1.5267,753.6817,40.16,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-11,1.5361,765.2593,38.75,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2014-12,1.364,775.6977,36.81,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-01,2.2104,792.8441,34.31,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-02,1.6371,805.8235,29.02,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-03,1.8575,820.7914,26.8,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-04,2.0766,837.8358,26.29,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-05,1.7928,852.8568,25.38,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-06,1.2489,863.5085,24.38,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-07,2.0618,881.3119,24.71,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-08,1.8036,897.2071,23.93,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-09,1.9601,914.7929,23.23,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-10,1.4437,927.9993,23.13,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-11,2.3296,949.6176,24.09,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2015-12,5.2727,999.6879,28.88,IPC_San_Luis,"IPC San Luis, datos.gob.ar id 197.1_NIVEL_GENERAL_2014_0_13 (no intervenido); empalme del usuario"
+AR,2016-01,4.1,1040.6751,31.26,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-02,2.7,1068.7734,32.63,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-03,3.0,1100.8366,34.12,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-04,3.4,1138.265,35.86,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-05,4.2,1186.0722,39.07,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-06,3.1,1222.8404,41.61,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-07,2.0,1247.2972,41.53,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-08,0.2,1249.7918,39.3,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-09,1.1,1263.5395,38.12,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-10,2.4,1293.8644,39.43,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-11,1.6,1314.5663,38.43,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2016-12,1.2,1330.3411,33.08,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-01,1.3,1347.6355,29.5,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-02,2.5,1381.3264,29.24,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-03,2.4,1414.4782,28.49,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-04,2.6,1451.2547,27.5,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-05,1.3,1470.121,23.95,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-06,1.2,1487.7624,21.66,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-07,1.7,1513.0544,21.31,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-08,1.4,1534.2371,22.76,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-09,1.9,1563.3877,23.73,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-10,1.5,1586.8385,22.64,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-11,1.4,1609.0542,22.4,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2017-12,3.1,1658.9349,24.7,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-01,1.8,1688.7957,25.32,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-02,2.4,1729.3268,25.19,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-03,2.3,1769.1013,25.07,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-04,2.7,1816.8671,25.19,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-05,2.1,1855.0213,26.18,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-06,3.7,1923.6571,29.3,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-07,3.1,1983.2904,31.08,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-08,3.9,2060.6388,34.31,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-09,6.5,2194.5803,40.37,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-10,5.4,2313.0876,45.77,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-11,3.2,2387.1064,48.35,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2018-12,2.6,2449.1712,47.64,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-01,2.9,2520.1971,49.23,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-02,3.8,2615.9646,51.27,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-03,4.7,2738.915,54.82,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-04,3.4,2832.0381,55.87,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-05,3.1,2919.8313,57.4,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-06,2.7,2998.6667,55.88,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-07,2.2,3064.6374,54.52,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-08,4.0,3187.2229,54.67,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-09,5.9,3375.269,53.8,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-10,3.3,3486.6529,50.74,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-11,4.3,3636.579,52.34,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2019-12,3.7,3771.1324,53.98,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-01,2.3,3857.8684,53.08,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-02,2.0,3935.0258,50.42,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-03,3.3,4064.8817,48.41,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-04,1.5,4125.8549,45.69,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-05,1.5,4187.7427,43.42,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-06,2.2,4279.8731,42.73,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-07,1.9,4361.1906,42.31,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-08,2.7,4478.9428,40.53,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-09,2.8,4604.3532,36.41,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-10,3.8,4779.3186,37.07,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-11,3.2,4932.2568,35.63,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2020-12,4.0,5129.5471,36.02,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-01,4.0,5334.729,38.28,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-02,3.6,5526.7792,40.45,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-03,4.8,5792.0646,42.49,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-04,4.1,6029.5392,46.14,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-05,3.3,6228.514,48.73,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-06,3.2,6427.8265,50.19,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-07,3.0,6620.6613,51.81,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-08,2.5,6786.1778,51.51,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-09,3.5,7023.694,52.54,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-10,3.5,7269.5233,52.1,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-11,2.5,7451.2614,51.07,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2021-12,3.8,7734.4094,50.78,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-01,3.9,8036.0513,50.64,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-02,4.7,8413.7457,52.24,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-03,6.7,8977.4667,55.0,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-04,6.0,9516.1147,57.82,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-05,5.1,10001.4365,60.58,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-06,5.3,10531.5127,63.84,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-07,7.4,11310.8446,70.84,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-08,7.0,12102.6037,78.34,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-09,6.2,12852.9652,82.99,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-10,6.3,13662.702,87.94,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-11,4.9,14332.1744,92.35,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2022-12,5.1,15063.1153,94.75,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-01,6.0,15966.9022,98.69,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-02,6.6,17020.7177,102.3,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-03,7.7,18331.313,104.19,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-04,8.4,19871.1433,108.82,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-05,7.8,21421.0925,114.18,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-06,6.0,22706.358,115.6,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-07,6.3,24136.8586,113.4,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-08,12.4,27129.829,124.17,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-09,12.7,30575.3173,137.89,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-10,8.3,33113.0687,142.36,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-11,12.8,37351.5414,160.61,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2023-12,25.5,46876.1845,211.2,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-01,20.6,56532.6785,254.06,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-02,13.2,63994.9921,275.98,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-03,11.0,71034.4412,287.5,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-04,8.8,77285.472,288.93,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-05,4.2,80531.4619,275.94,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-06,4.6,84235.9091,270.98,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-07,4.0,87605.3455,262.95,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-08,4.2,91284.77,236.47,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-09,3.5,94479.7369,209.01,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-10,2.7,97030.6898,193.03,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-11,2.4,99359.4264,166.01,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2024-12,2.7,102042.1309,117.68,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-01,2.2,104287.0578,84.47,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-02,2.4,106789.9472,66.87,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-03,3.7,110741.1752,55.9,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-04,2.8,113841.9281,47.3,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-05,1.5,115549.557,43.48,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-06,1.6,117398.35,39.37,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-07,1.9,119628.9186,36.55,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-08,1.9,121901.8681,33.54,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-09,2.1,124461.8073,31.73,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-10,2.3,127324.4289,31.22,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-11,2.5,130507.5396,31.35,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2025-12,2.8,134161.7507,31.48,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-01,2.9,138052.4415,32.38,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-02,2.9,142055.9623,33.02,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-03,3.4,146885.865,32.64,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-04,2.6,150704.8975,32.38,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-05,2.1,153869.7003,33.16,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-06,1.9,156793.2246,33.56,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
+AR,2026-07,2.1,160085.8823,33.82,INDEC,INDEC (IPC GBA/Nacional); empalme del usuario
