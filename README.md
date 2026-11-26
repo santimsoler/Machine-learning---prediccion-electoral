@@ -35,3 +35,11 @@ Los scripts se corrieron sobre una carpeta de trabajo con `final/`, `data_amplia
 - Candidatos menores de varias elecciones de Costa Rica, Panamá y México 1994 con porcentajes aproximados; juicios de ideología marcados como pendientes (Costa Rica 2022 y 2026, Panamá 2019 y 2024).
 - Sin regional para Ecuador, Panamá, Costa Rica 2018 (segunda vuelta), 2022 y 2026; sin pobreza regional de México y Costa Rica.
 - 8 elecciones con oficialismo dudoso (`oficialismo_dudoso = 1`).
+
+## Segunda entrega (Big Data, Machine Learning e IA – FCE-UBA)
+Regresión del voto nacional del oficialismo con validación temporal en ventana expansiva, hiperparámetros con validación interna, imputación dentro del pipeline, un único benchmark (promedio histórico por vuelta), una fuente de texto (Wikipedia) y conjunto de prueba (2022–2026) evaluado una sola vez.
+- **Informe:** `docs/segunda_entrega_determinantes_voto.pdf`
+- **Notebook (reproduce todo):** `notebooks/entrega2_notebook.ipynb` – abrir en Colab: https://colab.research.google.com/github/santimsoler/Machine-learning---prediccion-electoral/blob/main/notebooks/entrega2_notebook.ipynb
+- **Scripts:** `scripts/entrega2/` (`e2_core.py` núcleo de validación; `e2_stage1…9` etapas; `colab_texto_wikipedia.py` descarga y conteo del texto).
+- **Datos nuevos:** `data/texto_conteos.csv` (conteos de diccionario por elección, desde Wikipedia), `data/fuerza_partido_previa.csv` (fuerza histórica del partido oficialista).
+- **Resultados:** `results/entrega2/` (tablas de validación, prueba, ablación, robustez).
